@@ -1,7 +1,7 @@
 clear; clc;
 
 %Indlæs filen i variablen y ved brug af audioread:
-[y, Fsample] = audioread('Motorcycle Engine-SoundBible.com-295926986.mp3');
+[y, Fsample] = audioread('Vind.wav');
 
 % ***** Roter matrixen 90 grader ********************************
 B = rot90(y);
@@ -42,16 +42,16 @@ W = fft(x_hann,N);
 figure(1); clf
 subplot(2,2,1);
 semilogx(20*log10(abs((2/N)*X(1:0.5*end))))
-xlabel('Samplebin')
+xlabel('Samplebins')
 ylabel('Størrelse i dB ift. 1 Volt')
 title('Motorcykel DFT-signal')
 grid on
 
 subplot(2,2,2);
-semilogx(20*log10(abs(W(1:0.5*end))))
-xlabel('Samplebin')
+semilogx(20*log10(abs((2/N)*W(1:0.5*end))))
+xlabel('Samplebins')
 ylabel('Størrelse i dB ift. 1 Volt')
-title('Motorcykels med Hanning vindue')
+title('Motorcykel med Hanning vindue')
 grid on
 
 subplot(2,2,3);
