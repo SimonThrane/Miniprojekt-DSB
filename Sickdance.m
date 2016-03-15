@@ -1,7 +1,7 @@
 clear; clc;
 
 %Indlæs filen i variablen y ved brug af audioread:
-[y, Fsample] = audioread('box.wav');
+[y, Fsample] = audioread('Sick-dance-bass.wav');
 
 % ***** Roter matrixen 90 grader ********************************
 B = rot90(y);
@@ -43,14 +43,14 @@ subplot(2,2,1);
 semilogx(20*log10(abs((2/N)*X(1:0.5*(end-1)))))
 xlabel('Samplebins')
 ylabel('Størrelse i dB ift. 1 Volt')
-title('Musikbox DFT-signal')
+title('Bass DFT-signal')
 grid on
 
 subplot(2,2,2);
 semilogx(20*log10(abs((2/N)*W(1:0.5*(end-1)))))
 xlabel('Samplebins')
 ylabel('Størrelse i dB ift. 1 Volt')
-title('Musikbox med Hanning vindue')
+title('Bass med Hanning vindue')
 grid on
 
 subplot(2,2,3);
@@ -64,7 +64,7 @@ subplot(2,2,4);
 plot(x)
 xlabel('Samples')
 ylabel('Amplitude (volt)')
-title('Originalsignal Musikbox')
+title('Originalsignal Bass')
 grid on
 
 
