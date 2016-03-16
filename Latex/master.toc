@@ -6,25 +6,31 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Analysebeskrivelse}{3}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.0.1}Fouriertransformationen}{3}{subsection.2.0.1}
+\contentsline {subsection}{\numberline {2.0.1}Vinduesfunktioner}{3}{subsection.2.0.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.0.2}Fouriertransformationen}{3}{subsection.2.0.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.0.3}Aliasering}{3}{subsection.2.0.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.0.4}Udglatning}{3}{subsection.2.0.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Analyse}{4}{chapter.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}Motor}{4}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Klaver}{5}{section.3.2}
+\contentsline {section}{\numberline {3.2}Klaver}{8}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Symfoni}{7}{section.3.3}
+\contentsline {section}{\numberline {3.3}Symfoni}{12}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Bass}{7}{section.3.4}
+\contentsline {section}{\numberline {3.4}Bass}{16}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Vinglas}{7}{section.3.5}
+\contentsline {section}{\numberline {3.5}Vinglas}{20}{section.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Vindm\IeC {\o }lle}{7}{section.3.6}
+\contentsline {section}{\numberline {3.6}Vindm\IeC {\o }lle}{22}{section.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.7}Musikbox}{7}{section.3.7}
+\contentsline {section}{\numberline {3.7}Musikbox}{22}{section.3.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.8}ECG-signal}{7}{section.3.8}
+\contentsline {section}{\numberline {3.8}ECG-signal}{22}{section.3.8}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Resultat og Diskussion}{23}{chapter.4}
 \defcounter {refsection}{0}\relax 

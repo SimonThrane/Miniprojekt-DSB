@@ -1,18 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.24)  16 MAR 2016 11:59
-=======
-<<<<<<< HEAD
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.9)  16 MAR 2016 11:47
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.18)  16 MAR 2016 11:54
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.18)  16 MAR 2016 12:05
->>>>>>> a17d91d89cf1ba3fc73b78448ae6caf0c9028581
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.24)  16 MAR 2016 12:17
 entering extended mode
-<<<<<<< HEAD
 **./master.tex
 (master.tex
 LaTeX2e <2015/10/01> patch level 2
@@ -25,26 +12,6 @@ Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size11.
 clo"
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
-=======
-**master.tex
-(C:\Users\Spacedick\Miniprojekt-DSB\Latex\master.tex
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
-(C:\Users\Spacedick\Miniprojekt-DSB\Latex\setup/preamble.tex
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
-Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
-File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -59,7 +26,6 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputen
 c.sty"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
@@ -69,29 +35,15 @@ Package: inputenc 2015/03/17 v1.2c Input encoding file
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.de
 f"
 File: utf8.def 2015/09/07 v1.1p UTF-8 support for inputenc
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
-Package: inputenc 2008/03/30 v1.1d Input encoding file
-\inpenc@prehook=\toks14
-\inpenc@posthook=\toks15
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
-File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.d
 fu"
 File: t1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
-File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00AB (decimal 171)
@@ -249,15 +201,10 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.
 dfu"
 File: ot1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
-File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00AD (decimal 173)
@@ -296,14 +243,9 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.
 dfu"
 File: omsenc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
-File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -326,14 +268,9 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babe
 l.sty"
 Package: babel 2016/01/08 3.9n The Babel package
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2008/07/08 v3.8m The Babel package
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 
 *************************************
 * Local config file bblopts.cfg used
@@ -343,7 +280,6 @@ Package: babel 2008/07/08 v3.8m The Babel package
 opts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-danish
 \danish.ldf"
 Language: danish 2009/09/19 v1.3r Danish support from the babel system
@@ -351,18 +287,20 @@ Language: danish 2009/09/19 v1.3r Danish support from the babel system
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babe
 l.def"
 File: babel.def 2016/01/08 3.9n Babel common definitions
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\danish.ldf"
-Language: danish 2009/09/19 v1.3r Danish support from the babel system
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2008/07/08 v3.8m Babel common definitions
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 \babel@savecnt=\count88
 \U@D=\dimen103
 )
 Package babel Info: Making " an active character on input line 82.
 ))
+("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.
+sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count89
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+)
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\mathp
 azo.sty"
 Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
@@ -375,7 +313,7 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.d
 ef"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolo
 r.sty"
@@ -399,7 +337,7 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 txcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count89
+\Gread@gobject=\count90
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
@@ -411,7 +349,6 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\gra
 phicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
@@ -419,22 +356,11 @@ Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\key
 val.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
+\KV@toks@=\toks18
 )
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\gra
 phics.sty"
 Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-\KV@toks@=\toks16
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\tri
 g.sty"
@@ -444,12 +370,11 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 phics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: pdftex.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 94.
 )
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\capt
 ion.sty"
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
@@ -458,69 +383,56 @@ Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 ion3.sty"
 Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
-Package: caption 2012/02/19 v3.2f Customizing captions (AR)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
-Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 \captionmargin=\dimen106
 \captionmargin@=\dimen107
 \captionwidth=\dimen108
-\caption@indent=\dimen109
-\caption@parindent=\dimen110
-\caption@hangindent=\dimen111
+\caption@tempdima=\dimen109
+\caption@indent=\dimen110
+\caption@parindent=\dimen111
+\caption@hangindent=\dimen112
 )
-\c@ContinuedFloat=\count90
+\c@ContinuedFloat=\count91
+Package caption Info: float package is loaded.
 )
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.
 sty"
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen113
 \extrarowheight=\dimen114
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
-Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen112
-\extrarowheight=\dimen113
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
-\NC@list=\toks17
+\NC@list=\toks19
 \extratabsurround=\skip43
 \backup@length=\skip44
 )
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\boo
 ktabs.sty"
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen114
-\lightrulewidth=\dimen115
-\cmidrulewidth=\dimen116
-\belowrulesep=\dimen117
-\belowbottomsep=\dimen118
-\aboverulesep=\dimen119
-\abovetopsep=\dimen120
-\cmidrulesep=\dimen121
-\cmidrulekern=\dimen122
-\defaultaddspace=\dimen123
-\@cmidla=\count91
-\@cmidlb=\count92
-\@aboverulesep=\dimen124
-\@belowrulesep=\dimen125
-\@thisruleclass=\count93
-\@lastruleclass=\count94
-\@thisrulewidth=\dimen126
+\heavyrulewidth=\dimen115
+\lightrulewidth=\dimen116
+\cmidrulewidth=\dimen117
+\belowrulesep=\dimen118
+\belowbottomsep=\dimen119
+\aboverulesep=\dimen120
+\abovetopsep=\dimen121
+\cmidrulesep=\dimen122
+\cmidrulekern=\dimen123
+\defaultaddspace=\dimen124
+\@cmidla=\count92
+\@cmidlb=\count93
+\@aboverulesep=\dimen125
+\@belowrulesep=\dimen126
+\@thisruleclass=\count94
+\@lastruleclass=\count95
+\@thisrulewidth=\dimen127
 )
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\framed\frame
 d.sty"
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip45
-\fb@frw=\dimen127
-\fb@frh=\dimen128
-\FrameRule=\dimen129
-\FrameSep=\dimen130
+\fb@frw=\dimen128
+\fb@frh=\dimen129
+\FrameRule=\dimen130
+\FrameSep=\dimen131
 )
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsm
 ath.sty"
 Package: amsmath 2013/01/14 v2.14 AMS math features
@@ -534,77 +446,57 @@ Package: amstext 2000/06/29 v2.01
 
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsg
 en.sty"
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
-Package: amsmath 2000/07/18 v2.13 AMS math features
-\@mathmargin=\skip46
-
-For additional information on amsmath, use the `?' option.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
-Package: amstext 2000/06/29 v2.01
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks18
-\ex@=\dimen131
+\@emptytoks=\toks20
+\ex@=\dimen132
 ))
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsb
 sy.sty"
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen132
+\pmbraise@=\dimen133
 )
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amso
 pn.sty"
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count95
-LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count96
-\leftroot@=\count97
-LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count98
-\DOTSCASE@=\count99
-LaTeX Info: Redefining \ldots on input line 379.
-LaTeX Info: Redefining \dots on input line 382.
-LaTeX Info: Redefining \cdots on input line 467.
-\Mathstrutbox@=\box26
-\strutbox@=\box27
-\big@size=\dimen133
-LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count100
-\c@MaxMatrixCols=\count101
+\inf@bad=\count96
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count97
+\leftroot@=\count98
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count99
+\DOTSCASE@=\count100
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen134
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count101
+\c@MaxMatrixCols=\count102
 \dotsspace@=\muskip10
-\c@parentequation=\count102
-\dspbrk@lvl=\count103
-\tag@help=\toks19
-\row@=\count104
-\column@=\count105
-\maxfields@=\count106
-\andhelp@=\toks20
-\eqnshift@=\dimen134
-\alignsep@=\dimen135
-\tagshift@=\dimen136
-\tagwidth@=\dimen137
-\totwidth@=\dimen138
-\lineht@=\dimen139
-\@envbody=\toks21
+\c@parentequation=\count103
+\dspbrk@lvl=\count104
+\tag@help=\toks21
+\row@=\count105
+\column@=\count106
+\maxfields@=\count107
+\andhelp@=\toks22
+\eqnshift@=\dimen135
+\alignsep@=\dimen136
+\tagshift@=\dimen137
+\tagwidth@=\dimen138
+\totwidth@=\dimen139
+\lineht@=\dimen140
+\@envbody=\toks23
 \multlinegap=\skip47
 \multlinetaggap=\skip48
-\mathdisplay@stack=\toks22
-LaTeX Info: Redefining \[ on input line 2666.
-LaTeX Info: Redefining \] on input line 2667.
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
 )
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\ams
 symb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -612,19 +504,11 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\ams
 fonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
-Package: amssymb 2009/06/22 v3.00
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
-Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 \symAMSa=\mathgroup5
 \symAMSb=\mathgroup6
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ntheorem\nth
 eorem.sty"
 Style `ntheorem', Version 1.33 <2011/08/15>
@@ -633,42 +517,46 @@ Package: ntheorem 2011/08/15 1.33
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.
 sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ntheorem\ntheorem.sty"
-Style `ntheorem', Version 1.31 <2011/02/16>
-Package: ntheorem 2011/02/16 1.31
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
-Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 )
-\theorem@style=\toks23
-\theorem@@style=\toks24
-\theorembodyfont=\toks25
-\theoremnumbering=\toks26
+\theorem@style=\toks25
+\theorem@@style=\toks26
+\theorembodyfont=\toks27
+\theoremnumbering=\toks28
 \theorempreskipamount=\skip49
 \theorempostskipamount=\skip50
 \theoremframepreskipamount=\skip51
 \theoremframepostskipamount=\skip52
-\theoremindent=\dimen140
-\theorem@indent=\dimen141
-\theoremheaderfont=\toks27
-\theoremseparator=\toks28
-\theoremprework=\toks29
-\theorempostwork=\toks30
-\theoremsymbol=\toks31
-\qedsymbol=\toks32
-\theoremkeyword=\toks33
-\qedsymbol=\toks34
-\thm@topsepadd=\skip53
-Package ntheorem Info: Option `thmmarks' loaded on input line 1066.
-\c@endNonectr=\count107
-\c@currNonectr=\count108
-\mysavskip=\skip54
+\theoreminframepreskipamount=\skip53
+\theoreminframepostskipamount=\skip54
+\theorem@preskip=\toks29
+\theorem@postskip=\toks30
+\theorem@framepreskip=\toks31
+\theorem@framepostskip=\toks32
+\theorem@inframepreskip=\toks33
+\theorem@inframepostskip=\toks34
+\theoremindent=\dimen141
+\theorem@indent=\dimen142
+\theoremrightindent=\dimen143
+\theorem@rightindent=\dimen144
+\theoremheaderfont=\toks35
+\theoremseparator=\toks36
+\theoremprework=\toks37
+\theorempostwork=\toks38
+\theoremsymbol=\toks39
+\qedsymbol=\toks40
+\theoremkeyword=\toks41
+\qedsymbol=\toks42
+\thm@topsep=\skip55
+\thm@topsepadd=\skip56
+Package ntheorem Info: Option `thmmarks' loaded on input line 1175.
+\c@endNonectr=\count108
+\c@currNonectr=\count109
+\mysavskip=\skip57
 Package ntheorem Info: option `amsmath' handling for `thmmarks' loaded on input
- line 1066.
-\thm@amstmpdepth=\dimen142
-\tagwidth=\dimen143
-\shadecolor=\toks35
+ line 1175.
+\thm@amstmpdepth=\dimen145
+\tagwidth=\dimen146
+\shadecolor=\toks43
 )
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geo
 metry.sty"
@@ -688,35 +576,34 @@ Package ifvtex Info: VTeX not detected.
 xetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count109
-\Gm@cntv=\count110
-\c@Gm@tempcnt=\count111
-\Gm@bindingoffset=\dimen144
-\Gm@wd@mp=\dimen145
-\Gm@odd@mp=\dimen146
-\Gm@even@mp=\dimen147
-\Gm@layoutwidth=\dimen148
-\Gm@layoutheight=\dimen149
-\Gm@layouthoffset=\dimen150
-\Gm@layoutvoffset=\dimen151
-\Gm@dimlist=\toks36
+\Gm@cnth=\count110
+\Gm@cntv=\count111
+\c@Gm@tempcnt=\count112
+\Gm@bindingoffset=\dimen147
+\Gm@wd@mp=\dimen148
+\Gm@odd@mp=\dimen149
+\Gm@even@mp=\dimen150
+\Gm@layoutwidth=\dimen151
+\Gm@layoutheight=\dimen152
+\Gm@layouthoffset=\dimen153
+\Gm@layoutvoffset=\dimen154
+\Gm@dimlist=\toks44
 
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geo
 metry.cfg"))
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\tit
 lesec.sty"
 Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
-\ttl@box=\box28
-\beforetitleunit=\skip55
-\aftertitleunit=\skip56
-\ttl@plus=\dimen152
-\ttl@minus=\dimen153
-\ttl@toksa=\toks37
-\titlewidth=\dimen154
-\titlewidthlast=\dimen155
-\titlewidthfirst=\dimen156
+\ttl@box=\box30
+\beforetitleunit=\skip58
+\aftertitleunit=\skip59
+\ttl@plus=\dimen155
+\ttl@minus=\dimen156
+\ttl@toksa=\toks45
+\titlewidth=\dimen157
+\titlewidthlast=\dimen158
+\titlewidthfirst=\dimen159
 )
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fan
 cyhdr.sty"
 \fancy@headwidth=\skip60
@@ -728,44 +615,26 @@ cyhdr.sty"
 \f@ncyO@erf=\skip66
 \f@ncyO@olf=\skip67
 \f@ncyO@orf=\skip68
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
-\fancy@headwidth=\skip57
-\f@ncyO@elh=\skip58
-\f@ncyO@erh=\skip59
-\f@ncyO@olh=\skip60
-\f@ncyO@orh=\skip61
-\f@ncyO@elf=\skip62
-\f@ncyO@erf=\skip63
-\f@ncyO@olf=\skip64
-\f@ncyO@orf=\skip65
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 )
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 106.
+less on input line 108.
 
-<<<<<<< HEAD
 
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.s
 ty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
-Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
-\calc@Acount=\count112
-\calc@Bcount=\count113
-\calc@Adimen=\dimen157
-\calc@Bdimen=\dimen158
-\calc@Askip=\skip66
-\calc@Bskip=\skip67
-LaTeX Info: Redefining \setlength on input line 76.
-LaTeX Info: Redefining \addtolength on input line 77.
-\calc@Ccount=\count114
-\calc@Cskip=\skip68
+\calc@Acount=\count113
+\calc@Bcount=\count114
+\calc@Adimen=\dimen160
+\calc@Bdimen=\dimen161
+\calc@Askip=\skip69
+\calc@Bskip=\skip70
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count115
+\calc@Cskip=\skip71
 )
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bib
 latex.sty"
 Package: biblatex 2015/12/22 v3.2 programmable bibliographies (PK/JW/AB)
@@ -778,24 +647,7 @@ AB)
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\eto
 olbox.sty"
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count115
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.sty"
-Package: biblatex 2012/08/02 v2.1 programmable bibliographies (PK/JW/AB)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex1.sty"
-Package: biblatex1 2012/08/02 v2.1 programmable bibliographies (bibtex) (PK/JW/
-AB)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
-Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\misc\etex.sty"
-Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count115
-)
 \etb@tempcnta=\count116
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 )
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\logreq\logre
 q.sty"
@@ -806,13 +658,9 @@ Package: logreq 2010/08/04 v1.0 xml request logger
 q.def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 \Urlmuskip=\muskip11
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 \c@tabx@nest=\count118
 \c@listtotal=\count119
@@ -849,94 +697,17 @@ Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 \blx@notetype=\count150
 \blx@parenlevel@text=\count151
 \blx@parenlevel@foot=\count152
-\labelnumberwidth=\skip69
-\labelalphawidth=\skip70
-\shorthandwidth=\skip71
-\biblabelsep=\skip72
-\bibitemsep=\skip73
-\bibnamesep=\skip74
-\bibinitsep=\skip75
-\bibparsep=\skip76
-\bibhang=\skip77
+\labelnumberwidth=\skip72
+\labelalphawidth=\skip73
+\shorthandwidth=\skip74
+\biblabelsep=\skip75
+\bibitemsep=\skip76
+\bibnamesep=\skip77
+\bibinitsep=\skip78
+\bibparsep=\skip79
+\bibhang=\skip80
 \blx@auxin=\read1
 \blx@auxout=\write3
-<<<<<<< HEAD
-\c@mincomprange=\count152
-\c@maxcomprange=\count153
-\c@mincompwidth=\count154
-\c@labelname=\count155
-\c@savedlabelname=\count156
-\c@author=\count157
-\c@savedauthor=\count158
-\c@shortauthor=\count159
-\c@savedshortauthor=\count160
-\c@editor=\count161
-\c@savededitor=\count162
-\c@editora=\count163
-\c@savededitora=\count164
-\c@editorb=\count165
-\c@savededitorb=\count166
-\c@editorc=\count167
-\c@savededitorc=\count168
-\c@shorteditor=\count169
-\c@savedshorteditor=\count170
-\c@bookauthor=\count171
-\c@savedbookauthor=\count172
-\c@translator=\count173
-\c@savedtranslator=\count174
-\c@annotator=\count175
-\c@savedannotator=\count176
-\c@commentator=\count177
-\c@savedcommentator=\count178
-\c@introduction=\count179
-\c@savedintroduction=\count180
-\c@foreword=\count181
-\c@savedforeword=\count182
-\c@afterword=\count183
-\c@savedafterword=\count184
-\c@holder=\count185
-\c@savedholder=\count186
-\c@namea=\count187
-\c@savednamea=\count188
-\c@nameb=\count189
-\c@savednameb=\count190
-\c@namec=\count191
-\c@savednamec=\count192
-\c@institution=\count193
-\c@savedinstitution=\count194
-\c@language=\count195
-\c@savedlanguage=\count196
-\c@location=\count197
-\c@savedlocation=\count198
-\c@organization=\count199
-\c@savedorganization=\count266
-\c@origlocation=\count267
-\c@savedoriglocation=\count268
-\c@origpublisher=\count269
-\c@savedorigpublisher=\count270
-\c@pageref=\count271
-\c@savedpageref=\count272
-\c@publisher=\count273
-\c@savedpublisher=\count274
-\c@lista=\count275
-\c@savedlista=\count276
-\c@listb=\count277
-\c@savedlistb=\count278
-\c@listc=\count279
-\c@savedlistc=\count280
-\c@listd=\count281
-\c@savedlistd=\count282
-\c@liste=\count283
-\c@savedliste=\count284
-\c@listf=\count285
-\c@savedlistf=\count286
-Package biblatex Info: Trying to load compatibility code...
-Package biblatex Info: ... file 'blx-compat.def' found.
-
-("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx
--compat.def"
-File: blx-compat.def 2015/12/22 v3.2 biblatex compatibility (PK/JW/AB)
-=======
 \c@mincomprange=\count153
 \c@maxcomprange=\count154
 \c@mincompwidth=\count155
@@ -984,34 +755,34 @@ File: blx-compat.def 2015/12/22 v3.2 biblatex compatibility (PK/JW/AB)
 \c@savedlanguage=\count197
 \c@location=\count198
 \c@savedlocation=\count199
-\c@organization=\count200
-\c@savedorganization=\count201
-\c@origlocation=\count202
-\c@savedoriglocation=\count203
-\c@origpublisher=\count204
-\c@savedorigpublisher=\count205
-\c@pageref=\count206
-\c@savedpageref=\count207
-\c@publisher=\count208
-\c@savedpublisher=\count209
-\c@lista=\count210
-\c@savedlista=\count211
-\c@listb=\count212
-\c@savedlistb=\count213
-\c@listc=\count214
-\c@savedlistc=\count215
-\c@listd=\count216
-\c@savedlistd=\count217
-\c@liste=\count218
-\c@savedliste=\count219
-\c@listf=\count220
-\c@savedlistf=\count221
+\c@organization=\count266
+\c@savedorganization=\count267
+\c@origlocation=\count268
+\c@savedoriglocation=\count269
+\c@origpublisher=\count270
+\c@savedorigpublisher=\count271
+\c@pageref=\count272
+\c@savedpageref=\count273
+\c@publisher=\count274
+\c@savedpublisher=\count275
+\c@lista=\count276
+\c@savedlista=\count277
+\c@listb=\count278
+\c@savedlistb=\count279
+\c@listc=\count280
+\c@savedlistc=\count281
+\c@listd=\count282
+\c@savedlistd=\count283
+\c@liste=\count284
+\c@savedliste=\count285
+\c@listf=\count286
+\c@savedlistf=\count287
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\blx-compat.def"
-File: blx-compat.def 2012/08/02 v2.1 biblatex compatibility (PK/JW/AB)
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
+("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\blx
+-compat.def"
+File: blx-compat.def 2015/12/22 v3.2 biblatex compatibility (PK/JW/AB)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
@@ -1019,25 +790,17 @@ Package biblatex Info: ... file 'biblatex.def' found.
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bib
 latex.def"
 File: biblatex.def 
-<<<<<<< HEAD
-\c@textcitecount=\count287
-\c@textcitetotal=\count288
-\c@textcitemaxnames=\count289
-\c@biburlnumpenalty=\count290
-\c@biburlucpenalty=\count291
-\c@biburllcpenalty=\count292
-\c@smartand=\count293
-=======
-\c@biburlnumpenalty=\count222
-\c@biburlucpenalty=\count223
-\c@biburllcpenalty=\count224
-\c@smartand=\count225
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
+\c@textcitecount=\count288
+\c@textcitetotal=\count289
+\c@textcitemaxnames=\count290
+\c@biburlnumpenalty=\count291
+\c@biburlucpenalty=\count292
+\c@biburllcpenalty=\count293
+\c@smartand=\count294
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx
 \numeric.bbx"
 File: numeric.bbx 2015/12/22 v3.2 biblatex bibliography style (PK/JW/AB)
@@ -1047,37 +810,23 @@ Package biblatex Info: ... file 'standard.bbx' found.
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\bbx
 \standard.bbx"
 File: standard.bbx 2015/12/22 v3.2 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count294
-\c@bbx:relatedtotal=\count295
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\bbx\numeric.bbx"
-File: numeric.bbx 2012/08/02 v2.1 biblatex bibliography style (PK/JW/AB)
-Package biblatex Info: Trying to load bibliography style 'standard'...
-Package biblatex Info: ... file 'standard.bbx' found.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx"
-File: standard.bbx 2012/08/02 v2.1 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count226
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
+\c@bbx:relatedcount=\count295
+\c@bbx:relatedtotal=\count296
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\cbx
 \numeric.cbx"
 File: numeric.cbx 2015/12/22 v3.2 biblatex citation style (PK/JW/AB)
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\cbx\numeric.cbx"
-File: numeric.cbx 2012/08/02 v2.1 biblatex citation style (PK/JW/AB)
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
 Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
 Package biblatex Info: Redefining '\cites'.
 Package biblatex Info: Redefining '\parencites'.
 Package biblatex Info: Redefining '\smartcites'.
@@ -1097,7 +846,6 @@ Package tocbibind Info: The document has chapter divisions on input line 50.
 
 Package tocbibind Note: Using chapter style headings, unless overridden.
 
-<<<<<<< HEAD
 )
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lastpage\las
 tpage.sty"
@@ -1116,10 +864,10 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 eyval.tex"
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xk
 vutils.tex"
-\XKV@toks=\toks44
-\XKV@tempa@toks=\toks45
+\XKV@toks=\toks46
+\XKV@tempa@toks=\toks47
 )
-\XKV@depth=\count296
+\XKV@depth=\count297
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontend
@@ -1130,7 +878,7 @@ er\pgf.sty"
 s\pgfrcs.sty"
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilit
 ies\pgfutil-common.tex"
-\pgfutil@everybye=\toks46
+\pgfutil@everybye=\toks48
 \pgfutil@tempdima=\dimen162
 \pgfutil@tempdimb=\dimen163
 
@@ -1138,40 +886,12 @@ ies\pgfutil-common.tex"
 ies\pgfutil-common-lists.tex"))
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilit
 ies\pgfutil-latex.def"
-=======
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lastpage\lastpage.sty"
-Package: lastpage 2011/09/01 v1.2k Refers to last page's name (HMM; JPG)
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\todonotes\todonotes.sty"
-Package: todonotes 2012/07/25 .dtx Todonotes source and documentation.
-Package: todonotes 2012/07/25
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
-Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
-\XKV@toks=\toks38
-\XKV@tempa@toks=\toks39
-\XKV@depth=\count227
-File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
-))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.te
-x"
-\pgfutil@everybye=\toks40
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def
-"
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
-\pgfutil@abb=\box29
+\pgfutil@abb=\box31
 
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.
 sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilit
 ies\pgfrcs.code.tex"
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
@@ -1188,64 +908,37 @@ Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilit
 ies\pgfkeys.code.tex"
-\pgfkeys@pathtoks=\toks47
-\pgfkeys@temptoks=\toks48
+\pgfkeys@pathtoks=\toks49
+\pgfkeys@temptoks=\toks50
 
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilit
 ies\pgfkeysfiltered.code.tex"
-\pgfkeys@tmptoks=\toks49
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
-Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+\pgfkeys@tmptoks=\toks51
 ))
-Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
-"
-Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
-"
-\pgfkeys@pathtoks=\toks41
-\pgfkeys@temptoks=\toks42
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.c
-ode.tex"
-\pgfkeys@tmptoks=\toks43
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
-))
-\pgf@x=\dimen159
-\pgf@y=\dimen160
-\pgf@xa=\dimen161
-\pgf@ya=\dimen162
-\pgf@xb=\dimen163
-\pgf@yb=\dimen164
-\pgf@xc=\dimen165
-\pgf@yc=\dimen166
+\pgf@x=\dimen164
+\pgf@y=\dimen165
+\pgf@xa=\dimen166
+\pgf@ya=\dimen167
+\pgf@xb=\dimen168
+\pgf@yb=\dimen169
+\pgf@xc=\dimen170
+\pgf@yc=\dimen171
 \w@pgf@writea=\write4
 \r@pgf@reada=\read2
-<<<<<<< HEAD
-\c@pgf@counta=\count297
-\c@pgf@countb=\count298
-\c@pgf@countc=\count299
-\c@pgf@countd=\count300
-\t@pgf@toka=\toks50
-\t@pgf@tokb=\toks51
-\t@pgf@tokc=\toks52
-=======
-\c@pgf@counta=\count228
-\c@pgf@countb=\count229
-\c@pgf@countc=\count230
-\c@pgf@countd=\count231
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
+\c@pgf@counta=\count298
+\c@pgf@countb=\count299
+\c@pgf@countc=\count300
+\c@pgf@countd=\count301
+\t@pgf@toka=\toks52
+\t@pgf@tokb=\toks53
+\t@pgf@tokc=\toks54
 
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\system
 layer\pgf.cfg"
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
-Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+Driver file for pgf: pgfsys-pdftex.def
 
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\system
 layer\pgfsys-pdftex.def"
 File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
@@ -1257,29 +950,13 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\system
 layer\pgfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count301
-\pgfsyssoftpath@bigbuffer@items=\count302
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.d
-ef"
-File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-p
-df.def"
-File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
-)))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.
-code.tex"
-File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
-\pgfsyssoftpath@smallbuffer@items=\count232
-\pgfsyssoftpath@bigbuffer@items=\count233
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
+\pgfsyssoftpath@smallbuffer@items=\count302
+\pgfsyssoftpath@bigbuffer@items=\count303
 )
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\system
 layer\pgfsysprotocol.code.tex"
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
 ))
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basicl
 ayer\pgfcore.code.tex"
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
@@ -1293,26 +970,12 @@ gfmathutil.code.tex")
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\p
 gfmathparser.code.tex"
 \pgfmath@dimen=\dimen172
-\pgfmath@count=\count303
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
-"
-Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex
-"
-\pgfmath@dimen=\dimen167
-Normal \count register pool exhausted, switching to extended pool.
-\pgfmath@count=\count277
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
-\pgfmath@box=\box30
-\pgfmath@toks=\toks44
-\pgfmath@stack@operand=\toks45
-\pgfmath@stack@operation=\toks46
+\pgfmath@count=\count304
+\pgfmath@box=\box32
+\pgfmath@toks=\toks55
+\pgfmath@stack@operand=\toks56
+\pgfmath@stack@operation=\toks57
 )
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\p
 gfmathfunctions.code.tex"
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\p
@@ -1333,7 +996,7 @@ gfmathfunctions.misc.code.tex")
 gfmathfunctions.integerarithmetics.code.tex")))
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\p
 gfmathfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count304
+\c@pgfmathroundto@lastzeros=\count305
 ))
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basicl
 ayer\pgfcorepoints.code.tex"
@@ -1368,10 +1031,10 @@ File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basicl
 ayer\pgfcorescopes.code.tex"
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box31
-\pgf@hbox=\box32
-\pgf@layerbox@main=\box33
-\pgf@picture@serial@count=\count305
+\pgfpic=\box33
+\pgf@hbox=\box34
+\pgf@layerbox@main=\box35
+\pgf@picture@serial@count=\count306
 )
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basicl
 ayer\pgfcoregraphicstate.code.tex"
@@ -1384,76 +1047,6 @@ File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen192
 \pgf@pt@y=\dimen193
 \pgf@pt@temp=\dimen194
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.
-tex"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic
-.code.tex")
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigo
-nometric.code.tex")
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.rando
-m.code.tex")
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.compa
-rison.code.tex")
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.
-code.tex")
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round
-.code.tex")
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.
-code.tex")))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count278
-))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.co
-de.tex"
-File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
-\pgf@picminx=\dimen168
-\pgf@picmaxx=\dimen169
-\pgf@picminy=\dimen170
-\pgf@picmaxy=\dimen171
-\pgf@pathminx=\dimen172
-\pgf@pathmaxx=\dimen173
-\pgf@pathminy=\dimen174
-\pgf@pathmaxy=\dimen175
-\pgf@xx=\dimen176
-\pgf@xy=\dimen177
-\pgf@yx=\dimen178
-\pgf@yy=\dimen179
-\pgf@zx=\dimen180
-\pgf@zy=\dimen181
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconst
-ruct.code.tex"
-File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
-\pgf@path@lastx=\dimen182
-\pgf@path@lasty=\dimen183
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage
-.code.tex"
-File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
-\pgf@shorten@end@additional=\dimen184
-\pgf@shorten@start@additional=\dimen185
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.co
-de.tex"
-File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
-\pgfpic=\box31
-\pgf@hbox=\box32
-\pgf@layerbox@main=\box33
-\pgf@picture@serial@count=\count279
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicst
-ate.code.tex"
-File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
-\pgflinewidth=\dimen186
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransform
-ations.code.tex"
-File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
-\pgf@pt@x=\dimen187
-\pgf@pt@y=\dimen188
-\pgf@pt@temp=\dimen189
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 )
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basicl
 ayer\pgfcorequick.code.tex"
@@ -1463,7 +1056,6 @@ File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 ayer\pgfcoreobjects.code.tex"
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basicl
 ayer\pgfcorepathprocessing.code.tex"
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
@@ -1477,7 +1069,7 @@ File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 ayer\pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen196
-\pgf@sys@shading@range@num=\count306
+\pgf@sys@shading@range@num=\count307
 )
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basicl
 ayer\pgfcoreimage.code.tex"
@@ -1486,7 +1078,7 @@ File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basicl
 ayer\pgfcoreexternal.code.tex"
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box34
+\pgfexternal@startupbox=\box36
 ))
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basicl
 ayer\pgfcorelayers.code.tex"
@@ -1503,7 +1095,7 @@ File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\module
 s\pgfmoduleshapes.code.tex"
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box35
+\pgfnodeparttextbox=\box37
 )
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\module
 s\pgfmoduleplot.code.tex"
@@ -1537,8 +1129,8 @@ Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 gfmath.code.tex")
 \pgffor@iter=\dimen199
 \pgffor@skip=\dimen256
-\pgffor@stack=\toks56
-\pgffor@toks=\toks57
+\pgffor@stack=\toks58
+\pgffor@toks=\toks59
 ))
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\fronte
 ndlayer\tikz\tikz.code.tex"
@@ -1547,7 +1139,7 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\librar
 ies\pgflibraryplothandlers.code.tex"
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count307
+\pgf@plot@mark@count=\count308
 \pgfplotmarksize=\dimen257
 )
 \tikz@lastx=\dimen258
@@ -1556,23 +1148,23 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikz@lastysaved=\dimen261
 \tikzleveldistance=\dimen262
 \tikzsiblingdistance=\dimen263
-\tikz@figbox=\box36
-\tikz@figbox@bg=\box37
-\tikz@tempbox=\box38
-\tikz@tempbox@bg=\box39
-\tikztreelevel=\count308
-\tikznumberofchildren=\count309
-\tikznumberofcurrentchild=\count310
-\tikz@fig@count=\count311
+\tikz@figbox=\box38
+\tikz@figbox@bg=\box39
+\tikz@tempbox=\box40
+\tikz@tempbox@bg=\box41
+\tikztreelevel=\count309
+\tikznumberofchildren=\count310
+\tikznumberofcurrentchild=\count311
+\tikz@fig@count=\count312
 
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\module
 s\pgfmodulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count312
-\pgfmatrixcurrentcolumn=\count313
-\pgf@matrix@numberofcolumns=\count314
+\pgfmatrixcurrentrow=\count313
+\pgfmatrixcurrentcolumn=\count314
+\pgf@matrix@numberofcolumns=\count315
 )
-\tikz@expandcount=\count315
+\tikz@expandcount=\count316
 
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\fronte
 ndlayer\tikz\libraries\tikzlibrarytopaths.code.tex"
@@ -1582,159 +1174,11 @@ File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 ndlayer\tikz\libraries\tikzlibrarypositioning.code.tex"
 File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
 )
-\c@@todonotes@numberoftodonotes=\count316
-)
-("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\svg\svg.sty"
-Package: svg 2012/09/05 v1.0 SVG inclusion and extraction
-
-("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfig\subfi
-g.sty"
-Package: subfig 2005/06/28 ver: 1.3 subfig package
-\c@KVtest=\count317
-\sf@farskip=\skip81
-\sf@captopadj=\dimen264
-\sf@capskip=\skip82
-\sf@nearskip=\skip83
-\c@subfigure=\count318
-\c@subfigure@save=\count319
-\c@lofdepth=\count320
-\c@subtable=\count321
-\c@subtable@save=\count322
-\c@lotdepth=\count323
-\sf@top=\skip84
-\sf@bottom=\skip85
-)
-("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\import\impor
-t.sty"
-Package: import 2009/03/23  v 5.1
-)
-("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\tra
-nsparent.sty"
-Package: transparent 2007/01/08 v1.0 Transparency via pdfTeX's color stack (HO)
-
-
-("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\aux
-hook.sty"
-Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
-))
-\SVG@out@width=\skip86
-\SVG@out@height=\skip87
-\c@svgfigure=\count324
+\c@@todonotes@numberoftodonotes=\count317
 )
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyp
 erref.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathproce
-ssing.code.tex"
-File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.co
-de.tex"
-File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.cod
-e.tex"
-File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
-\pgf@max=\dimen190
-\pgf@sys@shading@range@num=\count280
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.cod
-e.tex"
-File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.
-code.tex"
-File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
-\pgfexternal@startupbox=\box34
-))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.co
-de.tex"
-File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretranspare
-ncy.code.tex"
-File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.
-code.tex"
-File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
-)))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.cod
-e.tex"
-File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
-\pgfnodeparttextbox=\box35
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.
-tex"
-File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version
--0-65.sty"
-Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen191
-\pgf@nodesepend=\dimen192
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version
--1-18.sty"
-Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
-))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
-)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.te
-x"
-Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
-\pgffor@iter=\dimen193
-\pgffor@skip=\dimen194
-\pgffor@stack=\toks47
-\pgffor@toks=\toks48
-))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.cod
-e.tex"
-Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothan
-dlers.code.tex"
-File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
-\pgf@plot@mark@count=\count281
-\pgfplotmarksize=\dimen195
-)
-\tikz@lastx=\dimen196
-\tikz@lasty=\dimen197
-\tikz@lastxsaved=\dimen198
-\tikz@lastysaved=\dimen199
-\tikzleveldistance=\dimen200
-\tikzsiblingdistance=\dimen201
-\tikz@figbox=\box36
-\tikz@tempbox=\box37
-\tikztreelevel=\count282
-\tikznumberofchildren=\count283
-\tikznumberofcurrentchild=\count284
-\tikz@fig@count=\count285
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.cod
-e.tex"
-File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
-\pgfmatrixcurrentrow=\count286
-\pgfmatrixcurrentcolumn=\count287
-\pgf@matrix@numberofcolumns=\count288
-)
-\tikz@expandcount=\count289
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
-s\tikzlibrarytopaths.code.tex"
-File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
-)))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
-s\tikzlibrarypositioning.code.tex"
-File: tikzlibrarypositioning.code.tex 2008/10/06 v2.10 (rcs-revision 1.7)
-)
-\c@@todonotes@numberoftodonotes=\count290
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
-Package: hyperref 2012/08/03 v6.82y Hypertext links for LaTeX
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\h
 obsub-hyperref.sty"
@@ -1780,55 +1224,43 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-<<<<<<< HEAD
+("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\aux
+hook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvo
 ptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen265
-\Hy@linkcounter=\count325
-\Hy@pagecounter=\count326
+\@linkdim=\dimen264
+\Hy@linkcounter=\count318
+\Hy@pagecounter=\count319
 
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1
 enc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
-Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-)
-\@linkdim=\dimen202
-\Hy@linkcounter=\count291
-\Hy@pagecounter=\count292
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
-File: pd1enc.def 2012/08/03 v6.82y Hyperref: PDFDocEncoding definition (HO)
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count327
+\Hy@SavedSpaceFactor=\count320
 
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyp
 erref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Hyper figures OFF on input line 4204.
-Package hyperref Info: Link nesting OFF on input line 4209.
-Package hyperref Info: Hyper index ON on input line 4212.
-Package hyperref Info: Plain pages OFF on input line 4219.
-Package hyperref Info: Backreferencing OFF on input line 4224.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-<<<<<<< HEAD
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count328
+\c@Hy@tempcnt=\count321
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen266
-\Fld@menulength=\count329
-\Field@Width=\dimen267
-\Fld@charsize=\dimen268
+\XeTeXLinkMargin=\dimen265
+\Fld@menulength=\count322
+\Field@Width=\dimen266
+\Fld@charsize=\dimen267
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -1838,46 +1270,19 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count330
-\c@Item=\count331
-\c@Hfootnote=\count332
-=======
-Package hyperref Info: Bookmarks ON on input line 4442.
-\c@Hy@tempcnt=\count294
-LaTeX Info: Redefining \url on input line 4795.
-\Fld@menulength=\count295
-\Field@Width=\dimen203
-\Fld@charsize=\dimen204
-Package hyperref Info: Hyper figures OFF on input line 5985.
-Package hyperref Info: Link nesting OFF on input line 5990.
-Package hyperref Info: Hyper index ON on input line 5993.
-Package hyperref Info: backreferencing OFF on input line 6000.
-Package hyperref Info: Link coloring OFF on input line 6005.
-Package hyperref Info: Link coloring with OCG OFF on input line 6010.
-Package hyperref Info: PDF/A mode OFF on input line 6015.
-LaTeX Info: Redefining \ref on input line 6055.
-LaTeX Info: Redefining \pageref on input line 6059.
-\Hy@abspage=\count296
-\c@Item=\count297
-\c@Hfootnote=\count298
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
+\Hy@abspage=\count323
+\c@Item=\count324
+\c@Hfootnote=\count325
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-<<<<<<< HEAD
 
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpd
 ftex.def"
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count333
-\c@bookmark@seq@number=\count334
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
-File: hpdftex.def 2012/08/03 v6.82y Hyperref driver for pdfTeX
-\Fld@listcount=\count299
-\c@bookmark@seq@number=\count300
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
+\Fld@listcount=\count326
+\c@bookmark@seq@number=\count327
 
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rer
 unfilecheck.sty"
@@ -1885,76 +1290,37 @@ Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip78
+\Hy@SectionHShift=\skip81
 )
 
 Package hyperref Warning: Option `pdfpagelabels' has already been used,
-(hyperref)                setting the option has no effect on input line 164.
+(hyperref)                setting the option has no effect on input line 166.
 
-Package hyperref Info: Option `plainpages' set `false' on input line 164.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 164.
+Package hyperref Info: Option `plainpages' set `false' on input line 166.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 166.
 
-Package hyperref Info: Option `colorlinks' set `false' on input line 164.
-<<<<<<< HEAD
+Package hyperref Info: Option `colorlinks' set `false' on input line 166.
 ) (setup/hyphenations.tex) (setup/macros.tex
-\c@currexactr=\count335
-\c@endexactr=\count336
-\c@exa=\count337
-=======
-) (C:\Users\Spacedick\Miniprojekt-DSB\Latex\setup/hyphenations.tex)
-(C:\Users\Spacedick\Miniprojekt-DSB\Latex\setup/macros.tex
-\c@currexactr=\count301
-\c@endexactr=\count302
-\c@exa=\count303
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
+\c@currexactr=\count328
+\c@endexactr=\count329
+\c@exa=\count330
 )
 Package biblatex Info: Trying to load language 'danish'...
 Package biblatex Info: ... file 'danish.lbx' found.
 
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\lbx
 \danish.lbx"
 File: danish.lbx 2015/12/22 v3.2 biblatex localization (PK/JW/AB)
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\lbx\danish.lbx"
-File: danish.lbx 2012/08/02 v2.1 biblatex localization (PK/JW/AB)
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 )
 
-Package biblatex Warning: 'babel' detected but 'csquotes' missing.
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-<<<<<<< HEAD
-\@quotelevel=\count338
-\@quotereset=\count339
+\@quotelevel=\count331
+\@quotereset=\count332
 (master.aux)
 \openout1 = `master.aux'.
 
-=======
-\@quotelevel=\count304
-\@quotereset=\count305
-(C:\Users\Spacedick\Miniprojekt-DSB\Latex\master.aux
-! Missing \endcsname inserted.
-<to be read again> 
-                   \T1\o 
-l.62 ...or Vindmølle\relax }{figure.caption.8}{}}
-                                                  
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Label `fig:Vindm\IeC {\o }lle' multiply defined.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \T1\o 
-l.62 ...or Vindmølle\relax }{figure.caption.8}{}}
-                                                  
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-)
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
@@ -1978,31 +1344,17 @@ File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-
 pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-<<<<<<< HEAD
-\scratchcounter=\count340
-\scratchdimen=\dimen269
-\scratchbox=\box40
-\nofMPsegments=\count341
-\nofMParguments=\count342
-\everyMPshowfont=\toks58
-\MPscratchCnt=\count343
-\MPscratchDim=\dimen270
-\MPnumerator=\count344
-\makeMPintoPDFobject=\count345
-\everyMPtoPDFconversion=\toks59
-=======
-\scratchcounter=\count306
-\scratchdimen=\dimen205
-\scratchbox=\box38
-\nofMPsegments=\count307
-\nofMParguments=\count308
-\everyMPshowfont=\toks49
-\MPscratchCnt=\count309
-\MPscratchDim=\dimen206
-\MPnumerator=\count310
-\makeMPintoPDFobject=\count311
-\everyMPtoPDFconversion=\toks50
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
+\scratchcounter=\count333
+\scratchdimen=\dimen268
+\scratchbox=\box42
+\nofMPsegments=\count334
+\nofMParguments=\count335
+\everyMPshowfont=\toks60
+\MPscratchCnt=\count336
+\MPscratchDim=\dimen269
+\MPnumerator=\count337
+\makeMPintoPDFobject=\count338
+\everyMPtoPDFconversion=\toks61
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
@@ -2057,50 +1409,31 @@ No file master.bbl.
 Package biblatex Info: Reference section=0 on input line 9.
 Package biblatex Info: Reference segment=0 on input line 9.
 Package lastpage Info: Please have a look at the pageslts package at
-(lastpage)             http://www.ctan.org/tex-archive/ 
-(lastpage)             macros/latex/contrib/pageslts/ 
-(lastpage)             or
-(lastpage)             http://www.ctan.org/tex-archive/ 
-(lastpage)             install/macros/latex/contrib/pageslts.tds.zip
+(lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 9.
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box39
+\AtBeginShipoutBox=\box43
 Package hyperref Info: Link coloring OFF on input line 9.
 
-<<<<<<< HEAD
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nam
 eref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
-=======
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
-Package: nameref 2012/07/31 v2.42 Cross-referencing by name of section
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 
 ("C:\Users\KasperLauge\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\g
 ettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count346
+\c@section@level=\count339
 )
 LaTeX Info: Redefining \ref on input line 9.
 LaTeX Info: Redefining \pageref on input line 9.
 LaTeX Info: Redefining \nameref on input line 9.
-<<<<<<< HEAD
  (master.out) (master.out)
 \@outlinefile=\write5
 \openout5 = `master.out'.
 
  (sections/frontpage.tex
-<figures/forside.jpg, id=62, 500.62032pt x 145.29282pt>
-=======
-
-(C:\Users\Spacedick\Miniprojekt-DSB\Latex\master.out)
-(C:\Users\Spacedick\Miniprojekt-DSB\Latex\master.out)
-\@outlinefile=\write5
-
-(C:\Users\Spacedick\Miniprojekt-DSB\Latex\sections/frontpage.tex
-<figures/forside.jpg, id=66, 500.62032pt x 145.29282pt>
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
+<figures/forside.jpg, id=78, 500.62032pt x 145.29282pt>
 File: figures/forside.jpg Graphic file (type jpg)
 
 <use figures/forside.jpg>
@@ -2155,9 +1488,16 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 8.33606pt on input line 39.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 39.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 67.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 67.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 67.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 67.
  [1
 
-<<<<<<< HEAD
 {C:/Users/KasperLauge/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./fig
 ures/forside.jpg>])
 Package babel Info: Redefining danish shorthand "|
@@ -2165,16 +1505,10 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 13.
  (master.toc
-=======
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Spacedick/Minipr
-ojekt-DSB/Latex/figures/forside.jpg>])
-(C:\Users\Spacedick\Miniprojekt-DSB\Latex\master.toc
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 5.
 )
 \tf@toc=\write6
-<<<<<<< HEAD
 \openout6 = `master.toc'.
 
  (sections/introduction.tex
@@ -2188,12 +1522,6 @@ Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
-=======
-
-(C:\Users\Spacedick\Miniprojekt-DSB\Latex\sections/introduction.texpdfTeX warni
-ng (ext4): destination with the same identifier (name{page.1}) has been already
- used, duplicate ignored
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
 <to be read again> 
                    \relax 
 l.1 \chapter
@@ -2201,6 +1529,10 @@ l.1 \chapter
 
 ]
 Kapitel 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
 LaTeX Font Info:    Try loading font information for OMS+pplx on input line 7.
 LaTeX Font Info:    No file OMSpplx.fd. on input line 7.
 
@@ -2208,86 +1540,83 @@ LaTeX Font Warning: Font shape `OMS/pplx/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
 (Font)              for symbol `textbullet' on input line 7.
 
-) (C:\Users\Spacedick\Miniprojekt-DSB\Latex\sections/analysebeskrivelse.tex
-[2
+) (sections/analysebeskrivelse.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+ [2
 
 ]
 Kapitel 2.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <12> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 11.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 11.
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.13 \sum
-         \limits_{i=1}^n i^2 = \frac{n(n+1)(2n+1)}{6}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.14 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-) (C:\Users\Spacedick\Miniprojekt-DSB\Latex\sections/analyse.tex [3
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 11.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 11.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 13.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 13.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 17.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 22.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 22.
+) (sections/analyse.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+ [3
 
 ]
 Kapitel 3.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 5.
-<<<<<<< HEAD
-=======
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 5.
-<figures/Motor/original.jpg, id=99, 702.625pt x 526.96875pt>
+<figures/Motor/original.jpg, id=119, 702.625pt x 526.96875pt>
 File: figures/Motor/original.jpg Graphic file (type jpg)
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
 
 <use figures/Motor/original.jpg>
 Package pdftex.def Info: figures/Motor/original.jpg used on input line 9.
 (pdftex.def)             Requested size: 512.1496pt x 384.14525pt.
 
-<<<<<<< HEAD
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 9.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
-File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-=======
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
 Overfull \hbox (110.96573pt too wide) in paragraph at lines 9--10
  [][] 
  []
 
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <9> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 10.
-<<<<<<< HEAD
-
-LaTeX Warning: File `figures/Klaver.jpg' not found on input line 18.
-
-
-! Package pdftex.def Error: File `figures/Klaver.jpg' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.18 ...egraphics[width=180mm]{figures/Klaver.jpg}
-                                                  
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-=======
-<figures/Motor/DFT.jpg, id=100, 702.625pt x 526.96875pt>
+<figures/Motor/DFT.jpg, id=120, 702.625pt x 526.96875pt>
 File: figures/Motor/DFT.jpg Graphic file (type jpg)
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
 
 <use figures/Motor/DFT.jpg>
 Package pdftex.def Info: figures/Motor/DFT.jpg used on input line 16.
@@ -2297,21 +1626,18 @@ Overfull \hbox (110.96573pt too wide) in paragraph at lines 16--17
  [][] 
  []
 
-<<<<<<< HEAD
-=======
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 19.
+(babel)             in language  on input line 20.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 19.
+(babel)             in language  on input line 20.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 19.
+(babel)             in language  on input line 20.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 19.
+(babel)             in language  on input line 20.
 [4
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
 
  <./figures/Motor/original.jpg>]
-<figures/Motor/hanning.jpg, id=106, 702.625pt x 526.96875pt>
+<figures/Motor/hanning.jpg, id=126, 702.625pt x 526.96875pt>
 File: figures/Motor/hanning.jpg Graphic file (type jpg)
 
 <use figures/Motor/hanning.jpg>
@@ -2322,7 +1648,22 @@ Overfull \hbox (110.96573pt too wide) in paragraph at lines 23--24
  [][] 
  []
 
-<figures/Motor/udglattet.jpg, id=107, 1927.2pt x 941.5175pt>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 27.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 27.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 27.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 27.
+[5 <./figures/Motor/DFT.jpg>]
+<figures/Motor/udglattet.jpg, id=132, 1927.2pt x 941.5175pt>
 File: figures/Motor/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Motor/udglattet.jpg>
@@ -2333,30 +1674,28 @@ Overfull \hbox (110.96573pt too wide) in paragraph at lines 30--31
  [][] 
  []
 
-<<<<<<< HEAD
 
-LaTeX Warning: File `figures/Bass.jpg' not found on input line 36.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-
-! Package pdftex.def Error: File `figures/Bass.jpg' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.36 ...udegraphics[width=180mm]{figures/Bass.jpg}
-                                                  
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-=======
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 34.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 34.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 34.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 34.
+[6 <./figures/Motor/hanning.jpg>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 35.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 35.
-<figures/Piano/original.jpg, id=108, 702.625pt x 526.96875pt>
+
+<figures/Piano/original.jpg, id=139, 702.625pt x 526.96875pt>
 File: figures/Piano/original.jpg Graphic file (type jpg)
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
 
 <use figures/Piano/original.jpg>
 Package pdftex.def Info: figures/Piano/original.jpg used on input line 39.
@@ -2366,13 +1705,23 @@ Overfull \hbox (110.96573pt too wide) in paragraph at lines 39--40
  [][] 
  []
 
-<<<<<<< HEAD
-<figures/Vinglas.jpg, id=106, 702.625pt x 526.96875pt>
-File: figures/Vinglas.jpg Graphic file (type jpg)
-=======
-<figures/Piano/DFT.jpg, id=109, 702.625pt x 526.96875pt>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 43.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 43.
+[7 <./figures/Motor/udglattet.jpg>]
+<figures/Piano/DFT.jpg, id=145, 702.625pt x 526.96875pt>
 File: figures/Piano/DFT.jpg Graphic file (type jpg)
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
 
 <use figures/Piano/DFT.jpg>
 Package pdftex.def Info: figures/Piano/DFT.jpg used on input line 46.
@@ -2382,26 +1731,23 @@ Overfull \hbox (110.96573pt too wide) in paragraph at lines 46--47
  [][] 
  []
 
-<<<<<<< HEAD
 
-LaTeX Warning: File `figures/Vind.jpg' not found on input line 53.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-
-! Package pdftex.def Error: File `figures/Vind.jpg' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.53 ...udegraphics[width=180mm]{figures/Vind.jpg}
-                                                  
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-=======
-<figures/Piano/hanning.jpg, id=110, 702.625pt x 526.96875pt>
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 50.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 50.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 50.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 50.
+[8 <./figures/Piano/original.jpg>]
+<figures/Piano/hanning.jpg, id=151, 702.625pt x 526.96875pt>
 File: figures/Piano/hanning.jpg Graphic file (type jpg)
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
 
 <use figures/Piano/hanning.jpg>
 Package pdftex.def Info: figures/Piano/hanning.jpg used on input line 53.
@@ -2411,26 +1757,23 @@ Overfull \hbox (110.96573pt too wide) in paragraph at lines 53--54
  [][] 
  []
 
-<<<<<<< HEAD
 
-LaTeX Warning: File `figures/Musikbox.jpg' not found on input line 62.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-
-! Package pdftex.def Error: File `figures/Musikbox.jpg' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.62 ...raphics[width=180mm]{figures/Musikbox.jpg}
-                                                  
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-=======
-<figures/Piano/udglattet.jpg, id=111, 702.625pt x 526.96875pt>
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 57.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 57.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 57.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 57.
+[9 <./figures/Piano/DFT.jpg>]
+<figures/Piano/udglattet.jpg, id=157, 702.625pt x 526.96875pt>
 File: figures/Piano/udglattet.jpg Graphic file (type jpg)
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
 
 <use figures/Piano/udglattet.jpg>
 Package pdftex.def Info: figures/Piano/udglattet.jpg used on input line 60.
@@ -2440,359 +1783,307 @@ Overfull \hbox (110.96573pt too wide) in paragraph at lines 60--61
  [][] 
  []
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 
-LaTeX Warning: File `figures/ECGs.jpg' not found on input line 70.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 64.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 64.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 64.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 64.
+[10 <./figures/Piano/hanning.jpg>]
 
-! Package pdftex.def Error: File `figures/ECGs.jpg' not found.
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.70 ...udegraphics[width=180mm]{figures/ECGs.jpg}
-                                                  
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 64.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 64.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 64.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 64.
+[11 <./figures/Piano/udglattet.jpg>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 66.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 66.
 
+<figures/Symfoni/original.jpg, id=168, 702.625pt x 526.96875pt>
+File: figures/Symfoni/original.jpg Graphic file (type jpg)
+
+<use figures/Symfoni/original.jpg>
+Package pdftex.def Info: figures/Symfoni/original.jpg used on input line 70.
+(pdftex.def)             Requested size: 512.1496pt x 384.14525pt.
 
 Overfull \hbox (110.96573pt too wide) in paragraph at lines 70--71
  [][] 
  []
 
-) (C:\Users\Spacedick\Miniprojekt-DSB\Latex\sections/Resultat.tex [4
-
-]
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-<<<<<<< HEAD
-=======
-[5]
-=======
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 64.
-Package babel Info: Redefining danish shorthand "~
-<<<<<<< HEAD
-(babel)             in language  on input line 64.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 64.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 64.
-[5 <./figures/Motor/DFT.jpg>]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 66.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 66.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 70.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 70.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 74.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 74.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 77.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 77.
-=======
-(babel)             in language  on input line 65.
-<figures/Symfoni/original.jpg, id=112, 702.625pt x 526.96875pt>
-File: figures/Symfoni/original.jpg Graphic file (type jpg)
-
-<use figures/Symfoni/original.jpg>
-Package pdftex.def Info: figures/Symfoni/original.jpg used on input line 69.
-(pdftex.def)             Requested size: 512.1496pt x 384.14525pt.
-
-Overfull \hbox (110.96573pt too wide) in paragraph at lines 69--70
- [][] 
- []
-
-<figures/Symfoni/DFT.jpg, id=113, 702.625pt x 526.96875pt>
+<figures/Symfoni/DFT.jpg, id=169, 702.625pt x 526.96875pt>
 File: figures/Symfoni/DFT.jpg Graphic file (type jpg)
 
 <use figures/Symfoni/DFT.jpg>
-Package pdftex.def Info: figures/Symfoni/DFT.jpg used on input line 76.
+Package pdftex.def Info: figures/Symfoni/DFT.jpg used on input line 77.
 (pdftex.def)             Requested size: 512.1496pt x 384.14525pt.
 
-Overfull \hbox (110.96573pt too wide) in paragraph at lines 76--77
+Overfull \hbox (110.96573pt too wide) in paragraph at lines 77--78
  [][] 
  []
 
-<figures/Symfoni/hanning.jpg, id=114, 702.625pt x 526.96875pt>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 81.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 81.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 81.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 81.
+[12 <./figures/Symfoni/original.jpg>]
+<figures/Symfoni/hanning.jpg, id=176, 702.625pt x 526.96875pt>
 File: figures/Symfoni/hanning.jpg Graphic file (type jpg)
 
 <use figures/Symfoni/hanning.jpg>
-Package pdftex.def Info: figures/Symfoni/hanning.jpg used on input line 83.
+Package pdftex.def Info: figures/Symfoni/hanning.jpg used on input line 84.
 (pdftex.def)             Requested size: 512.1496pt x 384.14525pt.
 
-Overfull \hbox (110.96573pt too wide) in paragraph at lines 83--84
+Overfull \hbox (110.96573pt too wide) in paragraph at lines 84--85
  [][] 
  []
 
-<figures/Symfoni/udglattet.jpg, id=115, 702.625pt x 526.96875pt>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 88.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 88.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 88.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 88.
+[13 <./figures/Symfoni/DFT.jpg>]
+<figures/Symfoni/udglattet.jpg, id=182, 702.625pt x 526.96875pt>
 File: figures/Symfoni/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Symfoni/udglattet.jpg>
-Package pdftex.def Info: figures/Symfoni/udglattet.jpg used on input line 90.
+Package pdftex.def Info: figures/Symfoni/udglattet.jpg used on input line 91.
 (pdftex.def)             Requested size: 512.1496pt x 384.14525pt.
 
-Overfull \hbox (110.96573pt too wide) in paragraph at lines 90--91
+Overfull \hbox (110.96573pt too wide) in paragraph at lines 91--92
  [][] 
  []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 95.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 95.
-<figures/Bass/original.jpg, id=116, 702.625pt x 526.96875pt>
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 95.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 95.
+[14 <./figures/Symfoni/hanning.jpg>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 96.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 96.
+
+<figures/Bass/original.jpg, id=188, 702.625pt x 526.96875pt>
 File: figures/Bass/original.jpg Graphic file (type jpg)
 
 <use figures/Bass/original.jpg>
-Package pdftex.def Info: figures/Bass/original.jpg used on input line 99.
+Package pdftex.def Info: figures/Bass/original.jpg used on input line 100.
 (pdftex.def)             Requested size: 512.1496pt x 384.14525pt.
 
-Overfull \hbox (110.96573pt too wide) in paragraph at lines 99--100
+Overfull \hbox (110.96573pt too wide) in paragraph at lines 100--101
  [][] 
  []
 
-<figures/Bass/DFT.jpg, id=117, 702.625pt x 526.96875pt>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 104.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 104.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 104.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 104.
+[15 <./figures/Symfoni/udglattet.jpg>]
+<figures/Bass/DFT.jpg, id=194, 702.625pt x 526.96875pt>
 File: figures/Bass/DFT.jpg Graphic file (type jpg)
 
 <use figures/Bass/DFT.jpg>
-Package pdftex.def Info: figures/Bass/DFT.jpg used on input line 106.
+Package pdftex.def Info: figures/Bass/DFT.jpg used on input line 107.
 (pdftex.def)             Requested size: 512.1496pt x 384.14525pt.
 
-Overfull \hbox (110.96573pt too wide) in paragraph at lines 106--107
+Overfull \hbox (110.96573pt too wide) in paragraph at lines 107--108
  [][] 
  []
 
-<figures/Bass/hanning.jpg, id=118, 702.625pt x 526.96875pt>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 111.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 111.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 111.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 111.
+[16 <./figures/Bass/original.jpg>]
+<figures/Bass/hanning.jpg, id=200, 702.625pt x 526.96875pt>
 File: figures/Bass/hanning.jpg Graphic file (type jpg)
 
 <use figures/Bass/hanning.jpg>
-Package pdftex.def Info: figures/Bass/hanning.jpg used on input line 113.
+Package pdftex.def Info: figures/Bass/hanning.jpg used on input line 114.
 (pdftex.def)             Requested size: 512.1496pt x 384.14525pt.
 
-Overfull \hbox (110.96573pt too wide) in paragraph at lines 113--114
+Overfull \hbox (110.96573pt too wide) in paragraph at lines 114--115
  [][] 
  []
 
-<figures/Bass/udglattet.jpg, id=119, 702.625pt x 526.96875pt>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 118.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 118.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 118.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 118.
+[17 <./figures/Bass/DFT.jpg>]
+<figures/Bass/udglattet.jpg, id=206, 702.625pt x 526.96875pt>
 File: figures/Bass/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Bass/udglattet.jpg>
-Package pdftex.def Info: figures/Bass/udglattet.jpg used on input line 120.
+Package pdftex.def Info: figures/Bass/udglattet.jpg used on input line 121.
 (pdftex.def)             Requested size: 512.1496pt x 384.14525pt.
 
-Overfull \hbox (110.96573pt too wide) in paragraph at lines 120--121
+Overfull \hbox (110.96573pt too wide) in paragraph at lines 121--122
  [][] 
  []
 
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 127.
+(babel)             in language  on input line 125.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 127.
-<figures/Vinglas/original.jpg, id=120, 702.625pt x 526.96875pt>
+(babel)             in language  on input line 125.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 125.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 125.
+[18 <./figures/Bass/hanning.jpg>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 128.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 128.
+
+<figures/Vinglas/original.jpg, id=213, 702.625pt x 526.96875pt>
 File: figures/Vinglas/original.jpg Graphic file (type jpg)
 
 <use figures/Vinglas/original.jpg>
-Package pdftex.def Info: figures/Vinglas/original.jpg used on input line 130.
+Package pdftex.def Info: figures/Vinglas/original.jpg used on input line 131.
 (pdftex.def)             Requested size: 512.1496pt x 384.14525pt.
 
-Overfull \hbox (110.96573pt too wide) in paragraph at lines 130--131
+Overfull \hbox (110.96573pt too wide) in paragraph at lines 131--132
  [][] 
  []
 
-<figures/Vinglas/DFT.jpg, id=121, 702.625pt x 526.96875pt>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 135.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 135.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 135.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 135.
+[19 <./figures/Bass/udglattet.jpg>]
+<figures/Vinglas/DFT.jpg, id=219, 702.625pt x 526.96875pt>
 File: figures/Vinglas/DFT.jpg Graphic file (type jpg)
 
 <use figures/Vinglas/DFT.jpg>
-Package pdftex.def Info: figures/Vinglas/DFT.jpg used on input line 137.
+Package pdftex.def Info: figures/Vinglas/DFT.jpg used on input line 138.
 (pdftex.def)             Requested size: 512.1496pt x 384.14525pt.
 
-Overfull \hbox (110.96573pt too wide) in paragraph at lines 137--138
+Overfull \hbox (110.96573pt too wide) in paragraph at lines 138--139
  [][] 
  []
 
-<figures/Vinglas/hanning.jpg, id=122, 702.625pt x 526.96875pt>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 142.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 142.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 142.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 142.
+[20 <./figures/Vinglas/original.jpg>]
+<figures/Vinglas/hanning.jpg, id=225, 702.625pt x 526.96875pt>
 File: figures/Vinglas/hanning.jpg Graphic file (type jpg)
 
 <use figures/Vinglas/hanning.jpg>
-Package pdftex.def Info: figures/Vinglas/hanning.jpg used on input line 144.
+Package pdftex.def Info: figures/Vinglas/hanning.jpg used on input line 145.
 (pdftex.def)             Requested size: 512.1496pt x 384.14525pt.
 
-Overfull \hbox (110.96573pt too wide) in paragraph at lines 144--145
+Overfull \hbox (110.96573pt too wide) in paragraph at lines 145--146
  [][] 
  []
 
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 151.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 151.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 155.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 155.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 158.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 158.
-) (sections/Resultat.tex
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-<<<<<<< HEAD
->>>>>>> a17d91d89cf1ba3fc73b78448ae6caf0c9028581
-=======
-<<<<<<< HEAD
-[6]
-=======
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 81.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 81.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 84.
-Package babel Info: Redefining danish shorthand "~
-<<<<<<< HEAD
-(babel)             in language  on input line 84.
-) (sections/Resultat.tex
-=======
-(babel)             in language  on input line 1.
-[5 <./figures/Motor/DFT.jpg>]
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
->>>>>>> beab7ad4db05b9ef2c1e540def10f9e40eff18ce
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-<<<<<<< HEAD
-[7]
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-[6 <./figures/Motor/hanning.jpg>]
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-<<<<<<< HEAD
-[8]
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-[7 <./figures/Motor/udglattet.jpg>]
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-<<<<<<< HEAD
-[9 <C:/Users/Spacedick/Miniprojekt-DSB/Latex/figures/Vinglas.jpg>]
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-[8 <./figures/Piano/original.jpg>]
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-<<<<<<< HEAD
-[10]
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-[9 <./figures/Piano/DFT.jpg>]
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-<<<<<<< HEAD
-[11]
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-[10 <./figures/Piano/hanning.jpg>]
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-<<<<<<< HEAD
-[12]
-Kapitel 4.
-) (C:\Users\Spacedick\Miniprojekt-DSB\Latex\sections/conclusion.tex [13
-=======
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-[11 <./figures/Piano/udglattet.jpg>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -2800,149 +2091,27 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 149.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 149.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 149.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-[12 <./figures/Symfoni/original.jpg>]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-[13 <./figures/Symfoni/DFT.jpg>]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-[14 <./figures/Symfoni/hanning.jpg>]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-[15 <./figures/Symfoni/udglattet.jpg>]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-[16 <./figures/Bass/original.jpg>]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-[17 <./figures/Bass/DFT.jpg>]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-[18 <./figures/Bass/hanning.jpg>]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-[19 <./figures/Bass/udglattet.jpg>]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-[20 <./figures/Vinglas/original.jpg>]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 149.
 [21 <./figures/Vinglas/DFT.jpg>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 152.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 152.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 156.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 156.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 159.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 159.
+) (sections/Resultat.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -2972,15 +2141,14 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
-<<<<<<< HEAD
- [12
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
-=======
  [23
->>>>>>> a17d91d89cf1ba3fc73b78448ae6caf0c9028581
 
 ]
 Kapitel 5.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
 )
 
 LaTeX Warning: Empty bibliography on input line 22.
@@ -2990,9 +2158,6 @@ LaTeX Warning: Empty bibliography on input line 22.
 
 
 AED: lastpage setting LastPage
-<<<<<<< HEAD
-[14
-=======
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 25.
 Package babel Info: Redefining danish shorthand "~
@@ -3001,86 +2166,34 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 25.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 25.
-<<<<<<< HEAD
-[13
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
-=======
 [24
->>>>>>> a17d91d89cf1ba3fc73b78448ae6caf0c9028581
 
 ]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 25.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 25.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 25.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 25.
-<<<<<<< HEAD
- (C:\Users\Spacedick\Miniprojekt-DSB\Latex\master.aux
-! Missing \endcsname inserted.
-<to be read again> 
-                   \T1\o 
-l.62 ...or Vindmølle\relax }{figure.caption.8}{}}
-                                                  
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Extra \endcsname.
-\@newl@bel ... \bbl@tempa \csname #1@#2\endcsname 
-                                                  \def \bbl@tempb {#3}\@safe...
-l.62 ...or Vindmølle\relax }{figure.caption.8}{}}
-                                                  
-I'm ignoring this, since I wasn't doing a \csname.
-
-)
-=======
  (master.aux)
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 25.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 25.
 Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: A2080BCD241D1379EA2BC6CF69EA940A;860.
+(rerunfilecheck)             Checksum: 52CC6A6A66A4EC4B62B6656243DCF0F2;1095.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-<<<<<<< HEAD
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package logreq Info: Writing requests to 'master.run.xml'.
- ) 
-Here is how much of TeX's memory you used:
- 22347 strings out of 493921
- 385157 string characters out of 3144865
- 617449 words of memory out of 3000000
- 25106 multiletter control sequences out of 15000+200000
- 63350 words of font info for 99 fonts, out of 3000000 for 9000
- 846 hyphenation exceptions out of 8191
- 65i,11n,74p,895b,962s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}{
-C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files 
-(x86)/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmr.pfb><C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files (x86)/MiKTeX 2.
-9/fonts/type1/public/cm-super/sftt1095.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/typ
-e1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/p
-alatino/uplri8a.pfb>
-Output written on master.pdf (15 pages, 229609 bytes).
-PDF statistics:
- 202 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 500000)
- 143 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
 Package logreq Info: Writing requests to 'master.run.xml'.
 \openout1 = `master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 24617 strings out of 493634
- 448291 string characters out of 3132791
- 765137 words of memory out of 3000000
- 27461 multiletter control sequences out of 15000+200000
- 55730 words of font info for 81 fonts, out of 3000000 for 9000
+ 24496 strings out of 493634
+ 446414 string characters out of 3132791
+ 759017 words of memory out of 3000000
+ 27320 multiletter control sequences out of 15000+200000
+ 58037 words of font info for 84 fonts, out of 3000000 for 9000
  1030 hyphenation exceptions out of 8191
  64i,11n,77p,897b,1431s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/KasperLauge/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontn
@@ -3091,32 +2204,9 @@ rograms/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/KasperLauge/Ap
 pData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/K
 asperLauge/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.p
 fb>
-Output written on master.pdf (14 pages, 568416 bytes).
-=======
- 24672 strings out of 493673
- 442478 string characters out of 3141529
- 768561 words of memory out of 3000000
- 27454 multiletter control sequences out of 15000+200000
- 55730 words of font info for 81 fonts, out of 3000000 for 9000
- 1030 hyphenation exceptions out of 8191
- 64i,11n,75p,895b,1431s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
-nts/type1/urw/palatino/uplri8a.pfb>
-Output written on master.pdf (25 pages, 1089926 bytes).
->>>>>>> a17d91d89cf1ba3fc73b78448ae6caf0c9028581
+Output written on master.pdf (25 pages, 1094241 bytes).
 PDF statistics:
-<<<<<<< HEAD
- 187 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
- 170 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> 00eaf4526fe84be3ba79109dc28d178e22025f80
-=======
- 258 PDF objects out of 1000 (max. 8388607)
- 60 named destinations out of 1000 (max. 500000)
- 225 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> a17d91d89cf1ba3fc73b78448ae6caf0c9028581
+ 279 PDF objects out of 1000 (max. 8388607)
+ 64 named destinations out of 1000 (max. 500000)
+ 257 words of extra memory for PDF output out of 10000 (max. 10000000)
 
