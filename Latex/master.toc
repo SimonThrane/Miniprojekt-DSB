@@ -24,6 +24,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.8}ECG-signal}{7}{section.3.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Resultat og Diskussion}{12}{chapter.4}
+\contentsline {chapter}{\numberline {4}Resultat og Diskussion}{23}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Konklusion}{13}{chapter.5}
+\contentsline {chapter}{\numberline {5}Konklusion}{24}{chapter.5}
