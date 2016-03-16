@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.18)  14 MAR 2016 11:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.18)  16 MAR 2016 08:01
 entering extended mode
 **master.tex
 (master.tex
@@ -1290,7 +1290,7 @@ LaTeX Info: Redefining \nameref on input line 9.
 (master.out) (master.out)
 \@outlinefile=\write5
  (sections/frontpage.tex
-<figures/forside.jpg, id=34, 500.62032pt x 145.29282pt>
+<figures/forside.jpg, id=62, 500.62032pt x 145.29282pt>
 File: figures/forside.jpg Graphic file (type jpg)
 
 <use figures/forside.jpg>
@@ -1390,7 +1390,7 @@ LaTeX Font Warning: Font shape `OMS/pplx/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
 (Font)              for symbol `textbullet' on input line 7.
 
-) (sections/Systembeskrivelse.tex
+) (sections/analysebeskrivelse.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -1407,7 +1407,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
-) (sections/Systemarkitektur.tex
+) (sections/analyse.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -1425,19 +1425,39 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 4.
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 5.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 4.
+(babel)             in language  on input line 5.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 4.
-<figures/Domaeneanalyse.png, id=64, 437.2335pt x 378.213pt>
-File: figures/Domaeneanalyse.png Graphic file (type png)
-
-<use figures/Domaeneanalyse.png>
-Package pdftex.def Info: figures/Domaeneanalyse.png used on input line 9.
-(pdftex.def)             Requested size: 284.52756pt x 246.12408pt.
-LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <9> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 10.
+(babel)             in language  on input line 5.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 7.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 7.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 9.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 9.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 11.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 11.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 13.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 13.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 15.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 15.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 17.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 19.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 19.
 ) (sections/Resultat.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
@@ -1449,7 +1469,7 @@ Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
  [4
 
- <./figures/Domaeneanalyse.png>]
+]
 Kapitel 4.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
@@ -1500,7 +1520,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 25.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 25.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 25.
 Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: F7F77D0B0D06CAA52BF4D847AC3A6129;381.
+(rerunfilecheck)             Checksum: 5219E48556A467C04A60345E1CE78A83;778.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1508,22 +1528,22 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package logreq Info: Writing requests to 'master.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 24255 strings out of 493673
- 434699 string characters out of 3141529
- 755216 words of memory out of 3000000
- 27102 multiletter control sequences out of 15000+200000
- 55730 words of font info for 81 fonts, out of 3000000 for 9000
+ 24244 strings out of 493673
+ 434476 string characters out of 3141529
+ 756215 words of memory out of 3000000
+ 27091 multiletter control sequences out of 15000+200000
+ 50793 words of font info for 75 fonts, out of 3000000 for 9000
  1030 hyphenation exceptions out of 8191
- 64i,6n,75p,895b,1431s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 64i,6n,56p,895b,1431s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files (x8
 6)/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
 nts/type1/urw/palatino/uplri8a.pfb>
-Output written on master.pdf (7 pages, 143478 bytes).
+Output written on master.pdf (7 pages, 129057 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 79 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 137 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
+ 130 words of extra memory for PDF output out of 10000 (max. 10000000)
 
