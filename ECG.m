@@ -40,32 +40,31 @@ Music_oct12dB = 20*log10(abs((2/N)*Xm));
 
 % ***** Plot ***************************************************
 figure(1); clf
-subplot(2,2,1);
 semilogx(f_axis(1:0.5*end),20*log10(abs((2/N)*X(1:0.5*(end)))))
 xlabel('Frekvens i Herz')
 ylabel('Størrelse i dB ift. 1 Volt')
 title('ECG DFT-signal')
 grid on
 
-subplot(2,2,2);
+figure(2); clf
 semilogx(f_axis(1:0.5*end),20*log10(abs((2/N)*W(1:0.5*(end)))))
 xlabel('Frekvens i Herz')
 ylabel('Størrelse i dB ift. 1 Volt')
 title('ECG med Hanning vindue')
 grid on
 
-subplot(2,2,3);
+figure(3); clf
 semilogx(f_oct3, Music_oct12dB)
-xlabel('Frekvens')
-ylabel('Styrke')
-title('ECG signal')
+xlabel('Frekvens i Herz')
+ylabel('Størrelse i dB ift. 1 Volt')
+title('Udglattet ECG signal')
 grid on
 
-subplot(2,2,4);
+figure(4); clf
 plot(x)
 xlabel('Samples')
 ylabel('Amplitude (volt)')
-title('Originalsignal Vinglas')
+title('Originalsignal ECG')
 grid on
 
 

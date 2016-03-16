@@ -29,43 +29,39 @@ x_hann=x.*w';
 W = fft(x_hann,N);
 
 % ***** Udklat et signal ***************************************
-%Smoothen = raw_smooth(X, N);
-%[f_oct3, Xm] = oct_smooth(W, Fsample, 20, [1 65536]);
-%[f_oct3, S_female_oct3] = oct_smooth(S_female_left, fsample, 3, [20 20000]);
-%S_female_smooth = raw_smooth(W, 31);
-%S_female_smoothdB = 20*log10(abs(S_female_smooth));
+[f_oct3, Xm] = oct_smooth(X, Fsample, 20, [1 22000]);
 
 
-%S_female_oct3dB = 20*log10(abs(Xm));
+
+S_Motor_oct3dB = 20*log10(abs(Xm));
 
 % ***** Plot ***************************************************
 figure(1); clf
-subplot(2,2,1);
-semilogx(20*log10(abs((2/N)*X(1:0.5*end))))
-xlabel('Samplebins')
+semilogx(f_axis(1:0.5*end),20*log10(abs((2/N)*X(1:0.5*end))))
+xlabel('Frekvens i Herz')
 ylabel('Størrelse i dB ift. 1 Volt')
 title('Motorcykel DFT-signal')
 grid on
 
-subplot(2,2,2);
-semilogx(20*log10(abs((2/N)*W(1:0.5*end))))
-xlabel('Samplebins')
+figure(2); clf
+semilogx(f_axis(1:0.5*end),20*log10(abs((2/N)*W(1:0.5*end))))
+xlabel('Frekvens i Herz')
 ylabel('Størrelse i dB ift. 1 Volt')
 title('Motorcykel med Hanning vindue')
 grid on
 
-subplot(2,2,3);
+figure(3); clf
 plot(x)
 xlabel('Samples')
 ylabel('Amplitude (Volt)')
 title('Originalsignal Motorcykel')
 grid on
 
-subplot(2,2,4);
-plot(20*log10(abs(X)))
-xlabel('Frekvens')
-ylabel('Styrke')
-title('Motorcykel')
+figure(4); clf
+semilogx(f_oct3,S_Motor_oct3dB)
+xlabel('Frekvens i Herz')
+ylabel('Størrelse i dB ift. 1 Volt')
+title('Motorcykel udglattet signal')
 grid on
 
 
