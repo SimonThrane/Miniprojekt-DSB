@@ -6,6 +6,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Analysebeskrivelse}{3}{chapter.2}
 \defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.0.1}Fouriertransformationen}{3}{subsection.2.0.1}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Analyse}{4}{chapter.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}Motor}{4}{section.3.1}
