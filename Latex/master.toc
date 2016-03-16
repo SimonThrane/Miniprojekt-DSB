@@ -10,20 +10,20 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}Motor}{4}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Klaver}{4}{section.3.2}
+\contentsline {section}{\numberline {3.2}Klaver}{7}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Symfoni}{4}{section.3.3}
+\contentsline {section}{\numberline {3.3}Symfoni}{7}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Bass}{4}{section.3.4}
+\contentsline {section}{\numberline {3.4}Bass}{7}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Vinglas}{4}{section.3.5}
+\contentsline {section}{\numberline {3.5}Vinglas}{7}{section.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Vindm\IeC {\o }lle}{4}{section.3.6}
+\contentsline {section}{\numberline {3.6}Vindm\IeC {\o }lle}{7}{section.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.7}Musikbox}{4}{section.3.7}
+\contentsline {section}{\numberline {3.7}Musikbox}{7}{section.3.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.8}ECG-signal}{4}{section.3.8}
+\contentsline {section}{\numberline {3.8}ECG-signal}{7}{section.3.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Resultat og Diskussion}{13}{chapter.4}
+\contentsline {chapter}{\numberline {4}Resultat og Diskussion}{12}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Konklusion}{14}{chapter.5}
+\contentsline {chapter}{\numberline {5}Konklusion}{13}{chapter.5}
