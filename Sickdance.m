@@ -40,22 +40,22 @@ Music_oct12dB = 20*log10(abs((2/N)*Xm));
 % ***** Plot ***************************************************
 figure(1); clf
 subplot(2,2,1);
-semilogx(20*log10(abs((2/N)*X(1:0.5*(end-1)))))
-xlabel('Samplebins')
+semilogx(f_axis(1:0.5*end),20*log10(abs((2/N)*X(1:0.5*(end)))))
+xlabel('Frekvens i Herz')
 ylabel('Størrelse i dB ift. 1 Volt')
 title('Bass DFT-signal')
 grid on
 
 subplot(2,2,2);
-semilogx(20*log10(abs((2/N)*W(1:0.5*(end-1)))))
-xlabel('Samplebins')
+semilogx(f_axis(1:0.5*end),20*log10(abs((2/N)*W(1:0.5*(end)))))
+xlabel('Frekvens I Herz')
 ylabel('Størrelse i dB ift. 1 Volt')
 title('Bass med Hanning vindue')
 grid on
 
 subplot(2,2,3);
 semilogx(f_oct3, Music_oct12dB)
-xlabel('Frekvens')
+xlabel('Frekvens i Herz')
 ylabel('Styrke')
 title('Udglattet signal')
 grid on
