@@ -1,3 +1,27 @@
 \chapter{Analysebeskrivelse}\label{ch:analysebeskrivelse}
 
+I denne opgave er der brugt en række forskellige metoder til analyse af de valgte digitale signaler, dette afsnit er til for at beskrive disse metoder som indbefatter :
+\begin{itemize}
+\item Fouriertransformationen
+\item Aliasering
+\item Vinduesfunktioner og lækage
+\item Udglatning
+\end{itemize}
+ 
+\subsection{Vinduesfunktioner} 
+ 
+\subsection{Fouriertransformationen}
+
+\sum\limits_{m=0}^N-1 i^2 = {|X(m)|^2}
+
+\subsection{Aliasering}
+I analysen af de forskellige signaler, er der i figurene kun plottet op til halvdelen af samplingsfrekvensen, dette skyldes at der efter nyquist frekvensen, som er: INKULDER MATEMATIK, 
+
+blot ville vise et spejlbillede af signalet op til nyquist frekvensen, men dette giver ikke mening at kikke på. Ved signalerne udvindes en samplingsfrekvens ved matlabfunktionen audioread, og dermed forventes det at undgå både gentagelse af frekvensspektret, samt forkert sampling. På et enkelt spekter er der sent tegn på at der tidligere er brugt en anden samplingsfrekvens.
+
+\subsection{Udglatning}
+
+Da det har været fremende for forståelsen af spektrene at plotte på logaritmisk x-akse, er det valgt at udglatningen af signalet skal afspejle aksen, og derfor bruges octav udglatning.
+
+
 
