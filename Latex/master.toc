@@ -26,12 +26,12 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.5}Vinglas}{19}{section.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Vindm\IeC {\o }lle}{22}{section.3.6}
+\contentsline {section}{\numberline {3.6}Vindm\IeC {\o }lle}{23}{section.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.7}Spilled\IeC {\r a}se}{26}{section.3.7}
+\contentsline {section}{\numberline {3.7}Spilled\IeC {\r a}se}{27}{section.3.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.8}ECG-signal}{29}{section.3.8}
+\contentsline {section}{\numberline {3.8}ECG-signal}{30}{section.3.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Resultat og Diskussion}{33}{chapter.4}
+\contentsline {chapter}{\numberline {4}Resultat og Diskussion}{34}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Konklusion}{34}{chapter.5}
+\contentsline {chapter}{\numberline {5}Konklusion}{35}{chapter.5}
