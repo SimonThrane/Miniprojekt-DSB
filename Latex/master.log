@@ -1,13 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.18)  17 MAR 2016 09:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.3.5)  24 MAR 2016 15:14
 entering extended mode
-**master.tex
-(master.tex
-LaTeX2e <2015/01/01> patch level 2
-Babel <3.9m> and hyphenation patterns for 69 languages loaded.
-(setup/preamble.tex
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./master.tex
+(./master.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(./setup/preamble.tex (c:/texlive/2015/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
+(c:/texlive/2015/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -23,23 +24,120 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
-Package: inputenc 2015/03/17 v1.2c Input encoding file
-\inpenc@prehook=\toks14
-\inpenc@posthook=\toks15
+(c:/texlive/2015/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
-File: utf8.def 2015/06/27 v1.1n UTF-8 support for inputenc
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(c:/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count88
+\calc@Bcount=\count89
+\calc@Adimen=\dimen103
+\calc@Bdimen=\dimen104
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count90
+\calc@Cskip=\skip45
+)
+(c:/texlive/2015/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+(c:/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks16
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count103
+\l_MT_multwidth_dim=\dimen114
+\origjot=\skip49
+\l_MT_shortvdotswithinadjustabove_dim=\dimen115
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen116
+\l_MT_above_intertext_sep=\dimen117
+\l_MT_below_intertext_sep=\dimen118
+\l_MT_above_shortintertext_sep=\dimen119
+\l_MT_below_shortintertext_sep=\dimen120
+)
+(c:/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+
+(c:/texlive/2015/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2015/12/03 v1.1r UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
-File: t1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
+(c:/texlive/2015/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
    defining Unicode char U+00BB (decimal 187)
    defining Unicode char U+00BF (decimal 191)
    defining Unicode char U+00C0 (decimal 192)
@@ -104,50 +202,94 @@ File: t1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
    defining Unicode char U+00FD (decimal 253)
    defining Unicode char U+00FE (decimal 254)
    defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
    defining Unicode char U+0102 (decimal 258)
    defining Unicode char U+0103 (decimal 259)
    defining Unicode char U+0104 (decimal 260)
    defining Unicode char U+0105 (decimal 261)
    defining Unicode char U+0106 (decimal 262)
    defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
    defining Unicode char U+010C (decimal 268)
    defining Unicode char U+010D (decimal 269)
    defining Unicode char U+010E (decimal 270)
    defining Unicode char U+010F (decimal 271)
    defining Unicode char U+0110 (decimal 272)
    defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
    defining Unicode char U+0118 (decimal 280)
    defining Unicode char U+0119 (decimal 281)
    defining Unicode char U+011A (decimal 282)
    defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
    defining Unicode char U+011E (decimal 286)
    defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
    defining Unicode char U+0130 (decimal 304)
    defining Unicode char U+0131 (decimal 305)
    defining Unicode char U+0132 (decimal 306)
    defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
    defining Unicode char U+0139 (decimal 313)
    defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
    defining Unicode char U+013D (decimal 317)
    defining Unicode char U+013E (decimal 318)
    defining Unicode char U+0141 (decimal 321)
    defining Unicode char U+0142 (decimal 322)
    defining Unicode char U+0143 (decimal 323)
    defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
    defining Unicode char U+0147 (decimal 327)
    defining Unicode char U+0148 (decimal 328)
    defining Unicode char U+014A (decimal 330)
    defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
    defining Unicode char U+0150 (decimal 336)
    defining Unicode char U+0151 (decimal 337)
    defining Unicode char U+0152 (decimal 338)
    defining Unicode char U+0153 (decimal 339)
    defining Unicode char U+0154 (decimal 340)
    defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
    defining Unicode char U+0158 (decimal 344)
    defining Unicode char U+0159 (decimal 345)
    defining Unicode char U+015A (decimal 346)
    defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
    defining Unicode char U+015E (decimal 350)
    defining Unicode char U+015F (decimal 351)
    defining Unicode char U+0160 (decimal 352)
@@ -156,10 +298,22 @@ File: t1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
    defining Unicode char U+0163 (decimal 355)
    defining Unicode char U+0164 (decimal 356)
    defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
    defining Unicode char U+016E (decimal 366)
    defining Unicode char U+016F (decimal 367)
    defining Unicode char U+0170 (decimal 368)
    defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
    defining Unicode char U+0178 (decimal 376)
    defining Unicode char U+0179 (decimal 377)
    defining Unicode char U+017A (decimal 378)
@@ -167,6 +321,31 @@ File: t1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
    defining Unicode char U+017C (decimal 380)
    defining Unicode char U+017D (decimal 381)
    defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+01E02 (decimal 7682)
+   defining Unicode char U+01E03 (decimal 7683)
    defining Unicode char U+200C (decimal 8204)
    defining Unicode char U+2013 (decimal 8211)
    defining Unicode char U+2014 (decimal 8212)
@@ -185,10 +364,12 @@ File: t1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
-File: ot1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
+(c:/texlive/2015/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
    defining Unicode char U+00B8 (decimal 184)
    defining Unicode char U+00BF (decimal 191)
    defining Unicode char U+00C5 (decimal 197)
@@ -206,6 +387,14 @@ File: ot1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
    defining Unicode char U+0142 (decimal 322)
    defining Unicode char U+0152 (decimal 338)
    defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
    defining Unicode char U+2013 (decimal 8211)
    defining Unicode char U+2014 (decimal 8212)
    defining Unicode char U+2018 (decimal 8216)
@@ -216,8 +405,8 @@ File: ot1enc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
-File: omsenc.dfu 2015/06/27 v1.1n UTF-8 support for inputenc
+(c:/texlive/2015/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2015/12/03 v1.1r UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -240,62 +429,56 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2015/08/03 3.9m The Babel package
+(c:/texlive/2015/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/02/24 3.9q The Babel package
 
-*************************************
-* Local config file bblopts.cfg used
-*
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
-File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\babel-danish\danish.ldf"
+(c:/texlive/2015/texmf-dist/tex/generic/babel-danish/danish.ldf
 Language: danish 2009/09/19 v1.3r Danish support from the babel system
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2015/08/03 3.9m Babel common definitions
-\babel@savecnt=\count88
-\U@D=\dimen103
+(c:/texlive/2015/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/02/24 3.9q Babel common definitions
+\babel@savecnt=\count104
+\U@D=\dimen121
 )
 Package babel Info: Making " an active character on input line 82.
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count89
-\float@exts=\toks16
-\float@box=\box26
-\@float@everytoks=\toks17
-\@floatcapt=\box27
+\c@float@type=\count105
+\float@exts=\toks22
+\float@box=\box28
+\@float@everytoks=\toks23
+\@floatcapt=\box29
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\mathpazo.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/psnfss/mathpazo.sty
 Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup4
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+(c:/texlive/2015/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+(c:/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count90
+\Gread@gobject=\count106
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
@@ -307,174 +490,112 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks18
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+(c:/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 95.
 )
-\Gin@req@height=\dimen104
-\Gin@req@width=\dimen105
+\Gin@req@height=\dimen122
+\Gin@req@width=\dimen123
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
-Package: caption 2015/09/17 v3.3-111 Customizing captions (AR)
+(c:/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
-Package: caption3 2015/09/20 v1.7-115 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 57.
-\captionmargin=\dimen106
-\captionmargin@=\dimen107
-\captionwidth=\dimen108
-\caption@tempdima=\dimen109
-\caption@indent=\dimen110
-\caption@parindent=\dimen111
-\caption@hangindent=\dimen112
+(c:/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen124
+\captionmargin@=\dimen125
+\captionwidth=\dimen126
+\caption@tempdima=\dimen127
+\caption@indent=\dimen128
+\caption@parindent=\dimen129
+\caption@hangindent=\dimen130
 )
-\c@ContinuedFloat=\count91
+\c@ContinuedFloat=\count107
 Package caption Info: float package is loaded.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/tools/array.sty
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen113
-\extrarowheight=\dimen114
-\NC@list=\toks19
-\extratabsurround=\skip43
-\backup@length=\skip44
+\col@sep=\dimen131
+\extrarowheight=\dimen132
+\NC@list=\toks24
+\extratabsurround=\skip50
+\backup@length=\skip51
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen115
-\lightrulewidth=\dimen116
-\cmidrulewidth=\dimen117
-\belowrulesep=\dimen118
-\belowbottomsep=\dimen119
-\aboverulesep=\dimen120
-\abovetopsep=\dimen121
-\cmidrulesep=\dimen122
-\cmidrulekern=\dimen123
-\defaultaddspace=\dimen124
-\@cmidla=\count92
-\@cmidlb=\count93
-\@aboverulesep=\dimen125
-\@belowrulesep=\dimen126
-\@thisruleclass=\count94
-\@lastruleclass=\count95
-\@thisrulewidth=\dimen127
+\heavyrulewidth=\dimen133
+\lightrulewidth=\dimen134
+\cmidrulewidth=\dimen135
+\belowrulesep=\dimen136
+\belowbottomsep=\dimen137
+\aboverulesep=\dimen138
+\abovetopsep=\dimen139
+\cmidrulesep=\dimen140
+\cmidrulekern=\dimen141
+\defaultaddspace=\dimen142
+\@cmidla=\count108
+\@cmidlb=\count109
+\@aboverulesep=\dimen143
+\@belowrulesep=\dimen144
+\@thisruleclass=\count110
+\@lastruleclass=\count111
+\@thisrulewidth=\dimen145
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\framed\framed.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip45
-\fb@frw=\dimen128
-\fb@frh=\dimen129
-\FrameRule=\dimen130
-\FrameSep=\dimen131
+\OuterFrameSep=\skip52
+\fb@frw=\dimen146
+\fb@frh=\dimen147
+\FrameRule=\dimen148
+\FrameSep=\dimen149
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
-Package: amsmath 2013/01/14 v2.14 AMS math features
-\@mathmargin=\skip46
-
-For additional information on amsmath, use the `?' option.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
-Package: amstext 2000/06/29 v2.01
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
-File: amsgen.sty 1999/11/30 v2.0
-\@emptytoks=\toks20
-\ex@=\dimen132
-))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
-Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen133
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
-Package: amsopn 1999/12/14 v2.01 operator names
-)
-\inf@bad=\count96
-LaTeX Info: Redefining \frac on input line 210.
-\uproot@=\count97
-\leftroot@=\count98
-LaTeX Info: Redefining \overline on input line 306.
-\classnum@=\count99
-\DOTSCASE@=\count100
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
-\Mathstrutbox@=\box28
-\strutbox@=\box29
-\big@size=\dimen134
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
-\macc@depth=\count101
-\c@MaxMatrixCols=\count102
-\dotsspace@=\muskip10
-\c@parentequation=\count103
-\dspbrk@lvl=\count104
-\tag@help=\toks21
-\row@=\count105
-\column@=\count106
-\maxfields@=\count107
-\andhelp@=\toks22
-\eqnshift@=\dimen135
-\alignsep@=\dimen136
-\tagshift@=\dimen137
-\tagwidth@=\dimen138
-\totwidth@=\dimen139
-\lineht@=\dimen140
-\@envbody=\toks23
-\multlinegap=\skip47
-\multlinetaggap=\skip48
-\mathdisplay@stack=\toks24
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup5
 \symAMSb=\mathgroup6
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ntheorem\ntheorem.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/ntheorem/ntheorem.sty
 Style `ntheorem', Version 1.33 <2011/08/15>
 Package: ntheorem 2011/08/15 1.33
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \theorem@style=\toks25
 \theorem@@style=\toks26
 \theorembodyfont=\toks27
 \theoremnumbering=\toks28
-\theorempreskipamount=\skip49
-\theorempostskipamount=\skip50
-\theoremframepreskipamount=\skip51
-\theoremframepostskipamount=\skip52
-\theoreminframepreskipamount=\skip53
-\theoreminframepostskipamount=\skip54
+\theorempreskipamount=\skip53
+\theorempostskipamount=\skip54
+\theoremframepreskipamount=\skip55
+\theoremframepostskipamount=\skip56
+\theoreminframepreskipamount=\skip57
+\theoreminframepostskipamount=\skip58
 \theorem@preskip=\toks29
 \theorem@postskip=\toks30
 \theorem@framepreskip=\toks31
 \theorem@framepostskip=\toks32
 \theorem@inframepreskip=\toks33
 \theorem@inframepostskip=\toks34
-\theoremindent=\dimen141
-\theorem@indent=\dimen142
-\theoremrightindent=\dimen143
-\theorem@rightindent=\dimen144
+\theoremindent=\dimen150
+\theorem@indent=\dimen151
+\theoremrightindent=\dimen152
+\theorem@rightindent=\dimen153
 \theoremheaderfont=\toks35
 \theoremseparator=\toks36
 \theoremprework=\toks37
@@ -483,255 +604,241 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \qedsymbol=\toks40
 \theoremkeyword=\toks41
 \qedsymbol=\toks42
-\thm@topsep=\skip55
-\thm@topsepadd=\skip56
+\thm@topsep=\skip59
+\thm@topsepadd=\skip60
 Package ntheorem Info: Option `thmmarks' loaded on input line 1175.
-\c@endNonectr=\count108
-\c@currNonectr=\count109
-\mysavskip=\skip57
+\c@endNonectr=\count112
+\c@currNonectr=\count113
+\mysavskip=\skip61
 Package ntheorem Info: option `amsmath' handling for `thmmarks' loaded on input
  line 1175.
-\thm@amstmpdepth=\dimen145
-\tagwidth=\dimen146
+\thm@amstmpdepth=\dimen154
+\tagwidth=\dimen155
 \shadecolor=\toks43
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+(c:/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count110
-\Gm@cntv=\count111
-\c@Gm@tempcnt=\count112
-\Gm@bindingoffset=\dimen147
-\Gm@wd@mp=\dimen148
-\Gm@odd@mp=\dimen149
-\Gm@even@mp=\dimen150
-\Gm@layoutwidth=\dimen151
-\Gm@layoutheight=\dimen152
-\Gm@layouthoffset=\dimen153
-\Gm@layoutvoffset=\dimen154
+\Gm@cnth=\count114
+\Gm@cntv=\count115
+\c@Gm@tempcnt=\count116
+\Gm@bindingoffset=\dimen156
+\Gm@wd@mp=\dimen157
+\Gm@odd@mp=\dimen158
+\Gm@even@mp=\dimen159
+\Gm@layoutwidth=\dimen160
+\Gm@layoutheight=\dimen161
+\Gm@layouthoffset=\dimen162
+\Gm@layoutvoffset=\dimen163
 \Gm@dimlist=\toks44
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+)
+(c:/texlive/2015/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \ttl@box=\box30
-\beforetitleunit=\skip58
-\aftertitleunit=\skip59
-\ttl@plus=\dimen155
-\ttl@minus=\dimen156
+\beforetitleunit=\skip62
+\aftertitleunit=\skip63
+\ttl@plus=\dimen164
+\ttl@minus=\dimen165
 \ttl@toksa=\toks45
-\titlewidth=\dimen157
-\titlewidthlast=\dimen158
-\titlewidthfirst=\dimen159
+\titlewidth=\dimen166
+\titlewidthlast=\dimen167
+\titlewidthfirst=\dimen168
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
-\fancy@headwidth=\skip60
-\f@ncyO@elh=\skip61
-\f@ncyO@erh=\skip62
-\f@ncyO@olh=\skip63
-\f@ncyO@orh=\skip64
-\f@ncyO@elf=\skip65
-\f@ncyO@erf=\skip66
-\f@ncyO@olf=\skip67
-\f@ncyO@orf=\skip68
+(c:/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip64
+\f@ncyO@elh=\skip65
+\f@ncyO@erh=\skip66
+\f@ncyO@olh=\skip67
+\f@ncyO@orh=\skip68
+\f@ncyO@elf=\skip69
+\f@ncyO@erf=\skip70
+\f@ncyO@olf=\skip71
+\f@ncyO@orf=\skip72
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count113
-\calc@Bcount=\count114
-\calc@Adimen=\dimen160
-\calc@Bdimen=\dimen161
-\calc@Askip=\skip69
-\calc@Bskip=\skip70
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count115
-\calc@Cskip=\skip71
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2015/12/22 v3.2 programmable bibliographies (PK/JW/AB)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex1.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex1.sty
 Package: biblatex1 2015/12/22 v3.2 programmable bibliographies (bibtex) (PK/JW/
 AB)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count116
+\etb@tempcnta=\count117
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\logreq\logreq.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count117
+\lrq@indent=\count118
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\logreq\logreq.def"
+(c:/texlive/2015/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count118
-\c@listtotal=\count119
-\c@listcount=\count120
-\c@liststart=\count121
-\c@liststop=\count122
-\c@citecount=\count123
-\c@citetotal=\count124
-\c@multicitecount=\count125
-\c@multicitetotal=\count126
-\c@instcount=\count127
-\c@maxnames=\count128
-\c@minnames=\count129
-\c@maxitems=\count130
-\c@minitems=\count131
-\c@citecounter=\count132
-\c@savedcitecounter=\count133
-\c@uniquelist=\count134
-\c@uniquename=\count135
-\c@refsection=\count136
-\c@refsegment=\count137
-\c@maxextrayear=\count138
-\c@maxextraalpha=\count139
-\c@abbrvpenalty=\count140
-\c@highnamepenalty=\count141
-\c@lownamepenalty=\count142
-\c@maxparens=\count143
-\c@parenlevel=\count144
-\blx@tempcnta=\count145
-\blx@tempcntb=\count146
-\blx@tempcntc=\count147
-\blx@maxsection=\count148
-\blx@maxsegment=\count149
-\blx@notetype=\count150
-\blx@parenlevel@text=\count151
-\blx@parenlevel@foot=\count152
-\labelnumberwidth=\skip72
-\labelalphawidth=\skip73
-\shorthandwidth=\skip74
-\biblabelsep=\skip75
-\bibitemsep=\skip76
-\bibnamesep=\skip77
-\bibinitsep=\skip78
-\bibparsep=\skip79
-\bibhang=\skip80
+\c@tabx@nest=\count119
+\c@listtotal=\count120
+\c@listcount=\count121
+\c@liststart=\count122
+\c@liststop=\count123
+\c@citecount=\count124
+\c@citetotal=\count125
+\c@multicitecount=\count126
+\c@multicitetotal=\count127
+\c@instcount=\count128
+\c@maxnames=\count129
+\c@minnames=\count130
+\c@maxitems=\count131
+\c@minitems=\count132
+\c@citecounter=\count133
+\c@savedcitecounter=\count134
+\c@uniquelist=\count135
+\c@uniquename=\count136
+\c@refsection=\count137
+\c@refsegment=\count138
+\c@maxextrayear=\count139
+\c@maxextraalpha=\count140
+\c@abbrvpenalty=\count141
+\c@highnamepenalty=\count142
+\c@lownamepenalty=\count143
+\c@maxparens=\count144
+\c@parenlevel=\count145
+\blx@tempcnta=\count146
+\blx@tempcntb=\count147
+\blx@tempcntc=\count148
+\blx@maxsection=\count149
+\blx@maxsegment=\count150
+\blx@notetype=\count151
+\blx@parenlevel@text=\count152
+\blx@parenlevel@foot=\count153
+\labelnumberwidth=\skip73
+\labelalphawidth=\skip74
+\shorthandwidth=\skip75
+\biblabelsep=\skip76
+\bibitemsep=\skip77
+\bibnamesep=\skip78
+\bibinitsep=\skip79
+\bibparsep=\skip80
+\bibhang=\skip81
 \blx@auxin=\read1
 \blx@auxout=\write3
-\c@mincomprange=\count153
-\c@maxcomprange=\count154
-\c@mincompwidth=\count155
-\c@labelname=\count156
-\c@savedlabelname=\count157
-\c@author=\count158
-\c@savedauthor=\count159
-\c@shortauthor=\count160
-\c@savedshortauthor=\count161
-\c@editor=\count162
-\c@savededitor=\count163
-\c@editora=\count164
-\c@savededitora=\count165
-\c@editorb=\count166
-\c@savededitorb=\count167
-\c@editorc=\count168
-\c@savededitorc=\count169
-\c@shorteditor=\count170
-\c@savedshorteditor=\count171
-\c@bookauthor=\count172
-\c@savedbookauthor=\count173
-\c@translator=\count174
-\c@savedtranslator=\count175
-\c@annotator=\count176
-\c@savedannotator=\count177
-\c@commentator=\count178
-\c@savedcommentator=\count179
-\c@introduction=\count180
-\c@savedintroduction=\count181
-\c@foreword=\count182
-\c@savedforeword=\count183
-\c@afterword=\count184
-\c@savedafterword=\count185
-\c@holder=\count186
-\c@savedholder=\count187
-\c@namea=\count188
-\c@savednamea=\count189
-\c@nameb=\count190
-\c@savednameb=\count191
-\c@namec=\count192
-\c@savednamec=\count193
-\c@institution=\count194
-\c@savedinstitution=\count195
-\c@language=\count196
-\c@savedlanguage=\count197
-\c@location=\count198
-\c@savedlocation=\count199
-\c@organization=\count200
-\c@savedorganization=\count201
-\c@origlocation=\count202
-\c@savedoriglocation=\count203
-\c@origpublisher=\count204
-\c@savedorigpublisher=\count205
-\c@pageref=\count206
-\c@savedpageref=\count207
-\c@publisher=\count208
-\c@savedpublisher=\count209
-\c@lista=\count210
-\c@savedlista=\count211
-\c@listb=\count212
-\c@savedlistb=\count213
-\c@listc=\count214
-\c@savedlistc=\count215
-\c@listd=\count216
-\c@savedlistd=\count217
-\c@liste=\count218
-\c@savedliste=\count219
-\c@listf=\count220
-\c@savedlistf=\count221
+\c@mincomprange=\count154
+\c@maxcomprange=\count155
+\c@mincompwidth=\count156
+\c@labelname=\count157
+\c@savedlabelname=\count158
+\c@author=\count159
+\c@savedauthor=\count160
+\c@shortauthor=\count161
+\c@savedshortauthor=\count162
+\c@editor=\count163
+\c@savededitor=\count164
+\c@editora=\count165
+\c@savededitora=\count166
+\c@editorb=\count167
+\c@savededitorb=\count168
+\c@editorc=\count169
+\c@savededitorc=\count170
+\c@shorteditor=\count171
+\c@savedshorteditor=\count172
+\c@bookauthor=\count173
+\c@savedbookauthor=\count174
+\c@translator=\count175
+\c@savedtranslator=\count176
+\c@annotator=\count177
+\c@savedannotator=\count178
+\c@commentator=\count179
+\c@savedcommentator=\count180
+\c@introduction=\count181
+\c@savedintroduction=\count182
+\c@foreword=\count183
+\c@savedforeword=\count184
+\c@afterword=\count185
+\c@savedafterword=\count186
+\c@holder=\count187
+\c@savedholder=\count188
+\c@namea=\count189
+\c@savednamea=\count190
+\c@nameb=\count191
+\c@savednameb=\count192
+\c@namec=\count193
+\c@savednamec=\count194
+\c@institution=\count195
+\c@savedinstitution=\count196
+\c@language=\count197
+\c@savedlanguage=\count198
+\c@location=\count199
+\c@savedlocation=\count266
+\c@organization=\count267
+\c@savedorganization=\count268
+\c@origlocation=\count269
+\c@savedoriglocation=\count270
+\c@origpublisher=\count271
+\c@savedorigpublisher=\count272
+\c@pageref=\count273
+\c@savedpageref=\count274
+\c@publisher=\count275
+\c@savedpublisher=\count276
+\c@lista=\count277
+\c@savedlista=\count278
+\c@listb=\count279
+\c@savedlistb=\count280
+\c@listc=\count281
+\c@savedlistc=\count282
+\c@listd=\count283
+\c@savedlistd=\count284
+\c@liste=\count285
+\c@savedliste=\count286
+\c@listf=\count287
+\c@savedlistf=\count288
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\blx-compat.def"
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2015/12/22 v3.2 biblatex compatibility (PK/JW/AB)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.def"
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 
-\c@textcitecount=\count222
-\c@textcitetotal=\count223
-\c@textcitemaxnames=\count224
-\c@biburlnumpenalty=\count225
-\c@biburlucpenalty=\count226
-\c@biburllcpenalty=\count227
-\c@smartand=\count228
+\c@textcitecount=\count289
+\c@textcitetotal=\count290
+\c@textcitemaxnames=\count291
+\c@biburlnumpenalty=\count292
+\c@biburlucpenalty=\count293
+\c@biburllcpenalty=\count294
+\c@smartand=\count295
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\bbx\numeric.bbx"
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
 File: numeric.bbx 2015/12/22 v3.2 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx"
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2015/12/22 v3.2 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count229
-\c@bbx:relatedtotal=\count230
+\c@bbx:relatedcount=\count296
+\c@bbx:relatedtotal=\count297
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\cbx\numeric.cbx"
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
 File: numeric.cbx 2015/12/22 v3.2 biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -748,327 +855,301 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\biblatex.cfg"
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tocbibind\tocbibind.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has chapter divisions on input line 50.
 
 
 Package tocbibind Note: Using chapter style headings, unless overridden.
 
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lastpage\lastpage.sty"
+) (c:/texlive/2015/texmf-dist/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\todonotes\todonotes.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/todonotes/todonotes.sty
 Package: todonotes 2015/07/09 .dtx Todonotes source and documentation.
 Package: todonotes 2012/07/25
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2015/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks46
 \XKV@tempa@toks=\toks47
 )
-\XKV@depth=\count231
+\XKV@depth=\count298
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.te
-x"
+(c:/texlive/2015/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/texlive/2015/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(c:/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks48
-\pgfutil@tempdima=\dimen162
-\pgfutil@tempdimb=\dimen163
+\pgfutil@tempdima=\dimen169
+\pgfutil@tempdimb=\dimen170
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-li
-sts.tex"))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def
-"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)
+) (c:/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box31
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+
+(c:/texlive/2015/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
-"
+
+(c:/texlive/2015/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/2015/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
-"
+
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks49
 \pgfkeys@temptoks=\toks50
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.c
-ode.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks51
 ))
-\pgf@x=\dimen164
-\pgf@y=\dimen165
-\pgf@xa=\dimen166
-\pgf@ya=\dimen167
-\pgf@xb=\dimen168
-\pgf@yb=\dimen169
-\pgf@xc=\dimen170
-\pgf@yc=\dimen171
+\pgf@x=\dimen171
+\pgf@y=\dimen172
+\pgf@xa=\dimen173
+\pgf@ya=\dimen174
+\pgf@xb=\dimen175
+\pgf@yb=\dimen176
+\pgf@xc=\dimen177
+\pgf@yc=\dimen178
 \w@pgf@writea=\write4
 \r@pgf@reada=\read2
-\c@pgf@counta=\count232
-\c@pgf@countb=\count233
-\c@pgf@countc=\count266
-\c@pgf@countd=\count267
+\c@pgf@counta=\count299
+\c@pgf@countb=\count300
+\c@pgf@countc=\count301
+\c@pgf@countd=\count302
 \t@pgf@toka=\toks52
 \t@pgf@tokb=\toks53
 \t@pgf@tokc=\toks54
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
+ (c:/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.d
-ef"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-p
-df.def"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.
-code.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count268
-\pgfsyssoftpath@bigbuffer@items=\count269
+\pgfsyssoftpath@smallbuffer@items=\count303
+\pgfsyssoftpath@bigbuffer@items=\count304
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.
-code.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
-"
+)) (c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex
-"
-\pgfmath@dimen=\dimen172
-\pgfmath@count=\count270
+
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen179
+\pgfmath@count=\count305
 \pgfmath@box=\box32
 \pgfmath@toks=\toks55
 \pgfmath@stack@operand=\toks56
 \pgfmath@stack@operation=\toks57
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.
-tex"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic
-.code.tex")
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigo
-nometric.code.tex")
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.rando
-m.code.tex")
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.compa
-rison.code.tex")
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.
-code.tex")
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round
-.code.tex")
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.
-code.tex")
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integ
-erarithmetics.code.tex")))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
-\c@pgfmathroundto@lastzeros=\count271
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
+x)
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
+.code.tex)
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
+ex)
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
+de.tex)
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+)
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
+x)
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+)
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
+etics.code.tex)))
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count306
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.co
-de.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen173
-\pgf@picmaxx=\dimen174
-\pgf@picminy=\dimen175
-\pgf@picmaxy=\dimen176
-\pgf@pathminx=\dimen177
-\pgf@pathmaxx=\dimen178
-\pgf@pathminy=\dimen179
-\pgf@pathmaxy=\dimen180
-\pgf@xx=\dimen181
-\pgf@xy=\dimen182
-\pgf@yx=\dimen183
-\pgf@yy=\dimen184
-\pgf@zx=\dimen185
-\pgf@zy=\dimen186
+\pgf@picminx=\dimen180
+\pgf@picmaxx=\dimen181
+\pgf@picminy=\dimen182
+\pgf@picmaxy=\dimen183
+\pgf@pathminx=\dimen184
+\pgf@pathmaxx=\dimen185
+\pgf@pathminy=\dimen186
+\pgf@pathmaxy=\dimen187
+\pgf@xx=\dimen188
+\pgf@xy=\dimen189
+\pgf@yx=\dimen190
+\pgf@yy=\dimen191
+\pgf@zx=\dimen192
+\pgf@zy=\dimen193
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconst
-ruct.code.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
+e.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen187
-\pgf@path@lasty=\dimen188
+\pgf@path@lastx=\dimen194
+\pgf@path@lasty=\dimen195
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage
-.code.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
+x
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen189
-\pgf@shorten@start@additional=\dimen190
+\pgf@shorten@end@additional=\dimen196
+\pgf@shorten@start@additional=\dimen197
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.co
-de.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box33
 \pgf@hbox=\box34
 \pgf@layerbox@main=\box35
-\pgf@picture@serial@count=\count272
+\pgf@picture@serial@count=\count307
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicst
-ate.code.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
+.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen191
+\pgflinewidth=\dimen198
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransform
-ations.code.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
+ode.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen192
-\pgf@pt@y=\dimen193
-\pgf@pt@temp=\dimen194
+\pgf@pt@x=\dimen199
+\pgf@pt@y=\dimen256
+\pgf@pt@temp=\dimen257
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.cod
-e.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.c
-ode.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathproce
-ssing.code.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
+de.tex
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.co
-de.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen195
+\pgfarrowsep=\dimen258
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.cod
-e.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen196
-\pgf@sys@shading@range@num=\count273
+\pgf@max=\dimen259
+\pgf@sys@shading@range@num=\count308
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.cod
-e.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.
-code.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box36
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.co
-de.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretranspare
-ncy.code.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
+.tex
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.
-code.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.cod
-e.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
 \pgfnodeparttextbox=\box37
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.
-tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version
--0-65.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
+y
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen197
-\pgf@nodesepend=\dimen198
+\pgf@nodesepstart=\dimen260
+\pgf@nodesepend=\dimen261
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version
--1-18.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+y
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
-))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
-)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+)) (c:/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(c:/texlive/2015/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
-\pgffor@iter=\dimen199
-\pgffor@skip=\dimen200
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen262
+\pgffor@skip=\dimen263
 \pgffor@stack=\toks58
 \pgffor@toks=\toks59
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.cod
-e.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothan
-dlers.code.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
+de.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count274
-\pgfplotmarksize=\dimen201
+\pgf@plot@mark@count=\count309
+\pgfplotmarksize=\dimen264
 )
-\tikz@lastx=\dimen202
-\tikz@lasty=\dimen203
-\tikz@lastxsaved=\dimen204
-\tikz@lastysaved=\dimen205
-\tikzleveldistance=\dimen206
-\tikzsiblingdistance=\dimen207
+\tikz@lastx=\dimen265
+\tikz@lasty=\dimen266
+\tikz@lastxsaved=\dimen267
+\tikz@lastysaved=\dimen268
+\tikzleveldistance=\dimen269
+\tikzsiblingdistance=\dimen270
 \tikz@figbox=\box38
 \tikz@figbox@bg=\box39
 \tikz@tempbox=\box40
 \tikz@tempbox@bg=\box41
-\tikztreelevel=\count275
-\tikznumberofchildren=\count276
-\tikznumberofcurrentchild=\count277
-\tikz@fig@count=\count278
+\tikztreelevel=\count310
+\tikznumberofchildren=\count311
+\tikznumberofcurrentchild=\count312
+\tikz@fig@count=\count313
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.cod
-e.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count279
-\pgfmatrixcurrentcolumn=\count280
-\pgf@matrix@numberofcolumns=\count281
+\pgfmatrixcurrentrow=\count314
+\pgfmatrixcurrentcolumn=\count315
+\pgf@matrix@numberofcolumns=\count316
 )
-\tikz@expandcount=\count282
+\tikz@expandcount=\count317
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
-s\tikzlibrarytopaths.code.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 )))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\librarie
-s\tikzlibrarypositioning.code.tex"
+(c:/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
 )
-\c@@todonotes@numberoftodonotes=\count283
+\c@@todonotes@numberoftodonotes=\count318
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
-Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
-Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
 Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
@@ -1097,31 +1178,31 @@ Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
 )
 Package hobsub Info: Skipping package `hobsub' (already loaded).
 Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
 Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
 Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen208
-\Hy@linkcounter=\count284
-\Hy@pagecounter=\count285
+\@linkdim=\dimen271
+\Hy@linkcounter=\count319
+\Hy@pagecounter=\count320
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+(c:/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count286
+\Hy@SavedSpaceFactor=\count321
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -1131,12 +1212,12 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count287
+\c@Hy@tempcnt=\count322
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen209
-\Fld@menulength=\count288
-\Field@Width=\dimen210
-\Fld@charsize=\dimen211
+\XeTeXLinkMargin=\dimen272
+\Fld@menulength=\count323
+\Field@Width=\dimen273
+\Fld@charsize=\dimen274
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -1146,51 +1227,53 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count289
-\c@Item=\count290
-\c@Hfootnote=\count291
+\Hy@abspage=\count324
+\c@Item=\count325
+\c@Hfootnote=\count326
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+(c:/texlive/2015/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count292
-\c@bookmark@seq@number=\count293
+\Fld@listcount=\count327
+\c@bookmark@seq@number=\count328
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip81
+\Hy@SectionHShift=\skip82
 )
 
 Package hyperref Warning: Option `pdfpagelabels' has already been used,
-(hyperref)                setting the option has no effect on input line 166.
+(hyperref)                setting the option has no effect on input line 167.
 
-Package hyperref Info: Option `plainpages' set `false' on input line 166.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 166.
+Package hyperref Info: Option `plainpages' set `false' on input line 167.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 167.
 
-Package hyperref Info: Option `colorlinks' set `false' on input line 166.
-) (setup/hyphenations.tex) (setup/macros.tex
-\c@currexactr=\count294
-\c@endexactr=\count295
-\c@exa=\count296
+Package hyperref Info: Option `colorlinks' set `false' on input line 167.
+) (./setup/hyphenations.tex) (./setup/macros.tex
+\c@currexactr=\count329
+\c@endexactr=\count330
+\c@exa=\count331
 )
 Package biblatex Info: Trying to load language 'danish'...
 Package biblatex Info: ... file 'danish.lbx' found.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\biblatex\lbx\danish.lbx"
+(c:/texlive/2015/texmf-dist/tex/latex/biblatex/lbx/danish.lbx
 File: danish.lbx 2015/12/22 v3.2 biblatex localization (PK/JW/AB)
 )
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count297
-\@quotereset=\count298
-(master.aux)
+\@quotelevel=\count332
+\@quotereset=\count333
+(./master.aux)
+\openout1 = `master.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
@@ -1206,23 +1289,37 @@ LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Try loading font information for T1+pplx on input line 9.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pplx.fd"
+ (c:/texlive/2015/texmf-dist/tex/latex/psnfss/t1pplx.fd
 File: t1pplx.fd 2004/09/06 font definitions for T1/pplx.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(c:/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count299
-\scratchdimen=\dimen212
+\scratchcounter=\count334
+\scratchdimen=\dimen275
 \scratchbox=\box42
-\nofMPsegments=\count300
-\nofMParguments=\count301
+\nofMPsegments=\count335
+\nofMParguments=\count336
 \everyMPshowfont=\toks60
-\MPscratchCnt=\count302
-\MPscratchDim=\dimen213
-\MPnumerator=\count303
-\makeMPintoPDFobject=\count304
+\MPscratchCnt=\count337
+\MPscratchDim=\dimen276
+\MPnumerator=\count338
+\makeMPintoPDFobject=\count339
 \everyMPtoPDFconversion=\toks61
+) (c:/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(c:/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 )
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(c:/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -1268,6 +1365,8 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Warning: Data encoding is 'utf8'.
 (biblatex)                Use backend=biber.
 
+\openout3 = `master-blx.bib'.
+
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'master.bbl' not found.
 No file master.bbl.
@@ -1280,22 +1379,24 @@ ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box43
 Package hyperref Info: Link coloring OFF on input line 9.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+(c:/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+(c:/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count305
+\c@section@level=\count340
 )
 LaTeX Info: Redefining \ref on input line 9.
 LaTeX Info: Redefining \pageref on input line 9.
 LaTeX Info: Redefining \nameref on input line 9.
 
-(master.out) (master.out)
+(./master.out) (./master.out)
 \@outlinefile=\write5
- (sections/frontpage.tex
-<figures/forside.jpg, id=78, 500.62032pt x 145.29282pt>
+\openout5 = `master.out'.
+
+ (./sections/frontpage.tex
+<figures/forside.jpg, id=79, 500.62032pt x 145.29282pt>
 File: figures/forside.jpg Graphic file (type jpg)
 
 <use figures/forside.jpg>
@@ -1306,31 +1407,31 @@ LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <20.74> not available
 LaTeX Font Info:    Try loading font information for OT1+pplx on input line 39.
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pplx.fd"
+(c:/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
 LaTeX Font Info:    Try loading font information for OML+zplm on input line 39.
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omlzplm.fd"
+(c:/texlive/2015/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Try loading font information for OMS+zplm on input line 39.
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omszplm.fd"
+(c:/texlive/2015/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Try loading font information for OMX+zplm on input line 39.
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omxzplm.fd"
+(c:/texlive/2015/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Try loading font information for OT1+zplm on input line 39.
 
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd"
+(c:/texlive/2015/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
@@ -1355,18 +1456,21 @@ Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 67.
  [1
 
-{C:/Users/Simon/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./figures/f
-orside.jpg>])
+{c:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figures/forsi
+de.jpg>])
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 13.
- (master.toc
+
+(./master.toc
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 5.
 )
 \tf@toc=\write6
- (sections/introduction.tex
+\openout6 = `master.toc'.
+
+ (./sections/introduction.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -1395,7 +1499,7 @@ LaTeX Font Warning: Font shape `OMS/pplx/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
 (Font)              for symbol `textbullet' on input line 7.
 
-) (sections/analysebeskrivelse.tex
+) (./sections/analysebeskrivelse.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -1413,39 +1517,54 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <12> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 11.
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 13.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 11.
+(hyperref)                than one, level fixed on input line 13.
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 11.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 11.
-Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 13.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 17.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 17.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 22.
-) (sections/analyse.tex
+(babel)             in language  on input line 32.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
- [3
+(babel)             in language  on input line 32.
+[3
 
 ]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 33.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 33.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 35.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 35.
+) (./sections/analyse.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+[4]
 Kapitel 3.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
@@ -1457,7 +1576,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 5.
-<figures/Motor/original.jpg, id=120, 702.625pt x 526.96875pt>
+<figures/Motor/original.jpg, id=131, 702.625pt x 526.96875pt>
 File: figures/Motor/original.jpg Graphic file (type jpg)
 
 <use figures/Motor/original.jpg>
@@ -1473,10 +1592,10 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 13.
- [4
+ [5
 
 ]
-<figures/Motor/DFT.jpg, id=127, 702.625pt x 526.96875pt>
+<figures/Motor/DFT.jpg, id=138, 702.625pt x 526.96875pt>
 File: figures/Motor/DFT.jpg Graphic file (type jpg)
 
 <use figures/Motor/DFT.jpg>
@@ -1497,8 +1616,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 22.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 22.
-[5 <./figures/Motor/original.jpg>]
-<figures/Motor/hanning.jpg, id=134, 702.625pt x 526.96875pt>
+[6 <./figures/Motor/original.jpg>]
+<figures/Motor/hanning.jpg, id=146, 702.625pt x 526.96875pt>
 File: figures/Motor/hanning.jpg Graphic file (type jpg)
 
 <use figures/Motor/hanning.jpg>
@@ -1519,8 +1638,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 30.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 30.
-[6 <./figures/Motor/DFT.jpg>]
-<figures/Motor/udglattet.jpg, id=141, 1927.2pt x 941.5175pt>
+[7 <./figures/Motor/DFT.jpg>]
+<figures/Motor/udglattet.jpg, id=152, 1927.2pt x 941.5175pt>
 File: figures/Motor/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Motor/udglattet.jpg>
@@ -1531,7 +1650,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 38.
 
-<figures/Piano/original.jpg, id=143, 702.625pt x 526.96875pt>
+<figures/Piano/original.jpg, id=154, 702.625pt x 526.96875pt>
 File: figures/Piano/original.jpg Graphic file (type jpg)
 
 <use figures/Piano/original.jpg>
@@ -1552,8 +1671,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 45.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 45.
-[7 <./figures/Motor/hanning.jpg> <./figures/Motor/udglattet.jpg>]
-<figures/Piano/DFT.jpg, id=150, 702.625pt x 526.96875pt>
+[8 <./figures/Motor/hanning.jpg> <./figures/Motor/udglattet.jpg>]
+<figures/Piano/DFT.jpg, id=162, 702.625pt x 526.96875pt>
 File: figures/Piano/DFT.jpg Graphic file (type jpg)
 
 <use figures/Piano/DFT.jpg>
@@ -1574,8 +1693,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 54.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 54.
-[8 <./figures/Piano/original.jpg>]
-<figures/Piano/hanning.jpg, id=158, 702.625pt x 526.96875pt>
+[9 <./figures/Piano/original.jpg>]
+<figures/Piano/hanning.jpg, id=170, 702.625pt x 526.96875pt>
 File: figures/Piano/hanning.jpg Graphic file (type jpg)
 
 <use figures/Piano/hanning.jpg>
@@ -1596,8 +1715,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 62.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 62.
-[9 <./figures/Piano/DFT.jpg>]
-<figures/Piano/udglattet.jpg, id=164, 702.625pt x 526.96875pt>
+[10 <./figures/Piano/DFT.jpg>]
+<figures/Piano/udglattet.jpg, id=176, 702.625pt x 526.96875pt>
 File: figures/Piano/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Piano/udglattet.jpg>
@@ -1618,7 +1737,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 69.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 69.
-[10 <./figures/Piano/hanning.jpg>]
+[11 <./figures/Piano/hanning.jpg>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1633,20 +1752,20 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 69.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 69.
-[11 <./figures/Piano/udglattet.jpg>]
+[12 <./figures/Piano/udglattet.jpg>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 71.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 71.
 
-<figures/Symfoni/original.jpg, id=175, 702.625pt x 526.96875pt>
+<figures/Symfoni/original.jpg, id=188, 702.625pt x 526.96875pt>
 File: figures/Symfoni/original.jpg Graphic file (type jpg)
 
 <use figures/Symfoni/original.jpg>
 Package pdftex.def Info: figures/Symfoni/original.jpg used on input line 75.
 (pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
 
-<figures/Symfoni/DFT.jpg, id=177, 702.625pt x 526.96875pt>
+<figures/Symfoni/DFT.jpg, id=190, 702.625pt x 526.96875pt>
 File: figures/Symfoni/DFT.jpg Graphic file (type jpg)
 
 <use figures/Symfoni/DFT.jpg>
@@ -1667,8 +1786,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 87.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 87.
-[12 <./figures/Symfoni/original.jpg>]
-<figures/Symfoni/hanning.jpg, id=186, 702.625pt x 526.96875pt>
+[13 <./figures/Symfoni/original.jpg>]
+<figures/Symfoni/hanning.jpg, id=198, 702.625pt x 526.96875pt>
 File: figures/Symfoni/hanning.jpg Graphic file (type jpg)
 
 <use figures/Symfoni/hanning.jpg>
@@ -1689,8 +1808,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 95.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 95.
-[13 <./figures/Symfoni/DFT.jpg>]
-<figures/Symfoni/udglattet.jpg, id=192, 702.625pt x 526.96875pt>
+[14 <./figures/Symfoni/DFT.jpg>]
+<figures/Symfoni/udglattet.jpg, id=204, 702.625pt x 526.96875pt>
 File: figures/Symfoni/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Symfoni/udglattet.jpg>
@@ -1711,13 +1830,13 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 103.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 103.
-[14 <./figures/Symfoni/hanning.jpg>]
+[15 <./figures/Symfoni/hanning.jpg>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 104.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 104.
 
-<figures/Bass/original.jpg, id=198, 702.625pt x 526.96875pt>
+<figures/Bass/original.jpg, id=210, 702.625pt x 526.96875pt>
 File: figures/Bass/original.jpg Graphic file (type jpg)
 
 <use figures/Bass/original.jpg>
@@ -1738,8 +1857,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 112.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 112.
-[15 <./figures/Symfoni/udglattet.jpg>]
-<figures/Bass/DFT.jpg, id=206, 702.625pt x 526.96875pt>
+[16 <./figures/Symfoni/udglattet.jpg>]
+<figures/Bass/DFT.jpg, id=218, 702.625pt x 526.96875pt>
 File: figures/Bass/DFT.jpg Graphic file (type jpg)
 
 <use figures/Bass/DFT.jpg>
@@ -1760,8 +1879,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 121.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 121.
-[16 <./figures/Bass/original.jpg>]
-<figures/Bass/hanning.jpg, id=213, 702.625pt x 526.96875pt>
+[17 <./figures/Bass/original.jpg>]
+<figures/Bass/hanning.jpg, id=225, 702.625pt x 526.96875pt>
 File: figures/Bass/hanning.jpg Graphic file (type jpg)
 
 <use figures/Bass/hanning.jpg>
@@ -1782,8 +1901,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 129.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 129.
-[17 <./figures/Bass/DFT.jpg>]
-<figures/Bass/udglattet.jpg, id=219, 702.625pt x 526.96875pt>
+[18 <./figures/Bass/DFT.jpg>]
+<figures/Bass/udglattet.jpg, id=232, 702.625pt x 526.96875pt>
 File: figures/Bass/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Bass/udglattet.jpg>
@@ -1804,13 +1923,13 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 136.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 136.
-[18 <./figures/Bass/hanning.jpg>]
+[19 <./figures/Bass/hanning.jpg>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 139.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 139.
 
-<figures/Vinglas/original.jpg, id=226, 702.625pt x 526.96875pt>
+<figures/Vinglas/original.jpg, id=238, 702.625pt x 526.96875pt>
 File: figures/Vinglas/original.jpg Graphic file (type jpg)
 
 <use figures/Vinglas/original.jpg>
@@ -1831,8 +1950,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 147.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 147.
-[19 <./figures/Bass/udglattet.jpg>]
-<figures/Vinglas/DFT.jpg, id=234, 702.625pt x 526.96875pt>
+[20 <./figures/Bass/udglattet.jpg>]
+<figures/Vinglas/DFT.jpg, id=246, 702.625pt x 526.96875pt>
 File: figures/Vinglas/DFT.jpg Graphic file (type jpg)
 
 <use figures/Vinglas/DFT.jpg>
@@ -1853,8 +1972,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 156.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 156.
-[20 <./figures/Vinglas/original.jpg>]
-<figures/Vinglas/hanning.jpg, id=241, 702.625pt x 526.96875pt>
+[21 <./figures/Vinglas/original.jpg>]
+<figures/Vinglas/hanning.jpg, id=253, 702.625pt x 526.96875pt>
 File: figures/Vinglas/hanning.jpg Graphic file (type jpg)
 
 <use figures/Vinglas/hanning.jpg>
@@ -1875,8 +1994,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 164.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 164.
-[21 <./figures/Vinglas/DFT.jpg>]
-<figures/Vinglas/udglattet.jpg, id=247, 702.625pt x 526.96875pt>
+[22 <./figures/Vinglas/DFT.jpg>]
+<figures/Vinglas/udglattet.jpg, id=259, 702.625pt x 526.96875pt>
 File: figures/Vinglas/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Vinglas/udglattet.jpg>
@@ -1897,13 +2016,13 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 171.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 171.
-[22 <./figures/Vinglas/hanning.jpg>]
+[23 <./figures/Vinglas/hanning.jpg>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 174.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 174.
 
-<figures/Vind/original.jpg, id=253, 702.625pt x 526.96875pt>
+<figures/Vind/original.jpg, id=265, 702.625pt x 526.96875pt>
 File: figures/Vind/original.jpg Graphic file (type jpg)
 
 <use figures/Vind/original.jpg>
@@ -1924,8 +2043,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 182.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 182.
-[23 <./figures/Vinglas/udglattet.jpg>]
-<figures/Vind/DFT.jpg, id=260, 702.625pt x 526.96875pt>
+[24 <./figures/Vinglas/udglattet.jpg>]
+<figures/Vind/DFT.jpg, id=273, 702.625pt x 526.96875pt>
 File: figures/Vind/DFT.jpg Graphic file (type jpg)
 
 <use figures/Vind/DFT.jpg>
@@ -1946,8 +2065,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 190.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 190.
-[24 <./figures/Vind/original.jpg>]
-<figures/Vind/hanning.jpg, id=269, 1927.2pt x 941.5175pt>
+[25 <./figures/Vind/original.jpg>]
+<figures/Vind/hanning.jpg, id=281, 1927.2pt x 941.5175pt>
 File: figures/Vind/hanning.jpg Graphic file (type jpg)
 
 <use figures/Vind/hanning.jpg>
@@ -1968,8 +2087,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 198.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 198.
-[25 <./figures/Vind/DFT.jpg>]
-<figures/Vind/udglattet.jpg, id=275, 702.625pt x 526.96875pt>
+[26 <./figures/Vind/DFT.jpg>]
+<figures/Vind/udglattet.jpg, id=287, 702.625pt x 526.96875pt>
 File: figures/Vind/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Vind/udglattet.jpg>
@@ -1980,7 +2099,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 207.
 
-<figures/Musikbox/original.jpg, id=277, 702.625pt x 526.96875pt>
+<figures/Musikbox/original.jpg, id=289, 702.625pt x 526.96875pt>
 File: figures/Musikbox/original.jpg Graphic file (type jpg)
 
 <use figures/Musikbox/original.jpg>
@@ -2001,8 +2120,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 214.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 214.
-[26 <./figures/Vind/hanning.jpg> <./figures/Vind/udglattet.jpg>]
-<figures/Musikbox/DFT.jpg, id=284, 702.625pt x 526.96875pt>
+[27 <./figures/Vind/hanning.jpg> <./figures/Vind/udglattet.jpg>]
+<figures/Musikbox/DFT.jpg, id=296, 702.625pt x 526.96875pt>
 File: figures/Musikbox/DFT.jpg Graphic file (type jpg)
 
 <use figures/Musikbox/DFT.jpg>
@@ -2023,8 +2142,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 223.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 223.
-[27 <./figures/Musikbox/original.jpg>]
-<figures/Musikbox/hanning.jpg, id=292, 702.625pt x 526.96875pt>
+[28 <./figures/Musikbox/original.jpg>]
+<figures/Musikbox/hanning.jpg, id=305, 702.625pt x 526.96875pt>
 File: figures/Musikbox/hanning.jpg Graphic file (type jpg)
 
 <use figures/Musikbox/hanning.jpg>
@@ -2045,8 +2164,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 231.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 231.
-[28 <./figures/Musikbox/DFT.jpg>]
-<figures/Musikbox/udglattet.jpg, id=298, 1927.2pt x 941.5175pt>
+[29 <./figures/Musikbox/DFT.jpg>]
+<figures/Musikbox/udglattet.jpg, id=311, 1927.2pt x 941.5175pt>
 File: figures/Musikbox/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Musikbox/udglattet.jpg>
@@ -2058,7 +2177,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 239.
 
-<figures/ECG/original.jpg, id=300, 702.625pt x 526.96875pt>
+<figures/ECG/original.jpg, id=313, 702.625pt x 526.96875pt>
 File: figures/ECG/original.jpg Graphic file (type jpg)
 
 <use figures/ECG/original.jpg>
@@ -2079,8 +2198,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 246.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 246.
-[29 <./figures/Musikbox/hanning.jpg> <./figures/Musikbox/udglattet.jpg>]
-<figures/ECG/DFT.jpg, id=307, 702.625pt x 526.96875pt>
+[30 <./figures/Musikbox/hanning.jpg> <./figures/Musikbox/udglattet.jpg>]
+<figures/ECG/DFT.jpg, id=321, 702.625pt x 526.96875pt>
 File: figures/ECG/DFT.jpg Graphic file (type jpg)
 
 <use figures/ECG/DFT.jpg>
@@ -2101,8 +2220,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 255.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 255.
-[30 <./figures/ECG/original.jpg>]
-<figures/ECG/hanning.jpg, id=316, 702.625pt x 526.96875pt>
+[31 <./figures/ECG/original.jpg>]
+<figures/ECG/hanning.jpg, id=329, 702.625pt x 526.96875pt>
 File: figures/ECG/hanning.jpg Graphic file (type jpg)
 
 <use figures/ECG/hanning.jpg>
@@ -2123,8 +2242,8 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 263.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 263.
-[31 <./figures/ECG/DFT.jpg>]
-<figures/ECG/udglattet.jpg, id=322, 702.625pt x 526.96875pt>
+[32 <./figures/ECG/DFT.jpg>]
+<figures/ECG/udglattet.jpg, id=335, 702.625pt x 526.96875pt>
 File: figures/ECG/udglattet.jpg Graphic file (type jpg)
 
 <use figures/ECG/udglattet.jpg>
@@ -2145,7 +2264,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 270.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 270.
-[32 <./figures/ECG/hanning.jpg>]) (sections/Resultat.tex
+[33 <./figures/ECG/hanning.jpg>]) (./sections/Resultat.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -2160,13 +2279,13 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
-[33 <./figures/ECG/udglattet.jpg>]
+[34 <./figures/ECG/udglattet.jpg>]
 Kapitel 4.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
-) (sections/conclusion.tex
+) (./sections/conclusion.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -2175,7 +2294,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [34
+ [35
 
 ]
 Kapitel 5.
@@ -2188,6 +2307,8 @@ Package babel Info: Redefining danish shorthand "~
 LaTeX Warning: Empty bibliography on input line 22.
 
 \tf@thm=\write7
+\openout7 = `master.thm'.
+
 
 AED: lastpage setting LastPage
 Package babel Info: Redefining danish shorthand "|
@@ -2198,7 +2319,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 25.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 25.
-[35
+[36
 
 ]
 Package babel Info: Redefining danish shorthand "|
@@ -2207,34 +2328,38 @@ Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 25.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 25.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 25.
- (master.aux)
+ (./master.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 25.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 25.
 Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: F36AC84412B21724AA403BD3BFD0E10E;1100.
+(rerunfilecheck)             Checksum: F51591D952BD8F4863A4BD73DB130970;1095.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package logreq Info: Writing requests to 'master.run.xml'.
+\openout1 = `master.run.xml'.
+
  ) 
 Here is how much of TeX's memory you used:
- 24572 strings out of 493673
- 441186 string characters out of 3141529
- 758520 words of memory out of 3000000
- 27332 multiletter control sequences out of 15000+200000
- 58037 words of font info for 84 fonts, out of 3000000 for 9000
- 1030 hyphenation exceptions out of 8191
- 64i,11n,75p,895b,1431s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
-nts/type1/urw/palatino/uplri8a.pfb>
-Output written on master.pdf (36 pages, 1886473 bytes).
+ 25277 strings out of 493033
+ 449932 string characters out of 6137755
+ 771906 words of memory out of 5000000
+ 28188 multiletter control sequences out of 15000+600000
+ 65494 words of font info for 104 fonts, out of 8000000 for 9000
+ 1146 hyphenation exceptions out of 8191
+ 64i,11n,77p,897b,1431s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2015/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2015/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/
+public/mathpazo/fplmr.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/fpl/fp
+lrc8a.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/t
+exlive/2015/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/texlive/2015/tex
+mf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on master.pdf (37 pages, 1866217 bytes).
 PDF statistics:
- 379 PDF objects out of 1000 (max. 8388607)
- 88 named destinations out of 1000 (max. 500000)
+ 404 PDF objects out of 1000 (max. 8388607)
+ 321 compressed objects within 4 object streams
+ 91 named destinations out of 1000 (max. 500000)
  322 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -8,16 +8,29 @@ I denne opgave er der brugt en række forskellige metoder til analyse af de valg
 \item Udglatning
 \end{itemize}
  
-\subsection{Vinduesfunktioner} 
+ 
  
 \subsection{Fouriertransformationen}
 
-%\sum\limits_{m=0}^N-1 i^2 = {|X(m)|^2}
+Fouriertransformationen bruges i opgaven til at kunne analysere de digitale signaler, der arbejdes med udfra frekvenser og deres relative tilstedeværelse(i denne opgave 1 volt), istedet for fx at se på en amplitude af et signal til et givet tidspunkt. På denne måde analysseres alle signaler udfra deres frekvensindhold og tolkes dermed ikke i noget tidsmæssigt domæne. Formlen for selve fourieranalysen kan ses på formel: \eqref{eq:fourier}
+
+\begin{equation}\label{eq:fourier}
+	{X(m)} = \displaystyle\sum_{n=0}^{N-1} {X(n)e^{-j\frac{2pi}{N}mn}}
+\end{equation}
+ 
+ Når denne transformation er lavet er der enkelte ting man skal være opmærksom på når man analysere et digitalt signal. Den første væsentlige er Aliasering 
+
 
 \subsection{Aliasering}
-I analysen af de forskellige signaler, er der i figurene kun plottet op til halvdelen af samplingsfrekvensen, dette skyldes at der efter nyquist frekvensen, som er: INKULDER MATEMATIK, 
+I analysen af de forskellige signaler, er der i figurene kun plottet op til halvdelen af samplingsfrekvensen, dette skyldes at der efter nyquist frekvensen, som er er vist på formel: \eqref{eq:nyquist}, blot ville vise et spejlbillede af signalet op til nyquist frekvensen, men dette giver naturligvis ikke mening at kikke på.
+ 
+  \begin{equation}\label{eq:nyquist}
+  f_{ny} = \frac{f_s}{2} 
+  \end{equation}
+ 
+  Ved signalerne udvindes en samplingsfrekvens ved matlabfunktionen audioread, og dermed forventes det at undgå både gentagelse af frekvensspektret, samt forkert sampling. På et enkelt spekter er der sent tegn på at der tidligere er brugt en anden samplingsfrekvens.
 
-blot ville vise et spejlbillede af signalet op til nyquist frekvensen, men dette giver ikke mening at kikke på. Ved signalerne udvindes en samplingsfrekvens ved matlabfunktionen audioread, og dermed forventes det at undgå både gentagelse af frekvensspektret, samt forkert sampling. På et enkelt spekter er der sent tegn på at der tidligere er brugt en anden samplingsfrekvens.
+\subsection{Vinduesfunktioner og lækage}
 
 \subsection{Udglatning}
 

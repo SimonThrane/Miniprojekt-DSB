@@ -1,9 +1,9 @@
 \BOOKMARK [0][-]{label:content.0}{Content}{}% 1
 \BOOKMARK [0][-]{chapter.1}{1 Indledning}{}% 2
 \BOOKMARK [0][-]{chapter.2}{2 Analysebeskrivelse}{}% 3
-\BOOKMARK [1][-]{subsection.2.0.1}{2.0.1 Vinduesfunktioner}{chapter.2}% 4
-\BOOKMARK [2][-]{subsection.2.0.2}{2.0.2 Fouriertransformationen}{subsection.2.0.1}% 5
-\BOOKMARK [2][-]{subsection.2.0.3}{2.0.3 Aliasering}{subsection.2.0.1}% 6
+\BOOKMARK [1][-]{subsection.2.0.1}{2.0.1 Fouriertransformationen}{chapter.2}% 4
+\BOOKMARK [2][-]{subsection.2.0.2}{2.0.2 Aliasering}{subsection.2.0.1}% 5
+\BOOKMARK [2][-]{subsection.2.0.3}{2.0.3 Vinduesfunktioner og l\346kage}{subsection.2.0.1}% 6
 \BOOKMARK [2][-]{subsection.2.0.4}{2.0.4 Udglatning}{subsection.2.0.1}% 7
 \BOOKMARK [0][-]{chapter.3}{3 Analyse}{}% 8
 \BOOKMARK [1][-]{section.3.1}{3.1 Motor}{chapter.3}% 9
