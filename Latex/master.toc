@@ -12,26 +12,26 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.0.3}Vinduesfunktioner og l\IeC {\ae }kage}{4}{subsection.2.0.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.0.4}Udglatning}{4}{subsection.2.0.4}
+\contentsline {subsection}{\numberline {2.0.4}Udglatning}{5}{subsection.2.0.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Analyse}{5}{chapter.3}
+\contentsline {chapter}{\numberline {3}Analyse}{6}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Motor}{5}{section.3.1}
+\contentsline {section}{\numberline {3.1}Motor}{6}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Klaver}{9}{section.3.2}
+\contentsline {section}{\numberline {3.2}Klaver}{10}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Symfoni}{13}{section.3.3}
+\contentsline {section}{\numberline {3.3}Symfoni}{14}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Bass}{16}{section.3.4}
+\contentsline {section}{\numberline {3.4}Bass}{17}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Vinglas}{20}{section.3.5}
+\contentsline {section}{\numberline {3.5}Vinglas}{21}{section.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Vindm\IeC {\o }lle}{24}{section.3.6}
+\contentsline {section}{\numberline {3.6}Vindm\IeC {\o }lle}{25}{section.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.7}Spilled\IeC {\r a}se}{28}{section.3.7}
+\contentsline {section}{\numberline {3.7}Spilled\IeC {\r a}se}{29}{section.3.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.8}ECG-signal}{31}{section.3.8}
+\contentsline {section}{\numberline {3.8}ECG-signal}{32}{section.3.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Resultat og Diskussion}{35}{chapter.4}
+\contentsline {chapter}{\numberline {4}Resultat og Diskussion}{36}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Konklusion}{36}{chapter.5}
+\contentsline {chapter}{\numberline {5}Konklusion}{37}{chapter.5}

@@ -52,13 +52,21 @@ Hvis man ser på selve fouriertransformationen \eqref{eq:fourier}, kan man se eu
   Ved signalerne udvindes en samplingsfrekvens ved matlabfunktionen audioread, og dermed forventes det at undgå både gentagelse af frekvensspektret, samt forkert sampling. På et enkelt spekter er der sent tegn på at der tidligere er brugt en anden samplingsfrekvens.
 
 \subsection{Vinduesfunktioner og lækage}
-For at forstå vindues funktioner og lækage må man først forstå at man ser på frekvens bins, som har en opløsning, og ikke på alle tænkelige frekvenser. ovenfor er det bekrevet at man bevæger sig rundt på enhedscirklen ift. samplingsfrevensen, men hvorfor nu det? 
+For at forstå vindues funktioner og lækage må man først forstå at man ser på frekvens bins, som har en opløsning, og ikke på alle tænkelige frekvenser. ovenfor er det bekrevet at man bevæger sig rundt på enhedscirklen ift. samplingsfrevensen, men hvorfor nu det? Hvis man igen kikker på \eqref{eq:fourier} kan man se at m er en bin tæller.Det vil sige at værdierne man får ud fra fouriertrasformationen bliver lagt ned i et antal frekvensbins. Der er lige så mange bins, som der er samples N, og frekvenserne der analyseres efter (X(m)) findes ved formel \eqref{eq:bins}. I tilfælde af at der findes en frekvens udenfor den præcise værdi, er det altså ikke kun denne frekvens der vil give udslag i frekvensspektret, men også en smule på andre frekvenser, selvom de ikke er der! Dette fænomen kaldes lækage. På grund af dette er det godt at opnå så lille en bredde i bins så muligt, altså at opløsningen \eqref{eq:bins2} høj så muligt (eg. at f opløsning er meget lille).  
 
+ \begin{equation}\label{eq:bins}
+ f_{bin} = \frac{fs}{N}*m 
+ \end{equation}
 
+\begin{equation}\label{eq:bins}
+f_{opløsning} = \frac{fs}{N} 
+\end{equation}
+
+Vindues funktioner er værdier du ganger på dine frekvensbins, der kan være med til at mindske mængden af lækage, men essensen er sådan set bare at du ganger en funktion på en anden funktion. Yderligere skal man huske at lave vinduesfunktionen så den passer til det antal bins der ønskes, da der ikke kan ganges to vectorere af forskellig længde sammen i denne slags analyse.
 
 \subsection{Udglatning}
 
-Da det har været fremende for forståelsen af spektrene at plotte på logaritmisk x-akse, er det valgt at udglatningen af signalet skal afspejle aksen, og derfor bruges octav udglatning.
+Da det har været fremende for forståelsen af spektrene at plotte på logaritmisk x-akse, er det valgt at udglatningen af signalet skal afspejle aksen, og derfor bruges octav udglatning. Dette betyder at man istedet for at tage fx. 10 værdier og slå dem sammen til en gennemsnitsværdi, tager man løbende flere og flere værdier og slår sammen. Det passer med at en oktav højere er den dobbelte frekvens, er derfor stiger antal af frekvenser man slår sammen ind i den logaritmiske akse, der derved får en pæn udglatning.
 
 
 
