@@ -15,22 +15,46 @@ I denne opgave er der brugt en række forskellige metoder til analyse af de valg
 Fouriertransformationen bruges i opgaven til at kunne analysere de digitale signaler, der arbejdes med udfra frekvenser og deres relative tilstedeværelse(i denne opgave 1 volt), istedet for fx at se på en amplitude af et signal til et givet tidspunkt. På denne måde analysseres alle signaler udfra deres frekvensindhold og tolkes dermed ikke i noget tidsmæssigt domæne. Formlen for selve fourieranalysen kan ses på formel: \eqref{eq:fourier}
 
 \begin{equation}\label{eq:fourier}
-	{X(m)} = \displaystyle\sum_{n=0}^{N-1} {X(n)e^{-j\frac{2pi}{N}mn}}
+	{X(m)} = \displaystyle\sum_{n=0}^{N-1} {X(n)e^{-j\frac{2\pi}{N}mn}}
 \end{equation}
- 
+
+x(n): tidsdiskret signal
+
+X(m): komplekst frekvensspektrum
+
+N: antal samples / frekvensbins
+
+n: sampletæller
+
+m: frekvensbin-tæller
+\newline
+\newline
  Når denne transformation er lavet er der enkelte ting man skal være opmærksom på når man analysere et digitalt signal. Den første væsentlige er Aliasering 
 
 
 \subsection{Aliasering}
+Et hvert sæt af diskrete værdier kan, og vil, aldrig kunne beskrives ved blot én sinuskurve, og derfor skal man i en frekvensanalyse være opmærksom på spejling og gentagelse af et frekvensspektra. Matematisk er det vist at formel: \eqref{eq:sinus1} gælder, og essensen af denne formel er at der vil komme et udslag i et frekvensspektra både ved den målte frekvens, men tilmed i alle frekvenser der er k gange samplingsfrekvensen større eller mindre end det originale signal, hvor k er et positivt eller negativt heltal. Dette er grunden til gentagelse af frekvensspektraet. 
+
+\begin{equation}\label{eq:sinus1}
+{x(n)} = sin(2\pi f_0 n t_s) =sin(2\pi (f_0+kf_s) n t_s) 
+\end{equation}
+
+  
 I analysen af de forskellige signaler, er der i figurene kun plottet op til halvdelen af samplingsfrekvensen, dette skyldes at der efter nyquist frekvensen, som er er vist på formel: \eqref{eq:nyquist}, blot ville vise et spejlbillede af signalet op til nyquist frekvensen, men dette giver naturligvis ikke mening at kikke på.
  
   \begin{equation}\label{eq:nyquist}
   f_{ny} = \frac{f_s}{2} 
   \end{equation}
+Hvis man ser på selve fouriertransformationen \eqref{eq:fourier}, kan man se eulers eksponentialfunktion er anvendt, værdierne i transformation vil bevæge sig rundt på en enhedscirkel ift. samplingsfrekvensen.  Ifølge regnereglerne for komplekse tal vil længden af et komplekst tal, som i opgaven er brugt som y-akse, være den samme for et komplekst tals konjungerede værdi, som den selv. Derfor vil vi i plottet se et spejlbillede efter nyquist frekvensen, der altså befinder sig i pi rad på enhedscirklen  
+ 
+ På grund af disse fænomener, er der i digital signalbehandling defineret at man skal for at kunne repræsentere signal ordenligt sample med mindst den dobbelte frekvens af den højeste frekvens i signalet.
  
   Ved signalerne udvindes en samplingsfrekvens ved matlabfunktionen audioread, og dermed forventes det at undgå både gentagelse af frekvensspektret, samt forkert sampling. På et enkelt spekter er der sent tegn på at der tidligere er brugt en anden samplingsfrekvens.
 
 \subsection{Vinduesfunktioner og lækage}
+For at forstå vindues funktioner og lækage må man først forstå at man ser på frekvens bins, som har en opløsning, og ikke på alle tænkelige frekvenser. ovenfor er det bekrevet at man bevæger sig rundt på enhedscirklen ift. samplingsfrevensen, men hvorfor nu det? 
+
+
 
 \subsection{Udglatning}
 

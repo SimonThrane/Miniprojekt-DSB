@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.3.5)  24 MAR 2016 15:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.3.5)  24 MAR 2016 17:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1526,29 +1526,34 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 13.
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--33
+
+ []
+
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 24.
+(babel)             in language  on input line 35.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 24.
+(babel)             in language  on input line 35.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 37.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 37.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 37.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 37.
 [3
 
 ]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 54.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 59.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 59.
 ) (./sections/analyse.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1576,7 +1581,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 5.
-<figures/Motor/original.jpg, id=131, 702.625pt x 526.96875pt>
+<figures/Motor/original.jpg, id=135, 702.625pt x 526.96875pt>
 File: figures/Motor/original.jpg Graphic file (type jpg)
 
 <use figures/Motor/original.jpg>
@@ -1595,7 +1600,7 @@ Package babel Info: Redefining danish shorthand "~
  [5
 
 ]
-<figures/Motor/DFT.jpg, id=138, 702.625pt x 526.96875pt>
+<figures/Motor/DFT.jpg, id=142, 702.625pt x 526.96875pt>
 File: figures/Motor/DFT.jpg Graphic file (type jpg)
 
 <use figures/Motor/DFT.jpg>
@@ -1617,7 +1622,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 22.
 [6 <./figures/Motor/original.jpg>]
-<figures/Motor/hanning.jpg, id=146, 702.625pt x 526.96875pt>
+<figures/Motor/hanning.jpg, id=150, 702.625pt x 526.96875pt>
 File: figures/Motor/hanning.jpg Graphic file (type jpg)
 
 <use figures/Motor/hanning.jpg>
@@ -1639,7 +1644,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 30.
 [7 <./figures/Motor/DFT.jpg>]
-<figures/Motor/udglattet.jpg, id=152, 1927.2pt x 941.5175pt>
+<figures/Motor/udglattet.jpg, id=157, 1927.2pt x 941.5175pt>
 File: figures/Motor/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Motor/udglattet.jpg>
@@ -1650,7 +1655,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 38.
 
-<figures/Piano/original.jpg, id=154, 702.625pt x 526.96875pt>
+<figures/Piano/original.jpg, id=159, 702.625pt x 526.96875pt>
 File: figures/Piano/original.jpg Graphic file (type jpg)
 
 <use figures/Piano/original.jpg>
@@ -1672,7 +1677,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 45.
 [8 <./figures/Motor/hanning.jpg> <./figures/Motor/udglattet.jpg>]
-<figures/Piano/DFT.jpg, id=162, 702.625pt x 526.96875pt>
+<figures/Piano/DFT.jpg, id=166, 702.625pt x 526.96875pt>
 File: figures/Piano/DFT.jpg Graphic file (type jpg)
 
 <use figures/Piano/DFT.jpg>
@@ -1694,7 +1699,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 54.
 [9 <./figures/Piano/original.jpg>]
-<figures/Piano/hanning.jpg, id=170, 702.625pt x 526.96875pt>
+<figures/Piano/hanning.jpg, id=174, 702.625pt x 526.96875pt>
 File: figures/Piano/hanning.jpg Graphic file (type jpg)
 
 <use figures/Piano/hanning.jpg>
@@ -1716,7 +1721,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 62.
 [10 <./figures/Piano/DFT.jpg>]
-<figures/Piano/udglattet.jpg, id=176, 702.625pt x 526.96875pt>
+<figures/Piano/udglattet.jpg, id=180, 702.625pt x 526.96875pt>
 File: figures/Piano/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Piano/udglattet.jpg>
@@ -1758,14 +1763,14 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 71.
 
-<figures/Symfoni/original.jpg, id=188, 702.625pt x 526.96875pt>
+<figures/Symfoni/original.jpg, id=192, 702.625pt x 526.96875pt>
 File: figures/Symfoni/original.jpg Graphic file (type jpg)
 
 <use figures/Symfoni/original.jpg>
 Package pdftex.def Info: figures/Symfoni/original.jpg used on input line 75.
 (pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
 
-<figures/Symfoni/DFT.jpg, id=190, 702.625pt x 526.96875pt>
+<figures/Symfoni/DFT.jpg, id=194, 702.625pt x 526.96875pt>
 File: figures/Symfoni/DFT.jpg Graphic file (type jpg)
 
 <use figures/Symfoni/DFT.jpg>
@@ -1787,7 +1792,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 87.
 [13 <./figures/Symfoni/original.jpg>]
-<figures/Symfoni/hanning.jpg, id=198, 702.625pt x 526.96875pt>
+<figures/Symfoni/hanning.jpg, id=202, 702.625pt x 526.96875pt>
 File: figures/Symfoni/hanning.jpg Graphic file (type jpg)
 
 <use figures/Symfoni/hanning.jpg>
@@ -1809,7 +1814,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 95.
 [14 <./figures/Symfoni/DFT.jpg>]
-<figures/Symfoni/udglattet.jpg, id=204, 702.625pt x 526.96875pt>
+<figures/Symfoni/udglattet.jpg, id=208, 702.625pt x 526.96875pt>
 File: figures/Symfoni/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Symfoni/udglattet.jpg>
@@ -1836,7 +1841,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 104.
 
-<figures/Bass/original.jpg, id=210, 702.625pt x 526.96875pt>
+<figures/Bass/original.jpg, id=214, 702.625pt x 526.96875pt>
 File: figures/Bass/original.jpg Graphic file (type jpg)
 
 <use figures/Bass/original.jpg>
@@ -1858,7 +1863,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 112.
 [16 <./figures/Symfoni/udglattet.jpg>]
-<figures/Bass/DFT.jpg, id=218, 702.625pt x 526.96875pt>
+<figures/Bass/DFT.jpg, id=222, 702.625pt x 526.96875pt>
 File: figures/Bass/DFT.jpg Graphic file (type jpg)
 
 <use figures/Bass/DFT.jpg>
@@ -1880,7 +1885,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 121.
 [17 <./figures/Bass/original.jpg>]
-<figures/Bass/hanning.jpg, id=225, 702.625pt x 526.96875pt>
+<figures/Bass/hanning.jpg, id=229, 702.625pt x 526.96875pt>
 File: figures/Bass/hanning.jpg Graphic file (type jpg)
 
 <use figures/Bass/hanning.jpg>
@@ -1902,7 +1907,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 129.
 [18 <./figures/Bass/DFT.jpg>]
-<figures/Bass/udglattet.jpg, id=232, 702.625pt x 526.96875pt>
+<figures/Bass/udglattet.jpg, id=236, 702.625pt x 526.96875pt>
 File: figures/Bass/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Bass/udglattet.jpg>
@@ -1929,7 +1934,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 139.
 
-<figures/Vinglas/original.jpg, id=238, 702.625pt x 526.96875pt>
+<figures/Vinglas/original.jpg, id=242, 702.625pt x 526.96875pt>
 File: figures/Vinglas/original.jpg Graphic file (type jpg)
 
 <use figures/Vinglas/original.jpg>
@@ -1951,7 +1956,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 147.
 [20 <./figures/Bass/udglattet.jpg>]
-<figures/Vinglas/DFT.jpg, id=246, 702.625pt x 526.96875pt>
+<figures/Vinglas/DFT.jpg, id=250, 702.625pt x 526.96875pt>
 File: figures/Vinglas/DFT.jpg Graphic file (type jpg)
 
 <use figures/Vinglas/DFT.jpg>
@@ -1973,7 +1978,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 156.
 [21 <./figures/Vinglas/original.jpg>]
-<figures/Vinglas/hanning.jpg, id=253, 702.625pt x 526.96875pt>
+<figures/Vinglas/hanning.jpg, id=257, 702.625pt x 526.96875pt>
 File: figures/Vinglas/hanning.jpg Graphic file (type jpg)
 
 <use figures/Vinglas/hanning.jpg>
@@ -1995,7 +2000,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 164.
 [22 <./figures/Vinglas/DFT.jpg>]
-<figures/Vinglas/udglattet.jpg, id=259, 702.625pt x 526.96875pt>
+<figures/Vinglas/udglattet.jpg, id=263, 702.625pt x 526.96875pt>
 File: figures/Vinglas/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Vinglas/udglattet.jpg>
@@ -2022,7 +2027,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 174.
 
-<figures/Vind/original.jpg, id=265, 702.625pt x 526.96875pt>
+<figures/Vind/original.jpg, id=269, 702.625pt x 526.96875pt>
 File: figures/Vind/original.jpg Graphic file (type jpg)
 
 <use figures/Vind/original.jpg>
@@ -2044,7 +2049,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 182.
 [24 <./figures/Vinglas/udglattet.jpg>]
-<figures/Vind/DFT.jpg, id=273, 702.625pt x 526.96875pt>
+<figures/Vind/DFT.jpg, id=277, 702.625pt x 526.96875pt>
 File: figures/Vind/DFT.jpg Graphic file (type jpg)
 
 <use figures/Vind/DFT.jpg>
@@ -2066,7 +2071,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 190.
 [25 <./figures/Vind/original.jpg>]
-<figures/Vind/hanning.jpg, id=281, 1927.2pt x 941.5175pt>
+<figures/Vind/hanning.jpg, id=285, 1927.2pt x 941.5175pt>
 File: figures/Vind/hanning.jpg Graphic file (type jpg)
 
 <use figures/Vind/hanning.jpg>
@@ -2088,7 +2093,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 198.
 [26 <./figures/Vind/DFT.jpg>]
-<figures/Vind/udglattet.jpg, id=287, 702.625pt x 526.96875pt>
+<figures/Vind/udglattet.jpg, id=291, 702.625pt x 526.96875pt>
 File: figures/Vind/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Vind/udglattet.jpg>
@@ -2099,7 +2104,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 207.
 
-<figures/Musikbox/original.jpg, id=289, 702.625pt x 526.96875pt>
+<figures/Musikbox/original.jpg, id=293, 702.625pt x 526.96875pt>
 File: figures/Musikbox/original.jpg Graphic file (type jpg)
 
 <use figures/Musikbox/original.jpg>
@@ -2121,7 +2126,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 214.
 [27 <./figures/Vind/hanning.jpg> <./figures/Vind/udglattet.jpg>]
-<figures/Musikbox/DFT.jpg, id=296, 702.625pt x 526.96875pt>
+<figures/Musikbox/DFT.jpg, id=301, 702.625pt x 526.96875pt>
 File: figures/Musikbox/DFT.jpg Graphic file (type jpg)
 
 <use figures/Musikbox/DFT.jpg>
@@ -2143,7 +2148,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 223.
 [28 <./figures/Musikbox/original.jpg>]
-<figures/Musikbox/hanning.jpg, id=305, 702.625pt x 526.96875pt>
+<figures/Musikbox/hanning.jpg, id=309, 702.625pt x 526.96875pt>
 File: figures/Musikbox/hanning.jpg Graphic file (type jpg)
 
 <use figures/Musikbox/hanning.jpg>
@@ -2165,7 +2170,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 231.
 [29 <./figures/Musikbox/DFT.jpg>]
-<figures/Musikbox/udglattet.jpg, id=311, 1927.2pt x 941.5175pt>
+<figures/Musikbox/udglattet.jpg, id=315, 1927.2pt x 941.5175pt>
 File: figures/Musikbox/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Musikbox/udglattet.jpg>
@@ -2177,7 +2182,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 239.
 
-<figures/ECG/original.jpg, id=313, 702.625pt x 526.96875pt>
+<figures/ECG/original.jpg, id=317, 702.625pt x 526.96875pt>
 File: figures/ECG/original.jpg Graphic file (type jpg)
 
 <use figures/ECG/original.jpg>
@@ -2199,7 +2204,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 246.
 [30 <./figures/Musikbox/hanning.jpg> <./figures/Musikbox/udglattet.jpg>]
-<figures/ECG/DFT.jpg, id=321, 702.625pt x 526.96875pt>
+<figures/ECG/DFT.jpg, id=325, 702.625pt x 526.96875pt>
 File: figures/ECG/DFT.jpg Graphic file (type jpg)
 
 <use figures/ECG/DFT.jpg>
@@ -2221,7 +2226,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 255.
 [31 <./figures/ECG/original.jpg>]
-<figures/ECG/hanning.jpg, id=329, 702.625pt x 526.96875pt>
+<figures/ECG/hanning.jpg, id=333, 702.625pt x 526.96875pt>
 File: figures/ECG/hanning.jpg Graphic file (type jpg)
 
 <use figures/ECG/hanning.jpg>
@@ -2243,7 +2248,7 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 263.
 [32 <./figures/ECG/DFT.jpg>]
-<figures/ECG/udglattet.jpg, id=335, 702.625pt x 526.96875pt>
+<figures/ECG/udglattet.jpg, id=339, 702.625pt x 526.96875pt>
 File: figures/ECG/udglattet.jpg Graphic file (type jpg)
 
 <use figures/ECG/udglattet.jpg>
@@ -2342,24 +2347,25 @@ Package logreq Info: Writing requests to 'master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25277 strings out of 493033
- 449932 string characters out of 6137755
+ 25280 strings out of 493033
+ 449969 string characters out of 6137755
  771906 words of memory out of 5000000
- 28188 multiletter control sequences out of 15000+600000
+ 28190 multiletter control sequences out of 15000+600000
  65494 words of font info for 104 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
  64i,11n,77p,897b,1431s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2015/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2015/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/
-public/mathpazo/fplmr.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/fpl/fp
-lrc8a.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/t
-exlive/2015/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/texlive/2015/tex
-mf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on master.pdf (37 pages, 1866217 bytes).
+public/mathpazo/fplmr.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/mathpa
+zo/fplmri.pfb><c:/texlive/2015/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c
+:/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/texlive/2015/
+texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/texlive/2015/texmf-dist/font
+s/type1/urw/palatino/uplri8a.pfb>
+Output written on master.pdf (37 pages, 1872540 bytes).
 PDF statistics:
- 404 PDF objects out of 1000 (max. 8388607)
- 321 compressed objects within 4 object streams
- 91 named destinations out of 1000 (max. 500000)
+ 411 PDF objects out of 1000 (max. 8388607)
+ 327 compressed objects within 4 object streams
+ 92 named destinations out of 1000 (max. 500000)
  322 words of extra memory for PDF output out of 10000 (max. 10000000)
 
