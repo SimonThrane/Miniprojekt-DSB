@@ -62,11 +62,13 @@ For at forstå vindues funktioner og lækage må man først forstå, at man ser 
 f_{opløsning} = \frac{fs}{N} 
 \end{equation}
 
-Vindues funktioner er værdier du ganger på dine frekvensbins, der kan være med til at mindske mængden af lækage, men essensen er sådan set bare at du ganger en funktion på en anden funktion. Yderligere skal man huske at lave vinduesfunktionen så den passer til det antal bins der ønskes, da der ikke kan ganges to vectorere af forskellig længde sammen i denne slags analyse.
+Vindues funktioner er værdier du ganger på dine frekvensbins. Man benytter vindues funktioner til at mindske mængden af lækage, men essensen af en vindues funktin er sådan set bare, at en funktion ganges på en anden funktion. Yderligere skal man huske at lave vinduesfunktionen så den passer til det antal bins der ønskes, da der ikke kan ganges to vectorere af forskellig længde sammen i denne slags analyse.
 
 \subsection{Udglatning}
 
-Da det har været fremende for forståelsen af spektrene at plotte på logaritmisk x-akse, er det valgt at udglatningen af signalet skal afspejle aksen, og derfor bruges octav udglatning. Dette betyder at man istedet for at tage fx. 10 værdier og slå dem sammen til en gennemsnitsværdi, tager man løbende flere og flere værdier og slår sammen. Det passer med at en oktav højere er den dobbelte frekvens, er derfor stiger antal af frekvenser man slår sammen ind i den logaritmiske akse, der derved får en pæn udglatning.
+Da det har været fremmende for forståelsen af de forskellige spektra, er det blevet valgt at plotte disse på logaritmisk x-akse, fordi det er valgt, at udglatningen af signalet skal afspejle aksen, hvilket bevirker, at der er anvendt octav udglatning. Dette betyder, at man istedet for at tage fx. 10 værdier og slå dem sammen til en gennemsnitsværdi, løbende tager flere og flere værdier og slår sammen. \\Det passer med, at hver gang man går en octav højere op, svarer dette til en fordobling af frekvensen. Dette bevirker der i, at der også sker en stigning i antallet af frekvenser man slår sammen. Den logoritmiske akse sikrer derved en pæn udglatning.
+\\\\
+Man kan se den anvendte analyse-skabellon på i det vedhæftede bilag i afsnit \ref{ch:Bilag}.
 
 
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.18)  25 MAR 2016 11:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.18)  25 MAR 2016 13:43
 entering extended mode
 **master.tex
 (master.tex
@@ -1319,7 +1319,7 @@ LaTeX Info: Redefining \nameref on input line 9.
 (master.out) (master.out)
 \@outlinefile=\write5
  (sections/frontpage.tex
-<figures/forside.jpg, id=78, 500.62032pt x 145.29282pt>
+<figures/forside.jpg, id=82, 500.62032pt x 145.29282pt>
 File: figures/forside.jpg Graphic file (type jpg)
 
 <use figures/forside.jpg>
@@ -1497,6 +1497,11 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 67.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 67.
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
+
+ []
+
 ) (sections/analyse.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1524,53 +1529,38 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 5.
-<figures/Motor/original.jpg, id=142, 702.625pt x 526.96875pt>
+<figures/Motor/original.jpg, id=148, 702.625pt x 526.96875pt>
 File: figures/Motor/original.jpg Graphic file (type jpg)
 
 <use figures/Motor/original.jpg>
 Package pdftex.def Info: figures/Motor/original.jpg used on input line 9.
-(pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
+(pdftex.def)             Requested size: 341.43306pt x 256.07806pt.
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <9> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 10.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 13.
+(babel)             in language  on input line 15.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 13.
+(babel)             in language  on input line 15.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 13.
+(babel)             in language  on input line 15.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 13.
+(babel)             in language  on input line 15.
  [6
 
-]
-<figures/Motor/DFT.jpg, id=150, 702.625pt x 526.96875pt>
+ <./figures/Motor/original.jpg>]
+<figures/Motor/DFT.jpg, id=156, 702.625pt x 526.96875pt>
 File: figures/Motor/DFT.jpg Graphic file (type jpg)
 
 <use figures/Motor/DFT.jpg>
 Package pdftex.def Info: figures/Motor/DFT.jpg used on input line 18.
-(pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
+(pdftex.def)             Requested size: 341.43306pt x 256.07806pt.
 
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 22.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 22.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 22.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 22.
-[7 <./figures/Motor/original.jpg>]
-<figures/Motor/hanning.jpg, id=157, 702.625pt x 526.96875pt>
+<figures/Motor/hanning.jpg, id=158, 702.625pt x 526.96875pt>
 File: figures/Motor/hanning.jpg Graphic file (type jpg)
 
 <use figures/Motor/hanning.jpg>
 Package pdftex.def Info: figures/Motor/hanning.jpg used on input line 26.
-(pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
+(pdftex.def)             Requested size: 341.43306pt x 256.07806pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1586,46 +1576,47 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 30.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 30.
-[8 <./figures/Motor/DFT.jpg>]
-<figures/Motor/udglattet.jpg, id=163, 1927.2pt x 941.5175pt>
+[7 <./figures/Motor/DFT.jpg>]
+<figures/Motor/udglattet.jpg, id=165, 1927.2pt x 941.5175pt>
 File: figures/Motor/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Motor/udglattet.jpg>
 Package pdftex.def Info: figures/Motor/udglattet.jpg used on input line 33.
 (pdftex.def)             Requested size: 398.33858pt x 194.59264pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 37.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 37.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 37.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 37.
+[8 <./figures/Motor/hanning.jpg> <./figures/Motor/udglattet.jpg>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 38.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 38.
 
-<figures/Piano/original.jpg, id=165, 702.625pt x 526.96875pt>
+<figures/Piano/original.jpg, id=172, 702.625pt x 526.96875pt>
 File: figures/Piano/original.jpg Graphic file (type jpg)
 
 <use figures/Piano/original.jpg>
 Package pdftex.def Info: figures/Piano/original.jpg used on input line 42.
 (pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
 
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 45.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 45.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 45.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 45.
-[9 <./figures/Motor/hanning.jpg> <./figures/Motor/udglattet.jpg>]
-<figures/Piano/DFT.jpg, id=172, 702.625pt x 526.96875pt>
+<figures/Piano/DFT.jpg, id=174, 702.625pt x 526.96875pt>
 File: figures/Piano/DFT.jpg Graphic file (type jpg)
 
 <use figures/Piano/DFT.jpg>
 Package pdftex.def Info: figures/Piano/DFT.jpg used on input line 50.
-(pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
+(pdftex.def)             Requested size: 312.9803pt x 234.73755pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1641,13 +1632,13 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 54.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 54.
-[10 <./figures/Piano/original.jpg>]
-<figures/Piano/udglattet.jpg, id=179, 702.625pt x 526.96875pt>
+[9 <./figures/Piano/original.jpg>]
+<figures/Piano/udglattet.jpg, id=181, 702.625pt x 526.96875pt>
 File: figures/Piano/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Piano/udglattet.jpg>
 Package pdftex.def Info: figures/Piano/udglattet.jpg used on input line 57.
-(pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
+(pdftex.def)             Requested size: 341.43306pt x 256.07806pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1663,40 +1654,25 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 61.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 61.
-[11 <./figures/Piano/DFT.jpg>]
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 61.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 61.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 61.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 61.
-[12 <./figures/Piano/udglattet.jpg>]
+[10 <./figures/Piano/DFT.jpg> <./figures/Piano/udglattet.jpg>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 63.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 63.
 
-<figures/Symfoni/original.jpg, id=191, 702.625pt x 526.96875pt>
+<figures/Symfoni/original.jpg, id=188, 702.625pt x 526.96875pt>
 File: figures/Symfoni/original.jpg Graphic file (type jpg)
 
 <use figures/Symfoni/original.jpg>
 Package pdftex.def Info: figures/Symfoni/original.jpg used on input line 67.
 (pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
 
-<figures/Symfoni/DFT.jpg, id=193, 702.625pt x 526.96875pt>
+<figures/Symfoni/DFT.jpg, id=190, 702.625pt x 526.96875pt>
 File: figures/Symfoni/DFT.jpg Graphic file (type jpg)
 
 <use figures/Symfoni/DFT.jpg>
 Package pdftex.def Info: figures/Symfoni/DFT.jpg used on input line 75.
-(pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
+(pdftex.def)             Requested size: 341.43306pt x 256.07806pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1712,35 +1688,19 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 79.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 79.
-[13 <./figures/Symfoni/original.jpg>]
-<figures/Symfoni/udglattet.jpg, id=200, 702.625pt x 526.96875pt>
+[11 <./figures/Symfoni/original.jpg>]
+<figures/Symfoni/udglattet.jpg, id=197, 702.625pt x 526.96875pt>
 File: figures/Symfoni/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Symfoni/udglattet.jpg>
 Package pdftex.def Info: figures/Symfoni/udglattet.jpg used on input line 82.
-(pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 86.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 86.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 86.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 86.
-[14 <./figures/Symfoni/DFT.jpg>]
+(pdftex.def)             Requested size: 341.43306pt x 256.07806pt.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 87.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 87.
 
-<figures/Bass/original.jpg, id=206, 702.625pt x 526.96875pt>
+<figures/Bass/original.jpg, id=199, 702.625pt x 526.96875pt>
 File: figures/Bass/original.jpg Graphic file (type jpg)
 
 <use figures/Bass/original.jpg>
@@ -1754,20 +1714,20 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 94.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 94.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 95.
+(babel)             in language  on input line 94.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 95.
-[15 <./figures/Symfoni/udglattet.jpg>]
-<figures/Bass/DFT.jpg, id=214, 702.625pt x 526.96875pt>
+(babel)             in language  on input line 94.
+[12 <./figures/Symfoni/DFT.jpg> <./figures/Symfoni/udglattet.jpg>]
+<figures/Bass/DFT.jpg, id=207, 702.625pt x 526.96875pt>
 File: figures/Bass/DFT.jpg Graphic file (type jpg)
 
 <use figures/Bass/DFT.jpg>
 Package pdftex.def Info: figures/Bass/DFT.jpg used on input line 100.
-(pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
+(pdftex.def)             Requested size: 341.43306pt x 256.07806pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1783,35 +1743,19 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 104.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 104.
-[16 <./figures/Bass/original.jpg>]
-<figures/Bass/udglattet.jpg, id=220, 702.625pt x 526.96875pt>
+[13 <./figures/Bass/original.jpg>]
+<figures/Bass/udglattet.jpg, id=214, 702.625pt x 526.96875pt>
 File: figures/Bass/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Bass/udglattet.jpg>
 Package pdftex.def Info: figures/Bass/udglattet.jpg used on input line 107.
-(pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 111.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 111.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 111.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 111.
-[17 <./figures/Bass/DFT.jpg>]
+(pdftex.def)             Requested size: 341.43306pt x 256.07806pt.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 114.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 114.
 
-<figures/Vinglas/original.jpg, id=226, 702.625pt x 526.96875pt>
+<figures/Vinglas/original.jpg, id=216, 702.625pt x 526.96875pt>
 File: figures/Vinglas/original.jpg Graphic file (type jpg)
 
 <use figures/Vinglas/original.jpg>
@@ -1825,20 +1769,20 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 121.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 121.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 121.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 122.
-[18 <./figures/Bass/udglattet.jpg>]
-<figures/Vinglas/DFT.jpg, id=235, 702.625pt x 526.96875pt>
+(babel)             in language  on input line 121.
+[14 <./figures/Bass/DFT.jpg> <./figures/Bass/udglattet.jpg>]
+<figures/Vinglas/DFT.jpg, id=223, 702.625pt x 526.96875pt>
 File: figures/Vinglas/DFT.jpg Graphic file (type jpg)
 
 <use figures/Vinglas/DFT.jpg>
 Package pdftex.def Info: figures/Vinglas/DFT.jpg used on input line 127.
-(pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
+(pdftex.def)             Requested size: 341.43306pt x 256.07806pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1854,35 +1798,19 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 131.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 131.
-[19 <./figures/Vinglas/original.jpg>]
-<figures/Vinglas/udglattet.jpg, id=241, 702.625pt x 526.96875pt>
+[15 <./figures/Vinglas/original.jpg>]
+<figures/Vinglas/udglattet.jpg, id=230, 702.625pt x 526.96875pt>
 File: figures/Vinglas/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Vinglas/udglattet.jpg>
 Package pdftex.def Info: figures/Vinglas/udglattet.jpg used on input line 134.
-(pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 138.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 138.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 138.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 138.
-[20 <./figures/Vinglas/DFT.jpg>]
+(pdftex.def)             Requested size: 341.43306pt x 256.07806pt.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 141.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 141.
 
-<figures/Vind/original.jpg, id=247, 702.625pt x 526.96875pt>
+<figures/Vind/original.jpg, id=232, 702.625pt x 526.96875pt>
 File: figures/Vind/original.jpg Graphic file (type jpg)
 
 <use figures/Vind/original.jpg>
@@ -1896,20 +1824,20 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 149.
+(babel)             in language  on input line 148.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 149.
+(babel)             in language  on input line 148.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 149.
+(babel)             in language  on input line 148.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 149.
-[21 <./figures/Vinglas/udglattet.jpg>]
-<figures/Vind/DFT.jpg, id=254, 702.625pt x 526.96875pt>
+(babel)             in language  on input line 148.
+[16 <./figures/Vinglas/DFT.jpg> <./figures/Vinglas/udglattet.jpg>]
+<figures/Vind/DFT.jpg, id=239, 702.625pt x 526.96875pt>
 File: figures/Vind/DFT.jpg Graphic file (type jpg)
 
 <use figures/Vind/DFT.jpg>
 Package pdftex.def Info: figures/Vind/DFT.jpg used on input line 153.
-(pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
+(pdftex.def)             Requested size: 341.43306pt x 256.07806pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1925,35 +1853,19 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 157.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 157.
-[22 <./figures/Vind/original.jpg>]
-<figures/Vind/udglattet.jpg, id=261, 702.625pt x 526.96875pt>
+[17 <./figures/Vind/original.jpg>]
+<figures/Vind/udglattet.jpg, id=246, 702.625pt x 526.96875pt>
 File: figures/Vind/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Vind/udglattet.jpg>
 Package pdftex.def Info: figures/Vind/udglattet.jpg used on input line 160.
-(pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 164.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 164.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 164.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 164.
-[23 <./figures/Vind/DFT.jpg>]
+(pdftex.def)             Requested size: 341.43306pt x 256.07806pt.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 166.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 166.
 
-<figures/Musikbox/original.jpg, id=267, 702.625pt x 526.96875pt>
+<figures/Musikbox/original.jpg, id=248, 702.625pt x 526.96875pt>
 File: figures/Musikbox/original.jpg Graphic file (type jpg)
 
 <use figures/Musikbox/original.jpg>
@@ -1967,20 +1879,20 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 174.
+(babel)             in language  on input line 173.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 174.
+(babel)             in language  on input line 173.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 174.
+(babel)             in language  on input line 173.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 174.
-[24 <./figures/Vind/udglattet.jpg>]
-<figures/Musikbox/DFT.jpg, id=276, 702.625pt x 526.96875pt>
+(babel)             in language  on input line 173.
+[18 <./figures/Vind/DFT.jpg> <./figures/Vind/udglattet.jpg>]
+<figures/Musikbox/DFT.jpg, id=256, 702.625pt x 526.96875pt>
 File: figures/Musikbox/DFT.jpg Graphic file (type jpg)
 
 <use figures/Musikbox/DFT.jpg>
 Package pdftex.def Info: figures/Musikbox/DFT.jpg used on input line 178.
-(pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
+(pdftex.def)             Requested size: 341.43306pt x 256.07806pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1996,47 +1908,48 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 182.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 182.
-[25 <./figures/Musikbox/original.jpg>]
-<figures/Musikbox/udglattet.jpg, id=282, 1927.2pt x 941.5175pt>
+[19 <./figures/Musikbox/original.jpg>]
+<figures/Musikbox/udglattet.jpg, id=263, 1927.2pt x 941.5175pt>
 File: figures/Musikbox/udglattet.jpg Graphic file (type jpg)
 
 <use figures/Musikbox/udglattet.jpg>
 Package pdftex.def Info: figures/Musikbox/udglattet.jpg used on input line 185.
 
-(pdftex.def)             Requested size: 398.33858pt x 194.59264pt.
+(pdftex.def)             Requested size: 369.88582pt x 180.70035pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 189.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 189.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 189.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 189.
+[20 <./figures/Musikbox/DFT.jpg> <./figures/Musikbox/udglattet.jpg>]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 190.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 190.
 
-<figures/ECG/original.jpg, id=284, 702.625pt x 526.96875pt>
+<figures/ECG/original.jpg, id=270, 702.625pt x 526.96875pt>
 File: figures/ECG/original.jpg Graphic file (type jpg)
 
 <use figures/ECG/original.jpg>
 Package pdftex.def Info: figures/ECG/original.jpg used on input line 194.
 (pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
 
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 197.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 197.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 197.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 197.
-[26 <./figures/Musikbox/DFT.jpg> <./figures/Musikbox/udglattet.jpg>]
-<figures/ECG/DFT.jpg, id=291, 702.625pt x 526.96875pt>
+<figures/ECG/DFT.jpg, id=272, 702.625pt x 526.96875pt>
 File: figures/ECG/DFT.jpg Graphic file (type jpg)
 
 <use figures/ECG/DFT.jpg>
 Package pdftex.def Info: figures/ECG/DFT.jpg used on input line 202.
-(pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
+(pdftex.def)             Requested size: 341.43306pt x 256.07806pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2052,29 +1965,14 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 206.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 206.
-[27 <./figures/ECG/original.jpg>]
-<figures/ECG/udglattet.jpg, id=298, 702.625pt x 526.96875pt>
+[21 <./figures/ECG/original.jpg>]
+<figures/ECG/udglattet.jpg, id=279, 702.625pt x 526.96875pt>
 File: figures/ECG/udglattet.jpg Graphic file (type jpg)
 
 <use figures/ECG/udglattet.jpg>
 Package pdftex.def Info: figures/ECG/udglattet.jpg used on input line 210.
-(pdftex.def)             Requested size: 398.33858pt x 298.75908pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 13.59999pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 214.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 214.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 214.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 214.
-[28 <./figures/ECG/DFT.jpg>]) (sections/Resultat.tex
+(pdftex.def)             Requested size: 341.43306pt x 256.07806pt.
+) (sections/Resultat.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -2089,7 +1987,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
-[29 <./figures/ECG/udglattet.jpg>]
+[22 <./figures/ECG/DFT.jpg> <./figures/ECG/udglattet.jpg>]
 Kapitel 4.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
@@ -2104,7 +2002,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [30
+ [23
 
 ]
 Kapitel 5.
@@ -2112,35 +2010,211 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
+) (sections/bilag.tex
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+ [24
+
+]
+Kapitel 6.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+(sections/ECG.tex
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \documentclass
+                  {article}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \usepackage
+               {graphicx}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \usepackage
+               {color}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \begin{document}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 15.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 
-LaTeX Warning: Empty bibliography on input line 22.
+! Package inputenc Error: Unicode char \u8:æs  not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{verbatim}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char \u8:ælg not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{verbatim}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char \u8:å s not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{verbatim}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char \u8:å f not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{verbatim}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 80.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 80.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 80.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 80.
+[25
+
+]
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{verbatim}
+                   
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{verbatim}
+                   
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{verbatim}
+                   
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
 
 \tf@thm=\write7
 
 AED: lastpage setting LastPage
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 25.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 25.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 25.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 25.
-[31
 
-]
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 25.
+(babel)             in language  on input line 84.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 25.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 25.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 25.
+(babel)             in language  on input line 84.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 84.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 84.
+[26]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 84.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 84.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
  (master.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 25.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 25.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
 Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: 8C64BC8C0E0F57F8B1B2174F14CA5C77;1113.
+(rerunfilecheck)             Checksum: 22A6233C76B485BFB6894B05712A92C2;1157.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2152,27 +2226,32 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: There were multiply-defined labels.
 
 Package logreq Info: Writing requests to 'master.run.xml'.
- ) 
+ ) ) )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 13 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 25028 strings out of 493673
- 448744 string characters out of 3141529
+ 25054 strings out of 493673
+ 449437 string characters out of 3141529
  770940 words of memory out of 3000000
- 27766 multiletter control sequences out of 15000+200000
- 65751 words of font info for 105 fonts, out of 3000000 for 9000
+ 27786 multiletter control sequences out of 15000+200000
+ 66065 words of font info for 106 fonts, out of 3000000 for 9000
  1030 hyphenation exceptions out of 8191
- 64i,11n,75p,1175b,1431s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmr.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/
-fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
-pe1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/
-palatino/uplri8a.pfb>
-Output written on master.pdf (32 pages, 1500046 bytes).
+ 64i,11n,75p,1175b,1450s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Simon\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknap
+pen\ec\dpi600\ectt1095.pk>{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fo
+ntname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmr.p
+fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on master.pdf (27 pages, 1518405 bytes).
 PDF statistics:
- 364 PDF objects out of 1000 (max. 8388607)
- 82 named destinations out of 1000 (max. 500000)
- 287 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 417 PDF objects out of 1000 (max. 8388607)
+ 78 named destinations out of 1000 (max. 500000)
+ 295 words of extra memory for PDF output out of 10000 (max. 10000000)
 
