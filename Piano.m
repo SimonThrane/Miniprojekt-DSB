@@ -1,3 +1,12 @@
+%%
+% 
+%   for x = 1:10
+% 
+% $$e^{\pi i} + 1 = 0$$
+% 
+%       disp(x)
+%   end
+% 
 clear; clc;
 
 %Indlæs filen i variablen y ved brug af audioread:
