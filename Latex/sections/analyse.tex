@@ -11,7 +11,7 @@ Dette signal er fra motoren på en motorcykel. Man kan se det originale lydsigna
 	\label{fig:Motor original}
 \end{figure}
 
-Det originale signal er blevet fast fourrier transformeret og er blevet plottet på en logoritmisk skala på figur \ref{fig:Motor DFT}. Det i øjenfaldende på dette plot er, at signalet indeholder mange forholdsvis lave toner og  mange forskellige frekvenser.
+Det originale signal er blevet fast fourrier transformeret og er blevet plottet på en logoritmisk skala på figur \ref{fig:Motor DFT}. Det i øjenfaldende på dette plot er, at signalet indeholder mange forholdsvis lave toner og  mange forskellige frekvenser. Det kan desuden ses at signalet laver et drop ved omkring 10kHz. Dette ligner rigtig meget et spor fra en tidligere samplingsfrekvens fra samme signal. Dette betyder derfor også, at alle værdier efter dette drop ikke kan bruges til noget analysemæssigt.
 
 \begin{figure}[H]
 	\centering
@@ -20,7 +20,7 @@ Det originale signal er blevet fast fourrier transformeret og er blevet plottet 
 	\label{fig:Motor DFT}
 \end{figure}
 
-Det DFT-transfomerede signal er blevet vægtet ved brug af et hanningvindue. Resultatet ses på figur \ref{fig:Motor hanning}. Som man kan se på figuren er der ikke en det helt store at hente ved hanningviduet på denne funktion. Dette har været gennemgående for alle funktionerne, at Hanning-vinduet eller en anden vindues-funktion ikke havde nogen indvirkning.
+Det DFT-transfomerede signal er blevet vægtet ved brug af et hanningvindue. Resultatet ses på figur \ref{fig:Motor hanning}. Som man kan se på figuren er der ikke det helt store at hente ved hanningviduet på denne funktion. Dette har været gennemgående for alle funktionerne, at Hanning-vinduet eller en anden vindues-funktion ikke havde nogen stor indvirkning. Derfor er der heller ikke vist figurer med resultatet efter vægtningen med et hanningvindue af resten af signalerne.
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=120mm]{figures/Motor/hanning.jpg}
@@ -44,7 +44,7 @@ Dette signal er fra et klaver. Man kan se det originale lydsignal på figur \ref
 	\label{fig:Klaver original}
 \end{figure}
 
-Det originale signal er blevet fast fourrier transformeret og er blevet plottet på en logoritmisk skala på figur \ref{fig:Klaver DFT}. Det i øjenfaldende på dette plot er, at det indeholder stor energi omkring 100Hz-1000Hz og indeholder mange præcise unikke frekvenser i dette område. 
+Det originale signal er blevet fast fourrier transformeret og er blevet plottet på en logoritmisk skala på figur \ref{fig:Klaver DFT}. Det i øjenfaldende på dette plot er, at det indeholder stor energi omkring 100Hz-1000Hz og indeholder mange præcise unikke frekvenser i dette område. Dette giver også rigtig god mening idet, klaveret spiller mange af de dybe toner på lydfilen.
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=110mm]{figures/Piano/DFT.jpg}
@@ -196,7 +196,7 @@ Dette signal er et ECG-signal. Man kan se det originale lydsignal på figur \ref
 	\label{fig:ECG original}
 \end{figure}
 
-Det originale signal er blevet fast fourrier transformeret og er blevet plottet på en logoritmisk skala på figur \ref{fig:ECG DFT}. Det i øjenfaldende på dette plot er, at der meget energi ved de meget lave frekvenser. Man kan også se, at 50Hz stikker voldsomt ud, hvilket er støj fra strømnettet. Dette er meget normalt for ECG-signaler.
+Det originale signal er blevet fast fourrier transformeret og er blevet plottet på en logoritmisk skala på figur \ref{fig:ECG DFT}. Det i øjenfaldende på dette plot er, at der meget energi ved de meget lave frekvenser. Man kan også se, at 50Hz stikker voldsomt ud, hvilket er støj fra strømnettet. Dette er meget normalt for ECG-signaler. Generelt har dette signal kun energi udenfor det hørbare frekvensområde. Dette betyder at de fleste mennesker ikke vil kunne høre dette signal.
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=120mm]{figures/ECG/DFT.jpg}

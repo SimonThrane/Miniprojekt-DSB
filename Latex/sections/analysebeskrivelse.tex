@@ -46,14 +46,14 @@ I analysen af de forskellige signaler, er der i figurene kun plottet op til halv
   f_{nyquist} = \frac{f_s}{2} 
   \end{equation}
 
-For at forstå nyquist må man først forstå, at man ser på frekvens bins. Hvis man kigger på \eqref{eq:fourier} kan man se, at m er en bin tæller. Det vil sige, at værdierne man får ud fra fouriertrasformationen bliver lagt ned i et antal frekvensbins. Der er lige så mange bins, som der er samples N, og frekvenserne der analyseres efter (X(m)) findes ved formel \eqref{eq:bins}. På \eqref{eq:fourier}, kan man se eulers eksponentialfunktion er anvendt. Ifølge regnereglerne for komplekse tal vil længden af tallet, som i opgaven er brugt som y-akse, være den samme for et komplekst tals konjungerede værdi, som den selv. Derfor vil der i plottet ses et spejlbillede efter Nyquist frekvensen, der altså befinder sig ved 90 grader på enhedscirklen.  
+For at forstå nyquist må man først forstå, at man ser på frekvens bins. Hvis man kigger på \eqref{eq:fourier} kan man se, at m er en bin tæller. Det vil sige, at værdierne man får ud fra fouriertrasformationen bliver lagt ned i et antal frekvensbins. Der er lige så mange bins, som der er samples N, og frekvenserne der analyseres efter (X(m)) findes ved formel \eqref{eq:bins}. På \eqref{eq:fourier}, kan man se eulers eksponentialfunktion er anvendt. Ifølge regnereglerne for komplekse tal vil længden af tallet, som i opgaven er brugt som y-akse, være den samme for et komplekst tals konjungerede værdi, som den selv. Derfor vil der i plottet ses et spejlbillede efter Nyquist frekvensen, der altså befinder sig ved 180 grader på enhedscirklen.  
  
  På grund af disse fænomener, er der i digital signalbehandling defineret, at man for at kunne repræsentere signal ordenligt skal sample med mindst den dobbelte frekvens af den højeste frekvens, som optræder, i signalet man ønsker at gengive. 
  
   Ved signalerne udvindes en samplingsfrekvens ved matlabfunktionen audioread, og dermed forventes det at undgå både gentagelse af frekvensspektret, samt forkert sampling. På et enkelt spekter er der set tegn på, at der tidligere er brugt en anden lavere samplingsfrekvens end den udvunde frekvens.
 
 \subsection{Vinduesfunktioner og lækage}
- I tilfælde af at der findes en frekvens udenfor den præcise værdi, som frekvensbinet analyserer for, er det altså ikke kun denne frekvens der vil give udslag i frekvensspektret, men også en smule på andre frekvensbins, selvom de frekvenser ikke er der! Dette fænomen kaldes lækage. På grund af dette er det godt at opnå så lille en bredde i bins så muligt, altså at opløsningen \eqref{eq:bins2}er høj så muligt (eg. at f opløsning er meget lille).  
+ I tilfælde af at der findes en frekvens udenfor den præcise værdi, som frekvensbinet analyserer for, er det altså ikke kun denne frekvens der vil give udslag i frekvensspektret, men også en smule på andre frekvensbins, selvom de frekvenser ikke er der! Dette fænomen kaldes lækage. På grund af dette er det godt at opnå så lille en bredde i bins som muligt, altså at opløsningen er så god som muligt (eg. at f opløsning er meget lille).  
 
  \begin{equation}\label{eq:bins}
  f_{bin} = \frac{fs}{N}*m 
