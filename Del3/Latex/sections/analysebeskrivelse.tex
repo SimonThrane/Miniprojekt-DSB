@@ -1,0 +1,75 @@
+\chapter{Analysebeskrivelse}\label{ch:analysebeskrivelse}
+
+I denne opgave er der brugt en række forskellige metoder til analyse af de valgte digitale signaler. Dette afsnit er til for at beskrive disse metoder som indbefatter :
+\begin{itemize}
+\item Fouriertransformationen
+\item Aliasering
+\item Vinduesfunktioner og lækage
+\item Udglatning
+\end{itemize}
+ 
+ 
+ 
+\subsection{Fouriertransformationen}
+
+Fouriertransformationen (Den Diskrete Fouriertransformation) bruges i opgaven til at kunne analysere de digitale signaler, der arbejdes med udfra frekvenser og deres relative tilstedeværelse(i denne opgave 1 volt), istedet for fx at se på en amplitude af et signal til et givet tidspunkt. På denne måde analyseres alle signaler udfra deres frekvensindhold og tolkes dermed ikke i noget tidsmæssigt domæne. Formlen for selv den diskrete fouriertransformation kan ses på formel: \eqref{eq:fourier}. (I matlabkoden er der brugt en fast fourier transformation, men resultatet er det samme)
+
+\begin{equation}\label{eq:fourier}
+	{X(m)} = \displaystyle\sum_{n=0}^{N-1} {x(n)e^{-j\frac{2\pi}{N}mn}}
+\end{equation}
+
+x(n): tidsdiskret signal
+
+X(m): komplekst frekvensspektrum
+
+N: antal samples / frekvensbins
+
+n: sampletæller
+
+m: frekvensbin-tæller
+\newline
+\newline
+ Når denne transformation er lavet er der enkelte ting man skal være opmærksom i forbindelsen med analysen af det  digitale signal. Den første væsentlige er Aliasering. 
+
+
+\subsection{Aliasering}
+Et hvert sæt af diskrete værdier kan, og vil, aldrig kunne beskrives ved blot én sinuskurve, og derfor skal man i en frekvensanalyse være opmærksom på spejling og gentagelse af et frekvensspektra. Matematisk er det vist at formel: \eqref{eq:sinus1} er gyldig, og essensen af denne formel er, at der vil komme et udslag i et frekvensspektra både ved den målte signalfrekvens, men tilmed i alle frekvenser der er k gange samplingsfrekvensen større eller mindre end det originale signal, hvor k er et positivt eller negativt heltal. Dette er grunden til gentagelse af frekvensspektraet i værdier efter samplingsfrekvensen. Begge frekvenser vil, udfra det værdisæt man arbejder på, altid være matematisk lige korrekte, selvom datasætet er lavet ved optagelse af blot én af frekvenserne.
+
+\begin{equation}\label{eq:sinus1}
+{x(n)} = sin(2\pi f_0 n t_s) =sin(2\pi (f_0+kf_s) n t_s) 
+\end{equation}
+
+  
+I analysen af de forskellige signaler, er der i figurene kun plottet op til halvdelen af samplingsfrekvensen, dette skyldes at der efter Nyquist frekvensen, som er er vist på formel: \eqref{eq:nyquist}, blot ville vise et spejlbillede af signalet op til nyquist frekvensen, men dette giver naturligvis ikke mening at kikke på.
+ 
+  \begin{equation}\label{eq:nyquist}
+  f_{nyquist} = \frac{f_s}{2} 
+  \end{equation}
+
+For at forstå nyquist må man først forstå, at man ser på frekvens bins. Hvis man kigger på \eqref{eq:fourier} kan man se, at m er en bin tæller. Det vil sige, at værdierne man får ud fra fouriertrasformationen bliver lagt ned i et antal frekvensbins. Der er lige så mange bins, som der er samples N, og frekvenserne der analyseres efter (X(m)) findes ved formel \eqref{eq:bins}. På \eqref{eq:fourier}, kan man se eulers eksponentialfunktion er anvendt. Ifølge regnereglerne for komplekse tal vil længden af tallet, som i opgaven er brugt som y-akse, være den samme for et komplekst tals konjungerede værdi, som den selv. Derfor vil der i plottet ses et spejlbillede efter Nyquist frekvensen, der altså befinder sig ved 180 grader på enhedscirklen.  
+ 
+ På grund af disse fænomener, er der i digital signalbehandling defineret, at man for at kunne repræsentere signal ordenligt skal sample med mindst den dobbelte frekvens af den højeste frekvens, som optræder, i signalet man ønsker at gengive. 
+ 
+  Ved signalerne udvindes en samplingsfrekvens ved matlabfunktionen audioread, og dermed forventes det at undgå både gentagelse af frekvensspektret, samt forkert sampling. På et enkelt spekter er der set tegn på, at der tidligere er brugt en anden lavere samplingsfrekvens end den udvunde frekvens.
+
+\subsection{Vinduesfunktioner og lækage}
+ I tilfælde af at der findes en frekvens udenfor den præcise værdi, som frekvensbinet analyserer for, er det altså ikke kun denne frekvens der vil give udslag i frekvensspektret, men også en smule på andre frekvensbins, selvom de frekvenser ikke er der! Dette fænomen kaldes lækage. På grund af dette er det godt at opnå så lille en bredde i bins som muligt, altså at opløsningen er så god som muligt (eg. at f opløsning er meget lille).  
+
+ \begin{equation}\label{eq:bins}
+ f_{bin} = \frac{fs}{N}*m 
+ \end{equation}
+
+\begin{equation}\label{eq:bins}
+f_{opløsning} = \frac{fs}{N} 
+\end{equation}
+
+Vindues funktioner er værdier du ganger på dine frekvensbins. Man benytter vindues funktioner til at mindske mængden af lækage, men essensen af en vindues funktin er sådan set bare, at en funktion ganges på en anden funktion. Yderligere skal man huske at lave vinduesfunktionen så den passer til det antal bins der ønskes, da der ikke kan ganges to vectorere af forskellig længde sammen i denne slags analyse.
+
+\subsection{Udglatning}
+
+Da det har været fremmende for forståelsen af de forskellige spektra, er det blevet valgt at plotte disse på logaritmisk x-akse, derfor er det valgt, at udglatningen af signalet skal afspejle dette, og er der anvendt octav udglatning. Dette betyder, at man istedet for at tage fx. 10 værdier og slå dem sammen til en gennemsnitsværdi, løbende tager flere og flere værdier og slår sammen. \\Det passer med, at hver gang man går en octav højere op, svarer dette til en fordobling af frekvensen. Dette bevirker der i, at der også sker en stigning i antallet af frekvenser man slår sammen. Den logoritmiske akse sikrer derved en pæn udglatning.
+\\\\
+Man kan se den anvendte analyse-skabellon på i det vedhæftede bilag i afsnit \ref{ch:Bilag}.
+
+
+

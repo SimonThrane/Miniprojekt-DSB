@@ -1,0 +1,39 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {danish}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Indledning}{2}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Analysebeskrivelse}{3}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.0.1}Fouriertransformationen}{3}{subsection.2.0.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.0.2}Aliasering}{4}{subsection.2.0.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.0.3}Vinduesfunktioner og l\IeC {\ae }kage}{4}{subsection.2.0.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.0.4}Udglatning}{5}{subsection.2.0.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Analyse}{6}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Motor}{6}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Klaver}{9}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Symfoni}{11}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Bass}{13}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Vinglas}{15}{section.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Vindm\IeC {\o }lle}{17}{section.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.7}Spilled\IeC {\r a}se}{19}{section.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.8}ECG-signal}{21}{section.3.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Resultat og Diskussion}{23}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Konklusion}{24}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Bilag}{25}{chapter.6}
