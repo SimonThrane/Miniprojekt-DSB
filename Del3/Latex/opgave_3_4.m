@@ -38,12 +38,11 @@ Y = fft(x,fs);
 clc;
 figure(2)
 subplot(3,1,1)
-semilogx(abs(X));
+semilogx(abs((2/N)*X(1:0.5*end)));
 subplot(3,1,2)
-semilogx(abs(F));
+semilogx(abs((2/N)*F(1:0.5*end)));
 subplot(3,1,3)
-semilogx(abs(Y));
-
+semilogx(abs((2/N)*Y(1:0.5*end)));
 
 
 
