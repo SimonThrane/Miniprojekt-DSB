@@ -1,0 +1,24 @@
+\chapter{Audio Equalizer}\label{ch:Equalizer}
+\section{Audio Equalizer}
+Audio Equalizeren er som beskrevet i afsnit \ref{ch:Teori} bestående af 5 båndpas-filtre. Der opdeler input-signalet i 5 frekvensbånd, der bliver vægtet forskelligt før de bliver sat sammen til et output-signal.
+
+Der er blevet lavet et Matlab program, hvor der først bliver foretaget en Diskret Fourrier Transformation på indgangssignalet for at finde ud af, hvilke frekvenser indgangsignalet indeholder.
+Efterfølgende bliver inputsignalet kørt igennem den fremstillede Audio Equalizer. Efter det er blevet kørt igennem Equalizeren bliver output-signalet også Diskret Fourrier Transformeret, så der kan overskues, hvilke frekvenskarakteristika dette signal indeholder.
+\section{Matlab kode for de forskellige funktioner}
+FIR-Båndpass funktion:
+\newline
+\newline
+FIR-weight funktion:
+\newline
+\newline
+Equalizeren blev kørt med forskellige signaler, hvor der blev eksperimenteret med forskellige vægtning af de enkelte Båndpas-filtre samt frekvensbåndet de dækkede. Efter at havde eksperimenteret med de forskellige frekvensbånd blev det bestemt, at de enkelte frekvensbånd skulle dække følgende frekvensområder, der alle ligger i det hørbare frekvensområde:
+\begin{itemize}
+	\item Bånd 1 -
+	\item Bånd 2 -
+	\item Bånd 3 -
+	\item Bånd 4 -
+	\item Bånd 5 -
+\end{itemize}
+
+\section{Resultat}
+I dette afsnit fremstilles resultaterne af at køre Audio Equalizeren på en række forskellige signaler.

@@ -1,4 +1,4 @@
-\chapter{Teori}\label{ch:Teroi}
+\chapter{Teori}\label{ch:Teori}
 
 I denne opgave er der brugt en række forskellige digitale filtre og redskaber til at implementere en Audio equalizer. De forskellige filtre og redskaber, der er arbejdet med i opgaven er:
 \begin{itemize}
@@ -52,6 +52,17 @@ IIR står for Infinite Impulse Response, hvilket betyder, at det har et uendelig
 {y(n)} = \displaystyle\sum_{k=0}^{M-1} {b_{k}*x(n-k)}+\displaystyle\sum_{l=1}^{N-1} {a_{l}*y(n-l)}
 \end{equation}
 
+x(n): Inputsignal
+
+y(n): Filterets output signal
+
+b_{k}: Filterets feedforward koefficenter
+
+a_{l}: Filterets feedback koefficenter
+
+N-1: filterets orden
+\newline
+\newline
 Fordelen ved et IIR-filter i forhold til et FIR-filter, at de kan bruges til at forstærke et signal, de benytter sig også af færre udregninger og dermed mindre hukommelse. 
 Ulemperne ved IIR-filtre er, at de i modsætning til FIR-filtre godt kan være ustabile. 
 Dette kan ses af ligning \eqref{eq:IIR overforingsfunktion}, der viser overføringsfunktionen for et IIR-filter i Z-domænet. Ligningnen er fremkommet ved brug af Z-transformationen.
@@ -62,8 +73,11 @@ Dette kan ses af ligning \eqref{eq:IIR overforingsfunktion}, der viser overføri
 
 Som fremgår af ligning \eqref{eq:IIR overforingsfunktion} indeholder overføringsfunktionen både poler og nulpunkter. Det gælder for IIR-filtre, at de er stabile, hvis alle deres poler har en magnitude, der er mindre end 1 (Polerne lægger i enhedscirklen).
 
+\subsection{Hanning vindue}
+Hanning vinduet er en typisk vinduesfunktion med den matematiske funktions foreskrift:
+\begin{equation}\label{eq:Hanning}
+{w(n)} ={0.5*(1-(\cos \frac{2*\pi*n}{N-1}))}
+\end{equation}
 
-Man kan se de anvendte funktioner og en skabellon til et program i det vedhæftede bilag i afsnit \ref{ch:Bilag}.
 
-
-
+Vindues funktioner er er en funktion (værdier), du ganger på dine frekvensbins. Man benytter vindues funktioner til at mindske mængden af lækage, men essensen af en vindues funktin er sådan set bare, at en funktion ganges på en anden funktion. I praksis inden for Digital Signal behandling anvendes stort set altid et Hanning vindue for at undgå lækage.
