@@ -1,21 +1,21 @@
 clear
 
-%Indlæs filen i variablen y ved brug af audioread:
-[y, fs] = audioread('Symphony-sounds.wav');
+[x, fs] = audioread('Symphony-sounds.wav');
 
-% ***** Roter matrixen 90 grader ********************************
-B = rot90(y);
 
-% ***** Udvælg 1 signal *****************************************
-x = B(1,:);
+
+
+
+
+
 
 %Create noise signal
 t = linspace(-2*pi,2*pi,10000);
 rng default
-%x = sin(t) + 0.25*rand(size(t));
+x = sin(t) + 0.25*rand(size(t));
 
 %len = length(x);
-%fs = 48000;
+fs = 48000;
 %fc1 = 1200;
 %tfc2 = 4800;
 N = 10000;

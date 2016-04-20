@@ -1,4 +1,4 @@
-function [ output_signal ] = FIR_bandpass_function(input_signal,fc1,fc2 )
+function [ output_signal, filter1] = FIR_bandpass_function(input_signal,fc1,fc2 )
 
 len = length(input_signal);
 
@@ -6,7 +6,7 @@ fs = 48000;
 
 N = 10000;
 
-df = fs/N;
+df = fs/len;
 
 m1 = round(fc1/df); %bin nummer der passer bedst
 m2 = round(fc2/df); %-||-
