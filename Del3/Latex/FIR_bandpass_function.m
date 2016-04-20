@@ -4,9 +4,9 @@ len = length(input_signal);
 
 fs = 48000;
 
-N = 10000;
+N = 1000;
 
-df = fs/len;
+df = fs/N;
 
 m1 = round(fc1/df); %bin nummer der passer bedst
 m2 = round(fc2/df); %-||-

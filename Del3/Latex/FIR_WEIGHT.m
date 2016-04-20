@@ -2,11 +2,11 @@
 %Give weights in dB
 function [ output_signal ] = FIR_WEIGHT(input_signal,weight,weight2,weight3,weight4,weight5)
 
-[LP, notused] = FIR_bandpass_function(input_signal, 0, 1000);
-[BP1, notused] = FIR_bandpass_function(input_signal, 1000, 3000);
-[BP2, notused] = FIR_bandpass_function(input_signal, 3000, 6500);
-[BP3, notused] = FIR_bandpass_function(input_signal, 6500, 11500);
-[HP, notused] = FIR_bandpass_function(input_signal, 11500, 18000);
+[LP, notused] = FIR_bandpass_function(input_signal, 0, 10);
+[BP1, notused] = FIR_bandpass_function(input_signal, 8, 100);
+[BP2, notused] = FIR_bandpass_function(input_signal, 80, 1000);
+[BP3, notused] = FIR_bandpass_function(input_signal, 800, 10000);
+[HP, notused] = FIR_bandpass_function(input_signal, 8000, 20000);
 
 %weight = ln(10)*(x/(20*ln(10)));
 %weight2 = ln(10)*(x/(20*ln(10)));
