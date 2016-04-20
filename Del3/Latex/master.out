@@ -2,9 +2,10 @@
 \BOOKMARK [0][-]{chapter.1}{1 Indledning}{}% 2
 \BOOKMARK [0][-]{chapter.2}{2 Teori}{}% 3
 \BOOKMARK [1][-]{subsection.2.0.1}{2.0.1 Equalizer}{chapter.2}% 4
-\BOOKMARK [2][-]{subsection.2.0.2}{2.0.2 FIR-filtre}{subsection.2.0.1}% 5
-\BOOKMARK [2][-]{subsection.2.0.3}{2.0.3 IIR-filtre}{subsection.2.0.1}% 6
-\BOOKMARK [0][-]{chapter.3}{3 Audio Equalizer}{}% 7
-\BOOKMARK [0][-]{chapter.4}{4 Resultat og Diskussion}{}% 8
-\BOOKMARK [0][-]{chapter.5}{5 Konklusion}{}% 9
-\BOOKMARK [0][-]{chapter.6}{6 Bilag}{}% 10
+\BOOKMARK [2][-]{subsection.2.0.2}{2.0.2 Z-transformation}{subsection.2.0.1}% 5
+\BOOKMARK [2][-]{subsection.2.0.3}{2.0.3 FIR-filtre}{subsection.2.0.1}% 6
+\BOOKMARK [2][-]{subsection.2.0.4}{2.0.4 IIR-filtre}{subsection.2.0.1}% 7
+\BOOKMARK [0][-]{chapter.3}{3 Audio Equalizer}{}% 8
+\BOOKMARK [0][-]{chapter.4}{4 Resultat og Diskussion}{}% 9
+\BOOKMARK [0][-]{chapter.5}{5 Konklusion}{}% 10
+\BOOKMARK [0][-]{chapter.6}{6 Bilag}{}% 11
