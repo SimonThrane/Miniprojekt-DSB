@@ -14,10 +14,16 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.0.4}IIR-filtre}{4}{subsection.2.0.4}
 \defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.0.5}Hanning vindue}{5}{subsection.2.0.5}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Audio Equalizer}{6}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Resultat og Diskussion}{7}{chapter.4}
+\contentsline {section}{\numberline {3.1}Audio Equalizer}{6}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Konklusion}{8}{chapter.5}
+\contentsline {section}{\numberline {3.2}Matlab kode for de forskellige funktioner}{6}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Bilag}{9}{chapter.6}
+\contentsline {section}{\numberline {3.3}Resultat}{7}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Resultat og Diskussion}{8}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Konklusion}{9}{chapter.5}

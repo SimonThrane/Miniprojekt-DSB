@@ -5,7 +5,10 @@
 \BOOKMARK [2][-]{subsection.2.0.2}{2.0.2 Z-transformation}{subsection.2.0.1}% 5
 \BOOKMARK [2][-]{subsection.2.0.3}{2.0.3 FIR-filtre}{subsection.2.0.1}% 6
 \BOOKMARK [2][-]{subsection.2.0.4}{2.0.4 IIR-filtre}{subsection.2.0.1}% 7
-\BOOKMARK [0][-]{chapter.3}{3 Audio Equalizer}{}% 8
-\BOOKMARK [0][-]{chapter.4}{4 Resultat og Diskussion}{}% 9
-\BOOKMARK [0][-]{chapter.5}{5 Konklusion}{}% 10
-\BOOKMARK [0][-]{chapter.6}{6 Bilag}{}% 11
+\BOOKMARK [2][-]{subsection.2.0.5}{2.0.5 Hanning vindue}{subsection.2.0.1}% 8
+\BOOKMARK [0][-]{chapter.3}{3 Audio Equalizer}{}% 9
+\BOOKMARK [1][-]{section.3.1}{3.1 Audio Equalizer}{chapter.3}% 10
+\BOOKMARK [1][-]{section.3.2}{3.2 Matlab kode for de forskellige funktioner}{chapter.3}% 11
+\BOOKMARK [1][-]{section.3.3}{3.3 Resultat}{chapter.3}% 12
+\BOOKMARK [0][-]{chapter.4}{4 Resultat og Diskussion}{}% 13
+\BOOKMARK [0][-]{chapter.5}{5 Konklusion}{}% 14
