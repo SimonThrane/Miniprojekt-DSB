@@ -18,7 +18,7 @@ X = fft(x);
 
 
 clc;
-figure(2)
+figure(1)
 subplot(2,1,1)
 semilogx(abs((2/N)*Y(1:0.5*end)));
 subplot(2,1,2)

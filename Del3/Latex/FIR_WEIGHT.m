@@ -2,7 +2,7 @@
 %Give weights in dB
 function [ output_signal ] = FIR_WEIGHT(input_signal,weight,weight2,weight3,weight4,weight5)
 
-[LP, notused] = FIR_bandpass_function(input_signal, 0, 10);
+[LP] = IIR_Lowpass(input_signal);
 [BP1, notused] = FIR_bandpass_function(input_signal, 8, 100);
 [BP2, notused] = FIR_bandpass_function(input_signal, 80, 1000);
 [BP3, notused] = FIR_bandpass_function(input_signal, 800, 10000);

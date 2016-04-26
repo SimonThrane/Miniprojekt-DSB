@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.18)  20 APR 2016 11:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.18)  26 APR 2016 14:10
 entering extended mode
 **master.tex
 (master.tex
@@ -1315,7 +1315,7 @@ LaTeX Info: Redefining \nameref on input line 9.
 (master.out) (master.out)
 \@outlinefile=\write5
  (sections/frontpage.tex
-<figures/forside.jpg, id=62, 841.1425pt x 600.2425pt>
+<figures/forside.jpg, id=74, 841.1425pt x 600.2425pt>
 File: figures/forside.jpg Graphic file (type jpg)
 
 <use figures/forside.jpg>
@@ -1454,7 +1454,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 11.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 11.
-<figures/Equalizer_flowchart.PNG, id=98, 634.7715pt x 201.1515pt>
+<figures/Equalizer_flowchart.PNG, id=113, 634.7715pt x 201.1515pt>
 File: figures/Equalizer_flowchart.PNG Graphic file (type png)
 
 <use figures/Equalizer_flowchart.PNG>
@@ -1486,39 +1486,6 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 47.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 47.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.59 b_
-       {k}: Filterets feedforward koefficenter
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.60 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.61 a_
-       {l}: Filterets feedback koefficenter
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.62 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 63--69
 
@@ -1574,32 +1541,92 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 7.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 7.
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--15
-
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 8.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 8.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 9.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Overfull \hbox (20.1556pt too wide) in paragraph at lines 35--35
+[]\T1/cmtt/m/n/10.95 function [ output_signal, filter1] = FIR_bandpass_function
+(input_signal,fc1,fc2 )[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--15
-
+Overfull \hbox (3.18048pt too wide) in paragraph at lines 35--35
+[]\T1/cmtt/m/n/10.95 filter1 = [filter1 zeros(1,N/2-m1-abs(m1-m2)) ones(1,abs(m
+1-m2)) zeros(1,m1)];[] 
  []
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 23.
+(babel)             in language  on input line 35.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 23.
-) (sections/Resultat.tex
+(babel)             in language  on input line 35.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 35.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 1.
- [6
+(babel)             in language  on input line 35.
+[6
 
 ]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 37.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 37.
+ <figures/FDATool.PNG, id=149, 1112.35574pt x 513.71925pt>
+File: figures/FDATool.PNG Graphic file (type png)
+
+<use figures/FDATool.PNG>
+Package pdftex.def Info: figures/FDATool.PNG used on input line 42.
+(pdftex.def)             Requested size: 426.79134pt x 197.10446pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 66.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 66.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 66.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 66.
+[7 <./figures/FDATool.PNG>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 68.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 68.
+
+Overfull \hbox (82.39767pt too wide) in paragraph at lines 103--103
+[]\T1/cmtt/m/n/10.95 function [ output_signal ] = FIR_WEIGHT(input_signal,weigh
+t,weight2,weight3,weight4,weight5)[] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 103.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 103.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 103.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 103.
+[8]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 105.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 105.
+) (sections/Resultat.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1614,27 +1641,27 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
-[7]
+[9]
 Kapitel 4.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 
-LaTeX Warning: Reference `fig:Symfoni udglattet' on page 8 undefined on input l
-ine 3.
+LaTeX Warning: Reference `fig:Symfoni udglattet' on page 10 undefined on input 
+line 3.
 
 
-LaTeX Warning: Reference `fig:Bas udglattet' on page 8 undefined on input line 
-5.
+LaTeX Warning: Reference `fig:Bas udglattet' on page 10 undefined on input line
+ 5.
 
 
-LaTeX Warning: Reference `fig:Musikbox udglattet' on page 8 undefined on input 
-line 5.
+LaTeX Warning: Reference `fig:Musikbox udglattet' on page 10 undefined on input
+ line 5.
 
 
-LaTeX Warning: Reference `fig:Motor hanning' on page 8 undefined on input line 
-11.
+LaTeX Warning: Reference `fig:Motor hanning' on page 10 undefined on input line
+ 11.
 
 ) (sections/conclusion.tex
 Package babel Info: Redefining danish shorthand "|
@@ -1645,7 +1672,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [8
+ [10
 
 ]
 Kapitel 5.
@@ -1668,7 +1695,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 25.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 25.
-[9
+[11
 
 ]
 Package babel Info: Redefining danish shorthand "|
@@ -1681,7 +1708,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 25.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 25.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 25.
 Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: 3D6F59388D2CD569A67584BC066016BE;900.
+(rerunfilecheck)             Checksum: CFFDF5299125AC16FD743C3825503CC1;1144.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1692,25 +1719,26 @@ LaTeX Warning: There were undefined references.
 Package logreq Info: Writing requests to 'master.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 24868 strings out of 493673
- 444976 string characters out of 3141529
+ 24903 strings out of 493673
+ 445851 string characters out of 3141529
  770940 words of memory out of 3000000
- 27668 multiletter control sequences out of 15000+200000
- 75148 words of font info for 125 fonts, out of 3000000 for 9000
+ 27692 multiletter control sequences out of 15000+200000
+ 75462 words of font info for 126 fonts, out of 3000000 for 9000
  1030 hyphenation exceptions out of 8191
  64i,12n,75p,895b,1431s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmr.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/
-fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
-pe1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/
-palatino/uplri8a.pfb>
-Output written on master.pdf (10 pages, 546553 bytes).
+ <C:\Users\Simon\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+ectt1095.pk>{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmr.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/urw/palatino/uplri8a.pfb>
+Output written on master.pdf (12 pages, 622966 bytes).
 PDF statistics:
- 181 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 135 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 276 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 500000)
+ 164 words of extra memory for PDF output out of 10000 (max. 10000000)
 
