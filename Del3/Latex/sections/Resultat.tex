@@ -1,11 +1,46 @@
 \chapter{Resultat og Diskussion}\label{ch:Resultat og Diskussion}
 
-Vores analyse af de forskellige signaler viste, hvilke frekvenser, der var dominerende i de enkelte signaler. Denne viden er vigtig at have, da den fortæller meget godt, hvad signalet indeholder. \\Man kan f.eks. ved brug af analysen af symfoni-signalet (fig.\ref{fig:Symfoni udglattet}) se, at det indeholder stor aktivitet i frekvensområdet 100Hz-1000Hz, hvilket stemmer meget godt overens med, hvad man kunne forvente af frekvenser i et sådan signal.
+Vi kørte vores audio equalizer med musiknummeret "The-sonata-piano-loop.mp3":
+Dette nummer blev analyseret med forskellige vægtninger for at se, hvordan at koden musiknummeret blev ændret i forhold til equalizeren.
 
-Man kan, hvis man sammenligner de to signaler: Bas (fig.\ref{fig:Bas udglattet}) og musikboxen (fig.\ref{fig:Musikbox udglattet}). Se, at signalet fra musikboxen indeholder flere høje frekvenser end Bas-signalet, dette er helt forventelig. Man kan også se, at signalet fra vinglasset, der knipses på indeholder nogen meget præcise frekvenser modsat f.eks. signalet fra symfoni-orkesteret, der indeholder mange forskellige instrumenter med forskellige frekvenser.
 
-Vores analysesystem har dermed givet os en bedre forståelse for, hvilke frekvenser, der er dominerende i de enkelte signaler. 
 
-Dette kan f.eks. bruges, i forbindelse med vindmøller, til at bestemme om, der er en bolt i motoren, der er slidt og skal skiftes. Hvis man har tilstrækkelig stor erfaring inde for dette område kan man nemlig sammenligne lyden fra et velfungerende system med et slidt eller fejlagtigt system.
+\subsection{Vægtning på (0,0,100,1,1)}
 
-I analysen er det valgt ikke at bruge vindues-funktionerne, da det ikke gav mening i forhold til de signaler der er blevet arbejdet med. De anvendte signalers frekvnesopløsning syntes at have været så god, at der ikke sås nogen nævneværdig forbedring af lækageproblemer, eller støjproblemer, ved brug af  fx Hanning-vinduer. Dette er eksemplificeret ved figur: \ref{fig:Motor hanning}.
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=150mm]{figures/Sonata1.jpg}
+	\caption{Audio Equalizer på Sonata piano med vægtning 0,0,100,1,1}
+	\label{fig:Sonata1}
+\end{figure}
+
+
+
+\subsection{Vægtning på (10,100,0,1,1)}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=150mm]{figures/Sonata2.jpg}
+	\caption{Audio Equalizer på Sonata piano med vægtning 10,100,0,1,1}
+	\label{fig:Sonata2}
+\end{figure}
+
+
+\subsection{Vægtning på (100,0,0,10,100)}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=150mm]{figures/Sonata3.jpg}
+	\caption{Audio Equalizer på Sonata piano med vægtning 100,0,0,10,100}
+	\label{fig:Sonata3}
+\end{figure}
+
+
+\subsection{Vægtning på (1,10,0.1,0.1,1)}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=150mm]{figures/Sonata4.jpg}
+	\caption{Audio Equalizer på Sonata piano med vægtning 1,10,0.1,0.1,1}
+	\label{fig:Sonata4}
+\end{figure}
