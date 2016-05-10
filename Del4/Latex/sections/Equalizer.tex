@@ -1,9 +1,9 @@
-\chapter{Audio Equalizer}\label{ch:Equalizer}
-\section{Audio Equalizer}
-Audio Equalizeren er som beskrevet i afsnit \ref{ch:Teori} bestående af 5 båndpas-filtre. Der opdeler input-signalet i 5 frekvensbånd, der bliver vægtet forskelligt før de bliver sat sammen til et output-signal.
+\chapter{Hørerapperatet}\label{ch:Hørerapperatet}
+\section{Hørerapperatet}
+Hørerapperatet er som beskrevet i afsnit \ref{ch:Teori} bestående af båndpas-filtre. Der opdeler input-signalet i frekvensbånd, der bliver vægtet forskelligt før de bliver sat sammen til et output-signal.
 
 Der er blevet lavet et Matlab program, hvor der først bliver foretaget en Diskret Fourrier Transformation på indgangssignalet for at finde ud af, hvilke frekvenser indgangsignalet indeholder.
-Efterfølgende bliver inputsignalet kørt igennem den fremstillede Audio Equalizer. Efter det er blevet kørt igennem Equalizeren bliver output-signalet også Diskret Fourrier Transformeret, så der kan overskues, hvilke frekvenskarakteristika dette signal indeholder.
+Efterfølgende bliver inputsignalet kørt igennem det fremstillede Hørerapperats filter. Efter det er blevet kørt igennem filteret bliver output-signalet også Diskret Fourrier Transformeret, så der kan overskues, hvilke frekvenskarakteristika dette signal indeholder.
 \section{Matlab kode for de forskellige funktioner}
 \subsection{FIR-Båndpass funktion}
  \begin{verbatim}
@@ -103,4 +103,4 @@ Equalizeren blev kørt med forskellige signaler, hvor der blev eksperimenteret m
 \end{verbatim}
 
 \section{Resultat}
-I dette afsnit fremstilles resultaterne af at køre Audio Equalizeren på en række forskellige signaler.
+I dette afsnit fremstilles resultaterne af at køre Hørerapperatet på en række forskellige signaler.

@@ -1,17 +1,15 @@
 \chapter{Teori}\label{ch:Teori}
 
-I denne opgave er der brugt en række forskellige digitale filtre og redskaber til at implementere en Audio equalizer. De forskellige filtre og redskaber, der er arbejdet med i opgaven er:
+I opgaven er der brugt forskellige digitale filtre og redskaber til at implementere digital signalbehandling til et hørerapperat. De forskellige filtre og redskaber, der er arbejdet med i opgaven er:
 \begin{itemize}
-\item FIR-filtre
+\item Fast fourier transformation
 \item IIR-filtre
 \item Hanning funktionen
-\item Z-transformation
 \end{itemize}
 
-\subsection{Equalizer}
-En Equalizer er en , den .\\
-Equaliseren er blevet implementeret ved at lave 5 forskellige båndpas filtre, der opdeler Audio-signalet i 5 forskellige frekvens dele. Disse båndpas filtre er blevet designet ved brug af IIR- og FIR-filtre. 
-Der er et blokdiagram for Equalizeren på figur \ref{fig:Aktivitetsdiagram for Equalizeren}.
+\subsection{Hørerapperat}
+Hørerapperatet er blevet implementeret ved at lave forskellige båndpas filtre, der opdeler Audio-signalet i forskellige frekvens dele. Disse båndpas filtre er blevet designet ved brug af IIR. Ønsket med disse blokke er at forstærke de frekvenser der ligger i menneskets tale frekvenser som ligger omkring 100Hz- 12kHz 
+%Der er et blokdiagram for Equalizeren på figur \ref{fig:Aktivitetsdiagram for Equalizeren}.
 
 \begin{figure}[H]
 	\centering
@@ -20,11 +18,9 @@ Der er et blokdiagram for Equalizeren på figur \ref{fig:Aktivitetsdiagram for E
 	\label{fig:Aktivitetsdiagram for Equalizeren}
 \end{figure}
 
-Efter signalet er blevet opdelt i 5 forskellige frekvensbånd bliver hver enkelt af frekvens båndene vægtet på forskellige vis.
+Efter signalet er blevet opdelt i forskellige frekvensbånd bliver hver enkelt af frekvens båndene vægtet på forskellige vis.
 
-I det nedenstående afsnit følger en beskrivelse af de to forskellige filtre type. Man kan på nedenstående billede  se den grundlæggende forskel på de to filtre.
-
-
+I det nedenstående afsnit følger en beskrivelse af de forskellige filtre. Man kan på nedenstående billede  se den grundlæggende forskel på de to filtre.
 
 
 \subsection{Z-transformation}
@@ -36,13 +32,6 @@ Det matematiske udtryk for Z-transformation ses i ligning \ref{eq:Z-transformati
 {H(z)} = \displaystyle\sum_{n=-\infty }^{\infty} {h(n)z^{-n}}
 \end{equation}
  
-\subsection{FIR-filtre}
-FIR står for Finite Implulse Response, hvilket betyder, at der er et endeligt antal af impulssvar.
-Dette kan man se, i ligning \eqref{eq:FIR}, der er diffrensligningen for et FIR filter.
-\begin{equation}\label{eq:FIR}
-{y(n)} = \displaystyle\sum_{k=0}^{M-1} {b_{k}*x(n-k)}
-\end{equation}
-
 
 \subsection{IIR-filtre}
 IIR står for Infinite Impulse Response, hvilket betyder, at det har et uendeligt antal output, da filteret benytter sig af feedback fra tidligere output. Hvis man kigger på ligning \eqref{eq:IIR} kan man se den generelle differensligning for et IIR-filter.
