@@ -8,15 +8,8 @@ I opgaven er der brugt forskellige digitale filtre og redskaber til at implement
 \end{itemize}
 
 \subsection{Hørerapperat}
-Hørerapperatet er blevet implementeret ved at lave forskellige båndpas filtre, der opdeler Audio-signalet i forskellige frekvens dele. Disse båndpas filtre er blevet designet ved brug af IIR. Ønsket med disse blokke er at forstærke de frekvenser der ligger i menneskets tale frekvenser som ligger omkring 100Hz- 12kHz 
-%Der er et blokdiagram for Equalizeren på figur \ref{fig:Aktivitetsdiagram for Equalizeren}.
+Hørerapperatet er blevet implementeret ved at lave forskellige båndpas filtre, der opdeler Audio-signalet i forskellige frekvens dele. Disse båndpas filtre er blevet designet ved brug af IIR. Ønsket med disse blokke er at forstærke de frekvenser der ligger i menneskets tale frekvenser som ligger omkring 300Hz- 3.4kHz. Menneksket kan sagtens lave lyde udenfor dette men dette spectrum har været andvendt på telefonlinjer, og er derfor valgt. 
 
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=150mm]{figures/Equalizer_flowchart.PNG}
-	\caption{Aktivitetsdiagram for Audio Equalizeren}
-	\label{fig:Aktivitetsdiagram for Equalizeren}
-\end{figure}
 
 Efter signalet er blevet opdelt i forskellige frekvensbånd bliver hver enkelt af frekvens båndene vægtet på forskellige vis.
 
