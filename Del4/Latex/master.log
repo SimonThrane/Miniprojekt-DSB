@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.5)  10 MAY 2016 12:21
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.1.6)  10 MAY 2016 13:07
->>>>>>> 5dc9781b42a7aff46a6439b191423fc1cd34d09a
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.5)  10 MAY 2016 15:03
 entering extended mode
 **./master.tex
 (master.tex
@@ -1454,50 +1450,44 @@ LaTeX Info: Redefining \nameref on input line 9.
 \@outlinefile=\write5
 \openout5 = `master.out'.
 
-<<<<<<< HEAD
  (sections/frontpage.tex
-<figures/forside.jpg, id=14, 782.925pt x 492.84125pt>
-=======
- (./sections/frontpage.tex
-<figures/forside.jpg, id=71, 782.925pt x 492.84125pt>
->>>>>>> 5dc9781b42a7aff46a6439b191423fc1cd34d09a
+<figures/forside.jpg, id=74, 782.925pt x 492.84125pt>
 File: figures/forside.jpg Graphic file (type jpg)
 
 <use figures/forside.jpg>
 Package pdftex.def Info: figures/forside.jpg used on input line 20.
 (pdftex.def)             Requested size: 341.43306pt x 214.92564pt.
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <20.74> not available
-<<<<<<< HEAD
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 25.
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 39.
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 26.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 40.
 
 
 ("C:\Users\Elgiganten Udlaan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss
 \ot1pplx.fd"
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 39.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 40.
 
 
 ("C:\Users\Elgiganten Udlaan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss
 \omlzplm.fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 39.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 40.
 
 
 ("C:\Users\Elgiganten Udlaan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss
 \omszplm.fd"
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 39.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 40.
 
 
 ("C:\Users\Elgiganten Udlaan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss
 \omxzplm.fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 39.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 40.
 
 
 ("C:\Users\Elgiganten Udlaan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss
@@ -1505,103 +1495,42 @@ LaTeX Font Info:    Try loading font information for OT1+zplm on input line 39.
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 39.
+(Font)              scaled to size 11.40997pt on input line 40.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 39.
+(Font)              scaled to size 8.33606pt on input line 40.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 39.
+(Font)              scaled to size 6.25204pt on input line 40.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 39.
+(Font)              scaled to size 11.40997pt on input line 40.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 39.
+(Font)              scaled to size 8.33606pt on input line 40.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 39.
+(Font)              scaled to size 6.25204pt on input line 40.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 67.
+(babel)             in language  on input line 68.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 67.
+(babel)             in language  on input line 68.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 67.
+(babel)             in language  on input line 68.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 67.
+(babel)             in language  on input line 68.
  [1
 
 {C:/Users/Elgiganten Udlaan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} 
 <./figures/forside.jpg>])
-=======
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 26.
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 40.
-
-
-(d:/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pplx.fd
-File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
-)
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 40.
-
-
-(d:/texlive/2015/texmf-dist/tex/latex/psnfss/omlzplm.fd
-File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
-)
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 40.
-
-
-(d:/texlive/2015/texmf-dist/tex/latex/psnfss/omszplm.fd
-File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
-)
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 40.
-
-
-(d:/texlive/2015/texmf-dist/tex/latex/psnfss/omxzplm.fd
-File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
-)
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 40.
-
-
-(d:/texlive/2015/texmf-dist/tex/latex/psnfss/ot1zplm.fd
-File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-)
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 40.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 40.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 40.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 40.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 40.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 40.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 68.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 68.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 68.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 68.
- [1
-
-{d:/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figures/forsi
-de.jpg>])
->>>>>>> 5dc9781b42a7aff46a6439b191423fc1cd34d09a
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 13.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 13.
-<<<<<<< HEAD
  (master.toc
-=======
-
-(./master.toc
->>>>>>> 5dc9781b42a7aff46a6439b191423fc1cd34d09a
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/pplx/b/n' tried instead on input line 5.
 )
 \tf@toc=\write6
 \openout6 = `master.toc'.
 
- (./sections/introduction.tex
+
+(sections/introduction.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -1623,7 +1552,7 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
-) (./sections/Teori.tex
+) (sections/Teori.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -1648,43 +1577,47 @@ LaTeX Font Warning: Font shape `OMS/pplx/m/n' undefined
 (Font)              for symbol `textbullet' on input line 5.
 
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <12> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 10.
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 11.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 10.
+(hyperref)                than one, level fixed on input line 11.
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 10.
+(babel)             in language  on input line 11.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 10.
+(babel)             in language  on input line 11.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 19.
+(babel)             in language  on input line 20.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 19.
+(babel)             in language  on input line 20.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 33.
+(babel)             in language  on input line 32.
 [3
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 45--51
+Underfull \hbox (badness 10000) in paragraph at lines 46--52
 
  []
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 58.
+(babel)             in language  on input line 59.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 58.
-) (./sections/Equalizer.tex
+(babel)             in language  on input line 59.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 66.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 66.
+) (sections/Equalizer.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -1700,6 +1633,21 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
 [4]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 1.
+[5]
 Kapitel 3.
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
@@ -1719,34 +1667,87 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 8.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 8.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 9.
+
+("C:\Users\Elgiganten Udlaan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t
+1cmtt.fd"
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Overfull \hbox (25.81396pt too wide) in paragraph at lines 35--35
+[] \T1/cmtt/m/n/10.95 function [ output_signal, filter1] = FIR_bandpass_functio
+n(input_signal,fc1,fc2 )[] 
+ []
+
+
+Overfull \hbox (8.83885pt too wide) in paragraph at lines 35--35
+[] \T1/cmtt/m/n/10.95 filter1 = [filter1 zeros(1,N/2-m1-abs(m1-m2)) ones(1,abs(
+m1-m2)) zeros(1,m1)];[] 
+ []
+
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 10.
+(babel)             in language  on input line 35.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 10.
+(babel)             in language  on input line 35.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 24.
+(babel)             in language  on input line 35.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 24.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 28.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 28.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 28.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 28.
-[5
+(babel)             in language  on input line 35.
+[6
 
 ]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 38.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 35.
-) (./sections/Resultat.tex
+(babel)             in language  on input line 38.
+ <figures/IIRlavpas.jpg, id=142, 551.05875pt x 374.14781pt>
+File: figures/IIRlavpas.jpg Graphic file (type jpg)
 
-<<<<<<< HEAD
-(sections/introduction.tex
-=======
+<use figures/IIRlavpas.jpg>
+Package pdftex.def Info: figures/IIRlavpas.jpg used on input line 42.
+(pdftex.def)             Requested size: 426.79134pt x 289.78456pt.
+LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <9> not available
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 43.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 49.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 49.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 49.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 49.
+[7 <./figures/IIRlavpas.jpg>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 91.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 91.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 91.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 91.
+[8]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 93.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 93.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 107.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 107.
+) (sections/Resultat.tex
+
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
  We now make it that large for the rest of the document.
@@ -1756,32 +1757,17 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
->>>>>>> 5dc9781b42a7aff46a6439b191423fc1cd34d09a
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
-<<<<<<< HEAD
-=======
-[6]
+[9]
 Kapitel 4.
->>>>>>> 5dc9781b42a7aff46a6439b191423fc1cd34d09a
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
-<<<<<<< HEAD
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1 \chapter
-            {Indledning}\label{ch:introduction} [1
-
-]
-Kapitel 1.
-=======
-) (./sections/conclusion.tex
+) (sections/conclusion.tex
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
@@ -1790,43 +1776,17 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
- [7
+ [10
 
 ]
 Kapitel 5.
->>>>>>> 5dc9781b42a7aff46a6439b191423fc1cd34d09a
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 1.
-<<<<<<< HEAD
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 2.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 2.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 2.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 2.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 2.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 2.
-LaTeX Font Info:    Try loading font information for OMS+pplx on input line 5.
-LaTeX Font Info:    No file OMSpplx.fd. on input line 5.
-
-LaTeX Font Warning: Font shape `OMS/pplx/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 5.
-
-)
-
-LaTeX Warning: Empty bibliography on input line 19.
-=======
 )
 
 LaTeX Warning: Empty bibliography on input line 22.
->>>>>>> 5dc9781b42a7aff46a6439b191423fc1cd34d09a
 
 \tf@thm=\write7
 \openout7 = `master.thm'.
@@ -1834,31 +1794,14 @@ LaTeX Warning: Empty bibliography on input line 22.
 
 AED: lastpage setting LastPage
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 22.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 22.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 22.
-Package babel Info: Redefining danish shorthand "~
-<<<<<<< HEAD
-(babel)             in language  on input line 22.
-[2
-
-]
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 22.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 22.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 22.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 22.
- (master.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 22.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 22.
-Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: F5B199102D254A42675D5C0339C69370;97.
-=======
 (babel)             in language  on input line 25.
-[8
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 25.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 25.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 25.
+[11
 
 ]
 Package babel Info: Redefining danish shorthand "|
@@ -1867,12 +1810,11 @@ Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 25.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 25.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 25.
- (./master.aux)
+ (master.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 25.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 25.
 Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: A575B4E9F32ABCFD17FAAAC714E22795;1046.
->>>>>>> 5dc9781b42a7aff46a6439b191423fc1cd34d09a
+(rerunfilecheck)             Checksum: 6D5B7583E4FB0B76B81C2ABA679F1256;1148.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1883,49 +1825,30 @@ Package logreq Info: Writing requests to 'master.run.xml'.
  )
 (\end occurred when \iftrue on line 9 was incomplete) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 24714 strings out of 493634
- 451986 string characters out of 3130342
- 752730 words of memory out of 3000000
- 27610 multiletter control sequences out of 15000+200000
- 61916 words of font info for 101 fonts, out of 3000000 for 9000
+ 24833 strings out of 493634
+ 453913 string characters out of 3130342
+ 756730 words of memory out of 3000000
+ 27665 multiletter control sequences out of 15000+200000
+ 63864 words of font info for 101 fonts, out of 3000000 for 9000
  1030 hyphenation exceptions out of 8191
- 64i,8n,56p,897b,1431s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Elgiganten Udlaa
-n/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Users/E
-lgiganten Udlaan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb><C:/Users/Elgiganten Udlaan/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/fpl/fplrc8a.pfb><C:/Users/Elgiganten Udlaan/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/Elgiganten Udlaan/
-AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users
-/Elgiganten Udlaan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/u
-plri8a.pfb>
-Output written on master.pdf (3 pages, 85348 bytes).
+ 64i,11n,77p,897b,1431s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Elgiganten Udla
+an\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk>{C:/
+Users/Elgiganten Udlaan/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontn
+ame/8r.enc}<C:/Users/Elgiganten Udlaan/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Elgiganten Udlaan/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Elgigante
+n Udlaan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmr.pf
+b><C:/Users/Elgiganten Udlaan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/mathpazo/fplmri.pfb><C:/Users/Elgiganten Udlaan/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Users/Elgiganten Udlaan/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/Elgigant
+en Udlaan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb
+><C:/Users/Elgiganten Udlaan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
+palatino/uplri8a.pfb>
+Output written on master.pdf (12 pages, 224846 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 500000)
- 34 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
- 24933 strings out of 494358
- 443700 string characters out of 6165337
- 767641 words of memory out of 5000000
- 27703 multiletter control sequences out of 15000+600000
- 58613 words of font info for 94 fonts, out of 8000000 for 9000
- 377 hyphenation exceptions out of 8191
- 64i,11n,56p,897b,1431s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/texlive/2015/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2015/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2015/texmf-dist/fonts/type1/
-public/mathpazo/fplmr.pfb><d:/texlive/2015/texmf-dist/fonts/type1/public/mathpa
-zo/fplmri.pfb><d:/texlive/2015/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><d
-:/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><d:/texlive/2015/
-texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><d:/texlive/2015/texmf-dist/font
-s/type1/urw/palatino/uplri8a.pfb>
-Output written on master.pdf (9 pages, 114774 bytes).
-PDF statistics:
- 181 PDF objects out of 1000 (max. 8388607)
- 159 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
- 146 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> 5dc9781b42a7aff46a6439b191423fc1cd34d09a
+ 276 PDF objects out of 1000 (max. 8388607)
+ 37 named destinations out of 1000 (max. 500000)
+ 159 words of extra memory for PDF output out of 10000 (max. 10000000)
 
