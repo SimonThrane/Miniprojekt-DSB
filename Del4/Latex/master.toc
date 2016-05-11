@@ -12,22 +12,30 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.0.3}IIR-filtre}{4}{subsection.2.0.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.0.4}Hanning vindue}{4}{subsection.2.0.4}
+\contentsline {subsection}{\numberline {2.0.4}FIR-filtre}{4}{subsection.2.0.4}
 \defcounter {refsection}{0}\relax 
+<<<<<<< HEAD
 \contentsline {chapter}{\numberline {3}Apperat}{5}{chapter.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}apperat}{5}{section.3.1}
+=======
+\contentsline {subsection}{\numberline {2.0.5}Hanning vindue}{4}{subsection.2.0.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Matlab kode for de forskellige funktioner}{5}{section.3.2}
+\contentsline {chapter}{\numberline {3}H\IeC {\o }reapperatet}{6}{chapter.3}
+>>>>>>> f605a977e66360ae36f078773b4e1115bbba1e36
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}FIR-B\IeC {\r a}ndpass funktion}{5}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.1}H\IeC {\o }reapperatet}{6}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}IIR-lowpass filter}{5}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.2}Matlab kode for de forskellige funktioner}{6}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.3}FIR-weight funktion}{5}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.1}FIR-B\IeC {\r a}ndpass funktion}{6}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Resultat}{6}{section.3.3}
+\contentsline {subsection}{\numberline {3.2.2}IIR-lowpass filter}{7}{subsection.3.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Resultat og Diskussion}{7}{chapter.4}
+\contentsline {subsection}{\numberline {3.2.3}Weight funktion}{9}{subsection.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Konklusion}{8}{chapter.5}
+\contentsline {section}{\numberline {3.3}Resultat}{9}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Resultat og Diskussion}{10}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Konklusion}{11}{chapter.5}

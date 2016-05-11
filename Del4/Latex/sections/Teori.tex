@@ -4,6 +4,7 @@ I opgaven er der brugt forskellige digitale filtre og redskaber til at implement
 \begin{itemize}
 \item Fast fourier transformation
 \item IIR-filtre
+\item FIR-filtre
 \item Hanning funktionen
 \end{itemize}
 
@@ -54,6 +55,13 @@ Dette kan ses af ligning \eqref{eq:IIR overforingsfunktion}, der viser overføri
 \end{equation}
 
 Som fremgår af ligning \eqref{eq:IIR overforingsfunktion} indeholder overføringsfunktionen både poler og nulpunkter. Det gælder for IIR-filtre, at de er stabile, hvis alle deres poler har en magnitude, der er mindre end 1 (Polerne lægger i enhedscirklen).
+
+\subsection{FIR-filtre}
+FIR står for Finite Implulse Response, hvilket betyder, at der er et endeligt antal af impulssvar.
+Dette kan man se, i ligning \eqref{eq:FIR}, der er diffrensligningen for et FIR filter.
+\begin{equation}\label{eq:FIR}
+{y(n)} = \displaystyle\sum_{k=0}^{M-1} {b_{k}*x(n-k)}
+\end{equation}
 
 \subsection{Hanning vindue}
 Hanning vinduet er en typisk vinduesfunktion med den matematiske funktions foreskrift:
