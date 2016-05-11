@@ -3,3 +3,41 @@
 \select@language {danish}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Indledning}{2}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Teori}{3}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.0.1}Equalizer}{3}{subsection.2.0.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.0.2}Z-transformation}{4}{subsection.2.0.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.0.3}FIR-filtre}{4}{subsection.2.0.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.0.4}IIR-filtre}{4}{subsection.2.0.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.0.5}Hanning vindue}{5}{subsection.2.0.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Audio Equalizer}{6}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Audio Equalizer}{6}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Matlab kode for de forskellige funktioner}{6}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}FIR-B\IeC {\r a}ndpass funktion}{6}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}IIR-lowpass filter}{7}{subsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.3}FIR-weight funktion}{8}{subsection.3.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Resultat}{9}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Resultat og Diskussion}{10}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.0.1}V\IeC {\ae }gtning p\IeC {\r a} (0,0,100,1,1)}{10}{subsection.4.0.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.0.2}V\IeC {\ae }gtning p\IeC {\r a} (10,100,0,1,1)}{11}{subsection.4.0.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.0.3}V\IeC {\ae }gtning p\IeC {\r a} (100,0,0,10,100)}{12}{subsection.4.0.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.0.4}V\IeC {\ae }gtning p\IeC {\r a} (1,10,0.1,0.1,1)}{13}{subsection.4.0.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Konklusion}{14}{chapter.5}

@@ -1,5 +1,5 @@
-\chapter{apperatet}\label{ch:apperatet}
-\section{apperatet}
+\chapter{Apperat}\label{ch:Apperat}
+\section{Hørerapperat}
 Hørerapperatet er som beskrevet i afsnit \ref{ch:Teori} bestående af båndpas-filtre. Der opdeler input-signalet i frekvensbånd, der bliver vægtet forskelligt før de bliver sat sammen til et output-signal.
 
 Der er blevet lavet et Matlab program, hvor der først bliver foretaget en Diskret Fourrier Transformation på indgangssignalet for at finde ud af, hvilke frekvenser indgangsignalet indeholder.
@@ -7,16 +7,11 @@ Efterfølgende bliver inputsignalet kørt igennem det fremstillede Hørerapperat
 \section{Matlab kode for de forskellige funktioner}
 \subsection{FIR-Båndpass funktion}
  
-\subsection{IIR-lowpass filter}
+\subsection{IIR-bandpass filter}
 Der blev designet et lavpas-filter i matlab ved brug af Matlabs Filter Design and Analysis Tool. Indstillingerne, der blev sat og det vedhæftede fase og amplitude response kan ses på billede 
-%\begin{figure}[H]
-%	\centering
-%	\includegraphics[width=150mm]{figures/FDATool.PNG}
-%	\caption{Design af IIR lavpas filter i FDA tools i matlab}
-%	\label{fig:FDAtools}
-%\end{figure}
 
-Filteret blev desginet med ønske i at skabe et IIR butterworth filter med en knækfrekvens på 10Hz og med en orden på 10. 
+
+Filteret blev desginet med ønske i at skabe et IIR butterworth filter med to knækfrekvens på 300Hz til 400 Hz og er andenorsdens. 
 Da filteret var designet blev koefficenterne exporteret til et matlab-fil, der blev benyttet i funktionen IIR-lowpass filter.
 
 Koden for IIR lavpas filter funktionen kan ses nedenuner:
@@ -25,11 +20,11 @@ Koden for IIR lavpas filter funktionen kan ses nedenuner:
 
 Equalizeren blev kørt med forskellige signaler, hvor der blev eksperimenteret med forskellige vægtning af de enkelte Båndpas-filtre samt frekvensbåndet de dækkede. Efter at havde eksperimenteret med de forskellige frekvensbånd blev det bestemt, at de enkelte frekvensbånd skulle dække følgende frekvensområder, der alle ligger i det hørbare frekvensområde:
 \begin{itemize}
-	\item Bånd 1 -
-	\item Bånd 2 -
-	\item Bånd 3 -
-	\item Bånd 4 -
-	\item Bånd 5 -
+	\item Bånd 1 - 300-400 Hz
+	\item Bånd 2 - 400-600 Hz
+	\item Bånd 3 - 600-1000 Hz
+	\item Bånd 4 - 1-2 kHz
+	\item Bånd 5 - 2-3.4 kHz
 \end{itemize}
 
 \section{Resultat}

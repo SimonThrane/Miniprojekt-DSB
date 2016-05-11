@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.1.6)  10 MAY 2016 13:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.1.6)  11 MAY 2016 09:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1520,24 +1520,24 @@ Package babel Info: Redefining danish shorthand "|
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 10.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 24.
+(babel)             in language  on input line 19.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 24.
+(babel)             in language  on input line 19.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 28.
+(babel)             in language  on input line 23.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 28.
+(babel)             in language  on input line 23.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 28.
+(babel)             in language  on input line 23.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 28.
+(babel)             in language  on input line 23.
 [5
 
 ]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 30.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 30.
 ) (./sections/Resultat.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1605,21 +1605,30 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 25.
  (./master.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 25.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 25.
-Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: A575B4E9F32ABCFD17FAAAC714E22795;1046.
 
+
+Package rerunfilecheck Warning: File `master.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `master.out':
+(rerunfilecheck)             Before: A575B4E9F32ABCFD17FAAAC714E22795;1046
+(rerunfilecheck)             After:  1DB0BDD41F1717B01FF66D9D5AA1F0F2;1042.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package logreq Info: Writing requests to 'master.run.xml'.
 \openout1 = `master.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24933 strings out of 494358
- 443700 string characters out of 6165337
+ 24934 strings out of 494358
+ 443712 string characters out of 6165337
  767641 words of memory out of 5000000
- 27703 multiletter control sequences out of 15000+600000
+ 27704 multiletter control sequences out of 15000+600000
  58613 words of font info for 94 fonts, out of 8000000 for 9000
  377 hyphenation exceptions out of 8191
  64i,11n,56p,897b,1431s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1631,7 +1640,7 @@ zo/fplmri.pfb><d:/texlive/2015/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><d
 :/texlive/2015/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><d:/texlive/2015/
 texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><d:/texlive/2015/texmf-dist/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on master.pdf (9 pages, 114774 bytes).
+Output written on master.pdf (9 pages, 114801 bytes).
 PDF statistics:
  181 PDF objects out of 1000 (max. 8388607)
  159 compressed objects within 2 object streams
