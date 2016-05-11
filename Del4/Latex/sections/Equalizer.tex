@@ -6,6 +6,7 @@ Der er blevet lavet et Matlab program, hvor der først bliver foretaget en Diskr
 Efterfølgende bliver inputsignalet kørt igennem det fremstillede Hørerapperats filter. Efter det er blevet kørt igennem filteret bliver output-signalet også Diskret Fourrier Transformeret, så der kan overskues, hvilke frekvenskarakteristika dette signal indeholder.
 \section{Matlab kode for de forskellige funktioner}
 \subsection{FIR-Båndpass funktion}
+
 \begin{verbatim}
  function [ output_signal, filter1] = FIR_bandpass_function(input_signal,fc1,fc2 )
  
@@ -161,6 +162,7 @@ output_signal = FIR_bandpass_function(output_signal,300,3400);
 
 
 \subsection{Horeapparat}
+
 \begin{verbatim}
 %Høreapparat
 
@@ -201,7 +203,6 @@ pause(10);
 soundsc(y,Fs);
 \end{verbatim}
 
-
 I koden ses det at der sker en vægtning i forskellige frekvensbånd, og denne vægtning kan bruges til at møde den individulles behov, men kan også ændre på hvilke frekvensområder de enkelte bånd dækker over. Dette betyder at folk med forskellige hørerproblemer, kan få tilpasset et hørerapperat til netop deres behov.
 
 
@@ -214,7 +215,7 @@ De følgende billeder viser hvordan originalsignalet er blevet manipuleret, så 
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=150mm]{figures/hoereapparat_resultat.PNG}}
+	\includegraphics[width=150mm]{figures/hoereapparat_resultat.PNG}
 	\caption{frekvenser i hhv. det filtrerede og originale signal}
 	\label{fig:Samlet frekvensplot}
 \end{figure}
@@ -225,7 +226,7 @@ På fig \ref{fig:Samlet frekvensplot} ses at der i det filtrerede signal er frek
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=150mm]{figures/indhold_i_band.PNG}}
+	\includegraphics[width=150mm]{figures/indhold_i_band.PNG}
 	\caption{Indhold i de forskellige frekvensbånd}
 	\label{fig:indholdiband}
 \end{figure}
