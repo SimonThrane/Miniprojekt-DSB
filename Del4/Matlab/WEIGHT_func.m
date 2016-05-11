@@ -11,15 +11,15 @@ a1=x.sosMatrix(:,6);
 
 [BP1, ~] = FIR_bandpass_function(input_signal, 400, 600);
 [BP2, ~] = FIR_bandpass_function(input_signal, 600, 1000);
-x1 = bp3; %1000-2000Hz
-b2=x1.sosMatrix(:,5);
-a2=x1.sosMatrix(:,6);
-[BP3] = filter(b2,a2,input_signal);
+ x1 = hoereapparat; %1000-2000Hz
+ b2=x1.sosMatrix(:,5);
+ a2=x1.sosMatrix(:,6);
+ [BP3] = filter(b2,a2,input_signal);
 
-x2 = IIR_highpas(); %2000-3400Hz
-b3=x2.sosMatrix(:,5);
-a3=x2.sosMatrix(:,6);
-[HP] = filter(b3,a3,input_signal);
+ x2 = IIR_highpas(); %2000-3400Hz
+ b3=x2.sosMatrix(:,5);
+ a3=x2.sosMatrix(:,6);
+ [HP] = filter(b3,a3,input_signal);
 
 % Vægt de 5 forskellige frekvens bånd, så de tilpasser sig til personens
 % individuelle behov:
@@ -42,10 +42,6 @@ plot(BP3);
 subplot(5,1,5)
 plot(HP);
 
-temp_signal = LP + BP1 + BP2;
+output_signal = LP + BP1 + BP2+ BP3+ HP;
 
-x3=hoereapparat();
-b4=x3.sosMatrix(:,5);
-a4=x3.sosMatrix(:,6);
-
-[output_signal] = filter(b4,a4,input_signal);
+%[output_signal] = filter(b4,a4,input_signal);

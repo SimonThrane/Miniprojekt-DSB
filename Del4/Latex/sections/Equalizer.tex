@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-\chapter{Apperat}\label{ch:Apperat}
-\section{Hørerapperat}
-=======
 \chapter{Høreapperatet}\label{ch:apperatet}
 \section{Høreapperatet}
->>>>>>> f605a977e66360ae36f078773b4e1115bbba1e36
 Hørerapperatet er som beskrevet i afsnit \ref{ch:Teori} bestående af båndpas-filtre. Der opdeler input-signalet i frekvensbånd, der bliver vægtet forskelligt før de bliver sat sammen til et output-signal.
 
 Der er blevet lavet et Matlab program, hvor der først bliver foretaget en Diskret Fourrier Transformation på indgangssignalet for at finde ud af, hvilke frekvenser indgangsignalet indeholder.
@@ -42,12 +37,10 @@ Efterfølgende bliver inputsignalet kørt igennem det fremstillede Hørerapperat
  
 \subsection{IIR-bandpass filter}
 Der blev designet et lavpas-filter i matlab ved brug af Matlabs Filter Design and Analysis Tool. Indstillingerne, der blev sat og det vedhæftede fase og amplitude response kan ses på billede 
-<<<<<<< HEAD
-
 
 Filteret blev desginet med ønske i at skabe et IIR butterworth filter med to knækfrekvens på 300Hz til 400 Hz og er andenorsdens. 
 Da filteret var designet blev koefficenterne exporteret til et matlab-fil, der blev benyttet i funktionen IIR-lowpass filter.
-=======
+
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=150mm]{figures/IIRlavpas.jpg}
@@ -57,7 +50,6 @@ Da filteret var designet blev koefficenterne exporteret til et matlab-fil, der b
 
 Filteret blev desginet med ønske i at skabe et IIR butterworth filter med en knækfrekvens på 10Hz og med en orden på 10. 
 Da filteret var designet blev filteret exporteret til en matlab-funktion gennem matlabs indbyggede code generator der blev benyttet i funktionen IIR-lowpass filter.
->>>>>>> f605a977e66360ae36f078773b4e1115bbba1e36
 
 Koden for IIR lavpas filter funktionen kan ses nedenuner:
 \begin{verbatim}
@@ -109,17 +101,21 @@ Høreapperatet blev kørt med forskellige signaler, hvor der blev eksperimentere
 	\item Bånd 1 - 300-400 Hz
 	\item Bånd 2 - 400-600 Hz
 	\item Bånd 3 - 600-1000 Hz
-<<<<<<< HEAD
-	\item Bånd 4 - 1-2 kHz
-	\item Bånd 5 - 2-3.4 kHz
-=======
 	\item Bånd 4 - 1000-2000Hz
 	\item Bånd 5 - 2000-3400 Hz
->>>>>>> f605a977e66360ae36f078773b4e1115bbba1e36
 \end{itemize}
 
 Koden til weight-funktionen:
+\begin{verbatim}
+
+\end{verbatim}
+
+\subsection{Høreapparat}
+\begin{verbatim}
+
+\end{verbatim}
 
 
 \section{Resultat}
-I dette afsnit fremstilles resultaterne af at køre Hørerapperatet på en række forskellige signaler.
+I dette afsnit fremstilles resultaterne af at køre Hørerapperatet på en række forskellige signaler. Signalet, der er blevet valgt at arbejde på er et lydklip af en nyhedsvært i stormvejr. I dette lydklip ønskes det at forstærke talen fra nyhedsværten og dæmpe baggrundsstøjen fra stormvejret.
+
