@@ -14,15 +14,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.0.4}FIR-filtre}{4}{subsection.2.0.4}
 \defcounter {refsection}{0}\relax 
-<<<<<<< HEAD
-\contentsline {chapter}{\numberline {3}Apperat}{5}{chapter.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}apperat}{5}{section.3.1}
-=======
 \contentsline {subsection}{\numberline {2.0.5}Hanning vindue}{4}{subsection.2.0.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}H\IeC {\o }reapperatet}{6}{chapter.3}
->>>>>>> f605a977e66360ae36f078773b4e1115bbba1e36
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}H\IeC {\o }reapperatet}{6}{section.3.1}
 \defcounter {refsection}{0}\relax 
@@ -30,12 +24,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.1}FIR-B\IeC {\r a}ndpass funktion}{6}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}IIR-lowpass filter}{7}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.2}IIR-bandpass filter}{7}{subsection.3.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2.3}Weight funktion}{9}{subsection.3.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Resultat}{9}{section.3.3}
+\contentsline {subsection}{\numberline {3.2.4}Horeapparat}{10}{subsection.3.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Resultat og Diskussion}{10}{chapter.4}
+\contentsline {section}{\numberline {3.3}Resultat}{11}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Konklusion}{11}{chapter.5}
+\contentsline {chapter}{\numberline {4}Resultat og Diskussion}{14}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Konklusion}{15}{chapter.5}
