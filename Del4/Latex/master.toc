@@ -32,6 +32,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.3}Resultat}{12}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Resultat og Diskussion}{14}{chapter.4}
+\contentsline {chapter}{\numberline {4}Resultat og Diskussion}{15}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Konklusion}{15}{chapter.5}
+\contentsline {chapter}{\numberline {5}Konklusion}{16}{chapter.5}

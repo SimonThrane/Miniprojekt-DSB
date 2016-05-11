@@ -49,9 +49,6 @@ Da filteret var designet blev koefficenterne exporteret til et matlab-fil, der b
 	\label{fig:FDAtools}
 \end{figure}
 
-Filteret blev desginet med ønske i at skabe et IIR butterworth filter med en knækfrekvens på 10Hz og med en orden på 10. 
-Da filteret var designet blev filteret exporteret til en matlab-funktion gennem matlabs indbyggede code generator der blev benyttet i funktionen IIR-lowpass filter.
-
 Koden for IIR lavpas filter funktionen kan ses nedenuner:
 \begin{verbatim}
 	function Hd = IIR_lavpas
@@ -211,6 +208,7 @@ I dette afsnit fremstilles resultaterne af at køre Hørerapperatet på en rækk
 
 
 De følgende billeder viser hvordan originalsignalet er blevet manipuleret, så frekvenserne i området 300-3400Hz er blevet forstærket mens de resterende frekvenser er blevet mindsket eller cuttet.   
+I dette eksempel er alle frekvensbåndene blevet forstærket. Det er dog tiltænkt at man kan øge styrken på de frekvenser som den enkelte måtte have behov for. På nedenstående billede i figur \ref*{fig:Samlet frekvensplot} ses det originale signal øverst og de manipulerede signal nederst.
 
 
 \begin{figure}[H]
@@ -223,6 +221,16 @@ De følgende billeder viser hvordan originalsignalet er blevet manipuleret, så 
 
 På fig \ref{fig:Samlet frekvensplot} ses at der i det filtrerede signal er frekvenserne indenfor bandpassende er forstærket, mens frekvenser udenfor er væsentligt dæmpet.\\
 
+Et andet eksempel kunne også være hvor man ønskede at det midterste bånd skulle øges mere i styrke end de andre bånd. Dette er lavet i figur \ref{fig:Samlet frekvensplot manipuleret}, hvor det igen gælder at det originale signal er øverst og de manipulerede signal er nederst.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=150mm]{figures/hoereapparat_resultat_forskelligvaegt.PNG}
+	\caption{frekvenser i hhv. det filtrerede og originale signal med anden vægtning}
+	\label{fig:Samlet frekvensplot manipuleret}
+\end{figure}
+
+Vægtning i figur \ref{fig:Samlet frekvensplot manipuleret} er dog meget ekstremt øget for det midterste bånd for at idéen i funktionen bliver tydeligere.
 
 
 \begin{figure}[H]

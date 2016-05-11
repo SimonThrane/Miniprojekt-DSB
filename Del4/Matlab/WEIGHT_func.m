@@ -29,18 +29,18 @@ BP2 = BP2 * weight3;
 BP3 = BP3 * weight4;
 HP = HP * weight5;
 
-clc;
-figure(1)
-subplot(5,1,1)
-plot(LP);
-subplot(5,1,2)
-plot(BP1);
-subplot(5,1,3)
-plot(BP2);
-subplot(5,1,4)
-plot(BP3);
-subplot(5,1,5)
-plot(HP);
+% clc;
+% figure(1)
+% subplot(5,1,1)
+% plot(LP);
+% subplot(5,1,2)
+% plot(BP1);
+% subplot(5,1,3)
+% plot(BP2);
+% subplot(5,1,4)
+% plot(BP3);
+% subplot(5,1,5)
+% plot(HP);
 
 output_signal = LP + BP1 + BP2+ BP3+ HP;
 
