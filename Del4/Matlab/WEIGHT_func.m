@@ -44,4 +44,6 @@ plot(HP);
 
 output_signal = LP + BP1 + BP2+ BP3+ HP;
 
+output_signal = FIR_bandpass_function(output_signal,300,3400);
+
 %[output_signal] = filter(b4,a4,input_signal);
